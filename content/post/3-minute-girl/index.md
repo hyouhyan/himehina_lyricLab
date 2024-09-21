@@ -1,5 +1,6 @@
 ---
 title: 3分ガール
+slug: 3-minute-girl
 categories:
     - Original
 ---
