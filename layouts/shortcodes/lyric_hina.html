@@ -1,4 +1,4 @@
 {{ $code := .Inner }}
 {{ $code := replace $code "  " "<br>" | safeHTML }}
 
-<p style="color:rgb(62, 184, 253)">{{$code}}</p>
+<span style="color:rgb(62, 184, 253)">{{$code}}</span>
