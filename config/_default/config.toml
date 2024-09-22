@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://lyric.hh.hyouhyan.com"
+baseurl = "https://himehina.hyouhyan.com"
 languageCode = "ja"
 title = "HIMEHINA Lyric LAB"
 
