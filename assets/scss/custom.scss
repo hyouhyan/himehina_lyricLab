@@ -1,3 +1,7 @@
 /*
     You can add your own custom styles here.
 */
+:root {
+    --ja-font-family: "游ゴシック体", "Yu Gothic", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo";
+    --base-font-family: "Lato", var(--sys-font-family), var(--ja-font-family), sans-serif;
+}
