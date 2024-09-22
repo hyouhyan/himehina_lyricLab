@@ -1,6 +1,7 @@
 ---
 title: Lady Crazy
 slug: lady-crazy
+tags: [wip]
 categories:
     - original
 ---
