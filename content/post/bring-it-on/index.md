@@ -1,6 +1,6 @@
 ---
 title: 劣等上等
-slug: bling-it-on
+slug: bring-it-on
 categories:
     - Cover
 ---
