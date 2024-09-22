@@ -9,8 +9,8 @@ since = 2020
 customText = ""
 
 [dateFormat]
-published = "2006年 Jan 02日"
-lastUpdated = "2006年 Jan 02日 15:04"
+published = "2006年 01月 02日"
+lastUpdated = "2006年 01月 02日 15:04"
 
 [sidebar]
 emoji = "🥕"
