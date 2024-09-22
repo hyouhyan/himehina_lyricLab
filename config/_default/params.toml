@@ -5,8 +5,8 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
-customText = ""
+since = 2024
+customText = "Made by <a href='https://x.com/hyouhyan'>Hyouhyan</a>"
 
 [dateFormat]
 published = "2006年 01月 02日"
