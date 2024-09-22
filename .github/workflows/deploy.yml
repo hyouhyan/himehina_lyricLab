@@ -19,6 +19,8 @@ jobs:
             - uses: actions/checkout@v4
               with:
                   fetch-depth: 0
+            - name: Set Timezone JST
+              run: timedatectl set-timezone Asia/Tokyo
 
             - name: Cache Hugo resources
               uses: actions/cache@v4
