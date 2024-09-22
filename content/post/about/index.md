@@ -9,13 +9,13 @@ weight: 1       # You can add weight to some posts to override the default sorti
 HIMEHINA Lyric LABでは、HIMEHINAの楽曲をオリジナル曲やカバー曲問わず、パート分けをした歌詞を掲載しています。
 
 パート分けはカラーリングで行っており、
-{{< lyric_hime >}}
+{{< hime >}}
 田中パートはこんな感じ
-{{< /lyric_hime >}}
+{{< /hime >}}
 で、
-{{< lyric_hina >}}
+{{< hina >}}
 鈴木パートはこんな感じ
-{{< /lyric_hina >}}
+{{< /hina >}}
 です。
 
 カラオケで歌う際などにご活用ください。
