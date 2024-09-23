@@ -7,11 +7,30 @@
 #icon = "home"
 #newtab = true
 
+
+[[main]]
+identifier = "original"
+name = "オリジナル曲"
+url = "/categories/original/"
+weight = 2
+
+[main.params]
+icon = "tag"
+
+[[main]]
+identifier = "cover"
+name = "カバー曲"
+url = "/categories/cover/"
+weight = 3
+
+[main.params]
+icon = "tag"
+
 [[main]]
 identifier = "categories"
 name = "Categories"
 url = "/categories"
-weight = 2
+weight = 4
 
 [main.params]
 icon = "categories"
