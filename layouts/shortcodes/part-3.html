@@ -1,16 +1,9 @@
 {{ $code := .Inner}}
 {{ $code := replace $code "  " "<br>" | safeHTML }}
 
-{{ $color := "rgb(0, 200, 81)" | safeCSS }}
-
-{{ $colorTrim := replace $color "rgb(" "" }}
-{{ $colorTrim := replace $colorTrim ")" "" }}
-
-{{ $rgba := printf "rgba(%s, 0.5)" $colorTrim | safeCSS }}
-
-{{ $colorStyle := printf "color:%s" $color  | safeCSS }}
+{{ $colorStyle := "color: var(--lyric-part-3-color)" | safeCSS }}
 {{ if eq (.Get 0) "b" }}
-{{ $colorStyle = printf "background: linear-gradient(transparent 80%%, %s 20%%);" $rgba| safeCSS }}
+{{ $colorStyle = "background: linear-gradient(transparent 80%, var(--lyric-part-3-background) 20%);" | safeCSS }}
 {{ end }}
 
 {{ if hasSuffix $code "\n\n" }}

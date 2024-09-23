@@ -6,4 +6,19 @@
 :root {
     --ja-font-family: "Noto Sans JP", "游ゴシック", "YuGothic", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     --base-font-family: "Lato", var(--sys-font-family), var(--ja-font-family), sans-serif;
+
+    --lyric-hime-color: rgb(253, 95, 138);
+    --lyric-hime-background: rgba(253, 95, 138, 0.5);
+
+    --lyric-hina-color: rgba(62, 184, 253);
+    --lyric-hina-background: rgba(62, 184, 253, 0.5);
+
+    --lyric-part-3-color: rgb(0, 200, 81);
+    --lyric-part-3-background: rgba(0, 200, 81, 0.5);
+
+    --lyric-part-4-color: rgb(153, 50, 204);
+    --lyric-part-4-background: rgba(153, 50, 204, 0.5);
+
+    --lyric-part-5-color: rgb(255, 165, 0);
+    --lyric-part-5-background: rgba(255, 165, 0, 0.5);
 }
