@@ -1,6 +1,6 @@
 ---
 title: 希織歌
-description: A description of this category
+description: 2nd Album「希織歌」 収録曲
 image:
 
 # Badge style

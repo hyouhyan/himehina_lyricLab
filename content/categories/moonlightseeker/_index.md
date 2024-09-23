@@ -1,6 +1,6 @@
 ---
 title: 提灯暗航
-description: A description of this category
+description: 3rd Album「提灯暗航」 収録曲
 image:
 
 # Badge style

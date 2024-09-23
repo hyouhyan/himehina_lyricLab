@@ -1,6 +1,6 @@
 ---
 title: 藍の華
-description: A description of this category
+description: 1st Album「藍の華」 収録曲
 image:
 
 # Badge style
