@@ -1,0 +1,7 @@
+{{ $code := .Inner}}
+{{ $code := replace $code "  " "<br>" | safeHTML }}
+{{ if in $code "\n\n" }}
+<p style="color:#008000">{{$code}}</p>
+{{ else }}
+<span style="color:#008000">{{$code}}</span>
+{{ end }}
