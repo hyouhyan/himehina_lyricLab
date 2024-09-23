@@ -1,10 +1,10 @@
 ---
-title: Lady Crazy
+title: "[WIP]Lady Crazy"
 slug: lady-crazy
 categories:
     - original
     - 4thalbum
-    - wip
+tags: [wip]
 ---
 
 L..L..L..LADY  
