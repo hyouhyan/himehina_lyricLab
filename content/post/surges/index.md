@@ -3,6 +3,7 @@ title: Surges
 slug: surges
 categories:
     - Cover
+tags: ["角巻わため"]
 ---
 
 {{< hime >}}田中パート  {{< /hime >}}
