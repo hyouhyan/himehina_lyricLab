@@ -1,10 +1,10 @@
 ---
-title: "[WIP]Lady Crazy"
+title: "Lady Crazy"
 slug: lady-crazy
 categories:
     - original
     - 4thalbum
-tags: [wip]
+tags: [live2024-08]
 ---
 
 L..L..L..LADY  
