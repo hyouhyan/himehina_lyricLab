@@ -1,7 +1,9 @@
 /*
     You can add your own custom styles here.
 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700&display=swap');
+
 :root {
-    --ja-font-family: "游ゴシック体", "Yu Gothic", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo";
+    --ja-font-family: "Noto Sans JP", "游ゴシック", "YuGothic", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     --base-font-family: "Lato", var(--sys-font-family), var(--ja-font-family), sans-serif;
 }
