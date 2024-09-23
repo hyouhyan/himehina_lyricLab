@@ -5,10 +5,12 @@ slug: about
 image: cover.jpg
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
-## HIMEHINA Lyric LABについて
-HIMEHINA Lyric LABでは、HIMEHINAの楽曲をオリジナル曲やカバー曲問わず、パート分けをした歌詞を掲載しています。
+## はおー！
+HIMEHINA Lyric LABへようこそ！  
+ここでは、HIMEHINA楽曲の歌詞を掲載しています。  
+[オリソン](/categories/original/)、[ウタミタ](/categories/cover/)問わずなるべく多くの楽曲を掲載していく予定です。
 
-パート分けはカラーリングで行っており、
+パート分けはカラーリングで行っており、  
 {{< hime >}}
 田中パートはこんな感じ
 {{< /hime >}}
@@ -18,14 +20,18 @@ HIMEHINA Lyric LABでは、HIMEHINAの楽曲をオリジナル曲やカバー曲
 {{< /hina >}}
 です。
 
-カラオケで歌う際などにご活用ください。
+カラオケジョジ会など、色んなシーンでぜひお使いください！  
+
 
 ## 運営者
 
 運営は[ひょうひゃん](https://twitter.com/hyouhyan)が 1人で行っています。  
-更新はだいぶのんびりですのでご了承ください。  
+更新はのんびりですのでご了承ください。  
 
-誤字やご要望などありましたら、お気軽に[Twitter](https://twitter.com/hyouhyan)のDMまでお知らせください。  
+ちなみに、管理人は音楽知識が素人レベルなので、普通にミスがあるかもしれません。  
+ミスを見つけた場合は、お気軽に[Twitter](https://twitter.com/hyouhyan)のDMに連絡してください。  
+他にも「この曲入れてほしい！」みたいな要望などもお待ちしています。
+
 DMを送れない場合は、[hyouhyan@hyouhyan.com](mailto:hyouhyan@hyouhyan.com)までメールでご連絡ください。  
 
 (詳しい方は[GitHub](https://github.com/hyouhyan/himehina_lyricLab)にPull Requestを送っていただいても構いません。)
