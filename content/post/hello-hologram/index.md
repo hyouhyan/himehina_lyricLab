@@ -4,7 +4,6 @@ slug: hello-hologram
 categories:
     - original
     - 3rdalbum
-    - WIP
 ---
 
 What you watch  
