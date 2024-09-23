@@ -89,6 +89,15 @@ Warara word world
 憎まれは{{< ruby "ホマ" >}}誉{{< /ruby >}}れだと悟る眼鏡の裏  
 危険な顔バレ 晒されたら {{< ruby "ネムル" >}}ZZZ{{< /ruby >}}屍  
 
+{{< hina >}}
+(全員で声出してくよ)
+{{< /hina >}}
+
+Wo We Wo, Wo Wo We Wo  
+Wo We Wo, Wo Wo We Wo   
+Wo We Wo, Wo Wo We Wo  
+Wo We Wo, Wo Wo We Wo  
+
 {{< hime >}}
 {{< ruby "カラマ" >}}搦舞{{< /ruby >}}った{{< ruby "ヘンキョウ" >}}偏狂{{< /ruby >}}  
 {{< /hime >}}
@@ -102,11 +111,26 @@ Honey come! {{< ruby "ダテンセイ" >}}堕転生{{< /ruby >}} Trap Girl は
 逃げ{{< ruby "リャンセ" >}}来世{{< /ruby >}}？追え！封囲網  
 {{< /hina >}}
 
-レイデイス＆ジエントルメン  
-プリイズ炎上 In the Paradiso Waradiso  
+{{< hina >}}
+久しぶりのライブで  
+こうやってみんなで  
+声出せるのがとても嬉しい  
+
+{{< /hina >}}
+
+{{< hime >}}
+昇天しちゃいそう  
+豹変しちゃいそう  
+今日天井突破して  
+もう{{< ruby "キョウテンドウチ" >}}驚天動地{{< /ruby >}}  
+大宮に降臨 Fallin' HIMEHINAは  
+
+{{< /hime >}}
 
 薔薇色だが我血は {{< ruby "ダブガタ" >}}W 型{{< /ruby >}}  
 {{< ruby "カ" >}}噛{{< /ruby >}}ぶ牙から{{< ruby "コボ" >}}溢{{< /ruby >}}れる{{< ruby "ワルワルワラ" >}}惡÷笑{{< /ruby >}}  
+我々今夜はリアルもネットも  
+わらわら集まりお祭り騒ぎだ
 
 "{{< ruby "ダブダブ" >}}WWW{{< /ruby >}}"
 
@@ -127,6 +151,11 @@ Honey come! {{< ruby "ダテンセイ" >}}堕転生{{< /ruby >}} Trap Girl は
 {{< hina >}}
 Warara word world  
 {{< /hina >}}
+
+アイラッカ、アイラッカ  
+アイラッカ、アイラッカ  
+
+ハイ  
 
 薔薇色だが我血は{{< ruby "ダブガタ" >}}W型{{< /ruby >}}  
 {{< ruby "カ" >}}噛{{< /ruby >}}ぶ牙から{{< ruby "コボ" >}}溢{{< /ruby >}}れる{{< ruby "ワルワルワラ" >}}惡÷笑{{< /ruby >}}  
