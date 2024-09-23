@@ -19,4 +19,5 @@ pagerSize = 5
 
 enableGitInfo = true
 [frontmatter]
-date = ":git"
+date = ["date", ":git"]
+lastmod = ["lastmod",":git"]
