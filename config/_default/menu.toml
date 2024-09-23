@@ -15,7 +15,7 @@ url = "/categories/original/"
 weight = 3
 
 [main.params]
-icon = "tag"
+icon = "music"
 
 [[main]]
 identifier = "cover"
@@ -24,7 +24,7 @@ url = "/categories/cover/"
 weight = 4
 
 [main.params]
-icon = "tag"
+icon = "music"
 
 [[main]]
 identifier = "categories"
