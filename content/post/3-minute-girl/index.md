@@ -8,9 +8,12 @@ categories:
 This is the final call for challengers.  
 You have three minutes to comply. Ready?  
 
+{{< hina >}}
 3分間ほら厳守で語る人生投げ掛けが有るネって  
 そりゃ駄場駄場(ダバダバ)  
 陰火(インカ)のカーニバルならば掲げろ導灯時間(ドウトウタイム)だ  
+
+{{< /hina >}}
 
 {{< hime >}}
 今輝かなきゃほら少女(ガール)よ　夢か息か生きる価値選んで  
