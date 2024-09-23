@@ -3,6 +3,7 @@ title: 3分ガール
 slug: 3-minute-girl
 categories:
     - Original
+    - kiryca
 ---
 
 This is the final call for challengers.  

@@ -3,6 +3,7 @@ title: GOLDEN
 slug: golden
 categories:
     - Original
+    - moonlightseeker
 ---
 
 {{< hime >}}
