@@ -17,5 +17,6 @@ disqusShortname = "hugo-theme-stack"
 [pagination]
 pagerSize = 5
 
+enableGitInfo = true
 [frontmatter]
-date = ":fileModTime"
+date = ":git"
