@@ -4,6 +4,7 @@ slug: gehenna
 categories:
     - Cover
 tags: ["健屋花那"]
+release: 2024-05-17 
 ---
 
 {{< hime >}}田中ヒメパート  {{< /hime >}}
@@ -170,3 +171,8 @@ DNAという聖書
 そして本当に悲しいけれど  
 {{< /hina >}}
 苦しみだけが絆なんだ  
+
+
+---
+
+{{< youtube zDp89vQ6LZs >}}

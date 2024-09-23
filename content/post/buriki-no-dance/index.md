@@ -4,6 +4,7 @@ slug: buriki-no-dance
 categories:
     - Cover
 tags: ["戌亥とこ", "町田ちま"]
+release: 2024-07-19
 ---
 {{< hime >}}田中ヒメパート  {{< /hime >}}
 {{< hina >}}鈴木ヒナパート  {{< /hina >}}
@@ -190,3 +191,7 @@ tags: ["戌亥とこ", "町田ちま"]
 もう 漠然と九番目が盲如く  
 
 御手々を拝借 ブリキノダンス  
+
+---
+
+{{< youtube u6OKRQDpC_s >}}

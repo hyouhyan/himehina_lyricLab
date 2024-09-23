@@ -3,6 +3,7 @@ title: 幽霊東京
 slug: ghost-city-tokyo
 categories:
     - Cover
+release: 2024-09-06
 ---
 
 {{< hime >}}
@@ -99,3 +100,8 @@ categories:
 生きていたいと思うから  
 
 君もそうでしょ  
+
+
+---
+
+{{< youtube 6xk7bstyhF0 >}}

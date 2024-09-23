@@ -3,6 +3,7 @@ title: メズマライザー
 slug: mesmerizer
 categories:
     - Cover
+release: 2024-08-16 
 ---
 
 {{< hime >}}
@@ -124,3 +125,7 @@ categories:
 だから、適度にね  
 
 {{< /hina >}}
+
+---
+
+{{< youtube IpATDVy9nRw >}}

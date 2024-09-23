@@ -3,6 +3,7 @@ title: ネバーフィクション
 slug: never-fiction
 categories:
     - Cover
+release: 2024-09-20
 ---
 {{< hime >}}
 さらって 笑って  
@@ -69,3 +70,8 @@ categories:
 明日に人に捧ぐ愛の歌  
 {{< /hime >}}
 やがて 花が咲き 枯れて  
+
+
+---
+
+{{< youtube OahAk0Osdoc >}}

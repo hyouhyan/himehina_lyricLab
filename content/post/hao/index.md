@@ -3,6 +3,7 @@ title: ハオ
 slug: hao
 categories:
     - Cover
+release: 2024-06-28
 ---
 
 これでいいなのだ 好好好  
@@ -126,3 +127,7 @@ BAD駄々っ子 ぱーりない
 言ったらいいじゃん せーので好好好  
 
 これでいいなのだ 好好好  
+
+---
+
+{{< youtube DlvdVRnlhVo >}}

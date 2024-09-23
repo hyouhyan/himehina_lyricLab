@@ -4,6 +4,7 @@ slug: surges
 categories:
     - Cover
 tags: ["角巻わため"]
+release: 2024-08-23
 ---
 
 {{< hime >}}田中パート  {{< /hime >}}
@@ -94,3 +95,7 @@ tags: ["角巻わため"]
 描いた未来のその先の空を貫く  
 {{< /part-5 >}}
 僕たちの“最高”を目指して征け  
+
+
+---
+{{< youtube Tabx6hI0YX4 >}}
