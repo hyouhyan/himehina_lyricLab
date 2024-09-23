@@ -3,6 +3,7 @@ title: アスノヨゾラ哨戒班
 slug: asuno-yozora-syoukaihan
 categories:
     - Cover
+release: 2024-07-12
 ---
 {{< hina >}}
 気分次第です僕は 敵を選んで戦う少年  
@@ -62,3 +63,7 @@ categories:
 今日の日をいつか 
 {{< /hina >}}
 思い出せ未来の僕ら！  
+
+---
+
+{{< youtube 7Hk3WLadcMI >}}

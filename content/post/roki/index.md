@@ -3,6 +3,7 @@ title: ロキ
 slug: roki
 categories:
     - Cover
+release: 2018-11-09
 ---
 {{< hime >}}
 「まーてぇー！」  
@@ -284,3 +285,7 @@ Don't stop! don't stop!
 「タララララー」  
 
 ごきげんよう！
+
+
+---
+{{< youtube mtb-qa8xvFU >}}
