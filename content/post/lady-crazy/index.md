@@ -38,8 +38,8 @@ LADY CRAZY LADY!!
 BABY, YOU are MY KING?  
 {{< /hime >}}
 
-生くと死の DEATH GAME に乗らされた人間様  
-生命(イノチ)は平等という刷り込みを語る尊師尊顔にゃ  
+生くと死の {{< ruby "デスゲーム" >}}DEATH GAME{{< /ruby >}} に乗らされた人間様  
+{{< ruby "イノチ" >}}生命{{< /ruby >}}は平等という刷り込みを語る{{< ruby "ソンシソンガン" >}}尊師尊顔{{< /ruby >}}にゃ  
 崇めたまえ頭さげたまえ(ハァ…)  
 とか言われて従順  狂ってるって HAPPY HAPPY  
 
@@ -65,7 +65,7 @@ LADY CRAZY SHOT! {{< hina >}}君に映る  {{< /hina >}}
 Ahhh...CRAZY...  
 
 誰かの笑顔食って食って  
-贖罪には邪夢(ジャム)を塗って  
+贖罪には{{< ruby "ジャム" >}}邪夢{{< /ruby >}}を塗って  
 現実から逃げといでと  
 愛を絡め綴る  
 
@@ -134,7 +134,7 @@ LADY CRAZY SHOT! {{< hina >}}愛をあげる  {{< /hina >}}
 {{< hina >}}BABY, BABY, {{< hime >}}Aow!{{< /hime >}} 夢をあげる  {{< /hina >}}
 
 LADY CRAZY {{< hime >}}VIRTUAL でいいのね  {{< /hime >}}
-LADY CRAZY {{< hime >}}VIRUS な《接射》(キス)で  {{< /hime >}}
+LADY CRAZY {{< hime >}}VIRUS な《{{< ruby "キス" >}}接射{{< /ruby >}}》で  {{< /hime >}}
 {{< hina >}}狂人{{< /hina >}} Be the ONE LOVE!!  
 {{< hina >}}狂人{{< /hina >}} Be the ONE LOVE!!  
 カランコロンアラワタシモアナタニ FALL DOWN ♥  
