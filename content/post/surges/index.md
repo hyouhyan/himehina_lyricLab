@@ -1,5 +1,5 @@
 ---
-title: Surges
+title: Surges (feat. 角巻わため)
 slug: surges
 categories:
     - Cover
@@ -8,9 +8,7 @@ tags: ["角巻わため"]
 
 {{< hime >}}田中パート  {{< /hime >}}
 {{< hina >}}鈴木パート  {{< /hina >}}
-{{< part-5 >}}わためパート{{< /part-5 >}}
-
-{{< hime >}}{{< hina b >}}ハモリ(ヒメヒナ){{< /hina >}}{{< /hime >}}
+{{< part-5 >}}わためパート  {{< /part-5 >}}
 
 ---
 

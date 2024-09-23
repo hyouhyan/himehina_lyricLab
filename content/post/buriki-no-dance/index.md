@@ -1,5 +1,5 @@
 ---
-title: ブリキノダンス
+title: ブリキノダンス (feat. Nornis(戌亥とこ, 町田ちま))
 slug: buriki-no-dance
 categories:
     - Cover

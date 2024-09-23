@@ -1,5 +1,5 @@
 ---
-title: ジェヘナ
+title: ジェヘナ (feat. 健屋花那)
 slug: gehenna
 categories:
     - Cover
