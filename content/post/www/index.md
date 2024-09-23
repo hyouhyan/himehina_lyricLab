@@ -30,7 +30,7 @@ Wah {{< ruby "レンジョウ" >}}憐情{{< /ruby >}}はくれん世ならば
 R♡R♡R{{< ruby "レンジョウ" >}}恋情{{< /ruby >}}集め{{< ruby "ケンダ" >}}鍵打{{< /ruby >}}よ  
 Ka+Ta+Ta+Ta+Ta  
 ほら見な {{< ruby "ブ" >}}打{{< /ruby >}}った指から漏れる  
-ブラフは LIE & LOVE, LIE & LOVE  
+ブラフは {{< ruby "ラララ">}}LIE & LOVE{{< /ruby >}}, {{< ruby "ラララ">}}LIE & LOVE{{< /ruby >}}  
 
 {{< /hime >}}
 
