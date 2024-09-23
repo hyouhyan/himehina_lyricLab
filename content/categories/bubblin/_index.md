@@ -1,10 +1,10 @@
 ---
-title: Bubblin
+title: 提灯暗航
 description: A description of this category
 image:
 
 # Badge style
 style:
-    background: "#b100cd"
+    background: "#e27602"
     color: "#fff"
 ---
