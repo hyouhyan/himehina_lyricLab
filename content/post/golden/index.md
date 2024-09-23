@@ -3,7 +3,7 @@ title: GOLDEN
 slug: golden
 categories:
     - Original
-    - moonlightseeker
+    - 3rdalbum
 ---
 
 {{< hime >}}

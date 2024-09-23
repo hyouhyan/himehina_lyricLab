@@ -3,7 +3,7 @@ title: 3分ガール
 slug: 3-minute-girl
 categories:
     - Original
-    - kiryca
+    - 2ndalbum
 ---
 
 This is the final call for challengers.  
