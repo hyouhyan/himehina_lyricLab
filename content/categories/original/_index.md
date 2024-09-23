@@ -1,6 +1,5 @@
 ---
 title: オリジナル曲
-description: A description of this category
 image:
 
 # Badge style

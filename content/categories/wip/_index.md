@@ -1,6 +1,6 @@
 ---
 title: WIP
-description: A description of this category
+description: パート分けなどが未完成の記事
 image:
 
 # Badge style

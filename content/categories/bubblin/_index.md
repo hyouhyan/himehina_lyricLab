@@ -1,6 +1,6 @@
 ---
 title: Bubblin
-description: A description of this category
+description: 4th Album「Bubblin」 収録曲
 image:
 
 # Badge style
