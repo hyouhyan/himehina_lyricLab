@@ -3,6 +3,7 @@ title: Lady Crazy
 slug: lady-crazy
 categories:
     - original
+    - Bubblin
     - wip
 ---
 
