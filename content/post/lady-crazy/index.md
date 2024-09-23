@@ -16,14 +16,26 @@ LADY CRAZY SHOT!!
 
 Che, Che, Cheese  
 
+{{< hime >}}
 誰が狂ってるってるって?  
+{{< /hime >}}
+{{< hina >}}
 我が狂ってるってるって?  
+{{< /hina >}}
+{{< hime >}}
 ならそりゃほら呼んでや  
+{{< /hime >}}
 LADY CRAZY LADY!!  
+{{< hina >}}
 王様だってもう狂って  
+{{< /hina >}}
+{{< hime >}}
 獣のようにもう狂って  
-L..L..Like this... Aow! Aow! Aow!  
+{{< /hime >}}
+{{< hina >}}L..L..Like this... {{< /hina >}}Aow! Aow! Aow!  
+{{< hime >}}
 BABY, YOU are MY KING?  
+{{< /hime >}}
 
 生くと死の DEATH GAME に乗らされた人間様  
 生命(イノチ)は平等という刷り込みを語る尊師尊顔にゃ  
@@ -32,19 +44,21 @@ BABY, YOU are MY KING?
 
 (オウエオエー オアラオエオー アラオエオー アウワエレオー)  
 
+{{< hina >}}
 脳触に委ね涎  
 蕩けて裸愛裸愛な顔を見せてよ  
+{{< /hina >}}
 
 Che, Che, Cheese
 
 LADY CRAZY POP! Oh, LOLO LOLOLOLO  
-LADY CRAZY SHOT! 愛をあげる  
-狂おしいほど狂られたのね  
-BABY, BABY, Aow! 夢をあげる  
+LADY CRAZY SHOT! {{< hime >}}愛をあげる  {{< /hime >}}
+{{< hina >}}狂おしいほど狂られたのね  {{< /hina >}}
+{{< hime >}}BABY, BABY, Aow! 夢をあげる  {{< /hime >}}
 
-LADY CRAZY is BAD!! あざとし LOVER よ  
-LADY CRAZY SHOT! 君に映る  
-狂人 Be the ONE LOVE!! 狂人 Be the ONE LOVE!!  
+LADY CRAZY is BAD!! {{< hina >}}あざとし LOVER よ  {{< /hina >}}
+LADY CRAZY SHOT! {{< hina >}}君に映る  {{< /hina >}}
+{{< hina >}}狂人 Be the ONE LOVE!! 狂人 Be the ONE LOVE!!  {{< /hina >}}
 カランコロンアラホラマタアナタガ FALL DOWN ♥  
 
 Ahhh...CRAZY...  
@@ -57,15 +71,21 @@ Ahhh...CRAZY...
 一度の人生なら美味しいのがいいでしょ?  
 食べてあげる  
 
+{{< hime >}}
 Aow! 現れてアブラカダブラ  
 出でよ LADY よ願いよ叶えてよ  
+{{< /hime >}}
+{{< hina >}}
 お望みは我の奴隷?  
 ならほら崇めたまえ歌え歌え  
+{{< /hina >}}
 
 (オウエオエー オアラオエオー アラオエオー アウワエレオー)  
 
+{{< hime >}}
 強欲に委ねたのね  
 惚けた駄目駄目の顔を見せてよ  
+{{< /hime >}}
 
 Che, Che, Che, Che, Che, Che, Cheese  
 
@@ -87,24 +107,35 @@ BACK to the CRAZY!!
 L..L..LADY Cr..Cr..Cr..CRAZY L..  
 SHOT!!  
 
+{{< hime >}}
 LADY CRAZY 僕らの生は  
+{{< /hime >}}
+{{< hina >}}
 LADY CRAZY いつかは終わる  
+{{< /hina >}}
+{{< hime >}}
 LADY CRAZY ならば自由を喰らうために狂うの  
+{{< /hime >}}
+{{< hina >}}
 (LADY)  
-LADY CRAZY LOVE Oh... ohoh oooo  
-LADY CRAZY 天国をあげる  
+{{< /hina >}}
+{{< hime >}}LADY CRAZY LOVE{{< /hime >}} Oh... ohoh oooo  
+{{< hime >}}LADY CRAZY{{< /hime >}} 天国をあげる  
+{{< hina >}}
 狂った愛で  微笑んでいて  
+{{< /hina >}}
 
 Che, Che, Cheese  
 
 LADY CRAZY POP! Oh, LOLO LOLOLOLO  
-LADY CRAZY SHOT! 愛をあげる  
+LADY CRAZY SHOT! {{< hina >}}愛をあげる  {{< /hina >}}
 狂おしいほど狂られたのね  
-BABY, BABY, Aow! 夢をあげる  
+{{< hina >}}BABY, BABY, {{< hime >}}Aow!{{< /hime >}} 夢をあげる  {{< /hina >}}
 
-LADY CRAZY VIRTUAL でいいのね  
-LADY CRAZY VIRUS な《接射》(キス)で  
-狂人 Be the ONE LOVE!!  狂人 Be the ONE LOVE!!  
+LADY CRAZY {{< hime >}}VIRTUAL でいいのね  {{< /hime >}}
+LADY CRAZY {{< hime >}}VIRUS な《接射》(キス)で  {{< /hime >}}
+{{< hina >}}狂人{{< /hina >}} Be the ONE LOVE!!  
+{{< hina >}}狂人{{< /hina >}} Be the ONE LOVE!!  
 カランコロンアラワタシモアナタニ FALL DOWN ♥  
 
 LOL  
