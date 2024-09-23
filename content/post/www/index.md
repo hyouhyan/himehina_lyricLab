@@ -1,9 +1,10 @@
 ---
-title: WWW
+title: "[WIP]WWW"
 slug: www
 categories:
     - Original
     - 3rdalbum
+tags: [wip]
 ---
 
 レイデイス＆ジエントルメン  
@@ -13,34 +14,34 @@ categories:
 嗤われ流るは また来世  
 
 Warara up on web  
-Ah 己等 借り物の殻は心魂の皮に化粧  
+Ah {{< ruby "ウララ" >}}己等{{< /ruby >}} {{< ruby "レンタル" >}}借り物{{< /ruby >}}の殻は{{< ruby "メンタル" >}}心魂{{< /ruby >}}の皮に{{< ruby "ゲショウ" >}}化粧{{< /ruby >}}  
 Pa+Ta+Ta+Ta+Ta  
-ほら見な 酔った法螺奴等  
+ほら見な 酔った{{< ruby "ホラメラ" >}}法螺奴等{{< /ruby >}}  
 ハマったら抜けん Worldwide Weird Web  
 
-Wah 憐情はくれん世ならば  
-R♡R♡R恋情集め鍵打よ  
+Wah {{< ruby "レンジョウ" >}}憐情{{< /ruby >}}はくれん世ならば  
+R♡R♡R{{< ruby "レンジョウ" >}}恋情{{< /ruby >}}集め{{< ruby "ケンダ" >}}鍵打{{< /ruby >}}よ  
 Ka+Ta+Ta+Ta+Ta  
-ほら見な 打った指から漏れる  
+ほら見な {{< ruby "ブ" >}}打{{< /ruby >}}った指から漏れる  
 ブラフは LIE & LOVE, LIE & LOVE  
 
-捏造の証明せよ？  
+{{< ruby "フェイク" >}}捏造{{< /ruby >}}の証明せよ？  
 非現実世界にゃ出生も本籍もないが  
 問われるなら？生まれた地/血の正体は？  
 Q. Unknown, where are you from?  
 A. Underground 草原郷  
 名は？ WHAT? WAHT? WHAT? WHAT?  
 
-"WWW"
+"{{< ruby "ダブダブ" >}}WWW{{< /ruby >}}"
 
-我ったら生は WWW だ  
-絡まった DNA は Real × Net の Double  
-殻は裸 駄法螺 混ぜらば  
+{{< ruby "ワ" >}}我{{< /ruby >}}ったら生は {{< ruby "ダブダブ" >}}WWW{{< /ruby >}} だ  
+絡まった {{< ruby "ラセン" >}}DNA{{< /ruby >}} は {{< ruby "リアルネ" >}}Real × Net{{< /ruby >}} の Double  
+{{< ruby "キャラ" >}}殻{{< /ruby >}}は{{< ruby "アラワ" >}}裸{{< /ruby >}} {{< ruby "ダボラ" >}}駄法螺{{< /ruby >}} 混ぜらば  
 Rad-rad! 生まれ変わる！Word up!  
 
-我ったら生は WWW だ  
-絡まった罵声が群れる Ego 穢土  
-わら蹴り遊ばせ ABC ららば XYZ 也  
+{{< ruby "ワ">}}我{{< /ruby >}}ったら生は {{< ruby "ダブダブ" >}}WWW{{< /ruby >}} だ  
+絡まった{{< ruby "バセイ" >}}罵声{{< /ruby >}}が群れる {{< ruby "エゴエド" >}}Ego 穢土{{< /ruby >}}  
+わら蹴り遊ばせ {{< ruby "アバカ" >}}ABC{{< /ruby >}} ららば {{< ruby "サイゴ" >}}XYZ{{< /ruby >}} 也  
 Warara word world  
 
 脳の中ちょっと  
