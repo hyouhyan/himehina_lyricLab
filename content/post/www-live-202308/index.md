@@ -1,20 +1,21 @@
 ---
-title: "WWW"
-slug: www
+title: "WWW LIVE2023「提灯暗航、夏をゆく」"
+slug: www-live-202308
 categories:
     - Original
     - 3rdalbum
+tags: ["Live", "live2023"]
 ---
 
 レイデイス＆ジエントルメン  
-プリイズ炎上 In the Paradiso Waradiso  
-{{< hime >}}
-行きはよいよい帰りはわらい  
-{{< /hime >}}
+HIMEHINA LIVE Paradiso Waradiso へようこそ  
 {{< hina >}}
-わらいながらも通りゃんせ  
+今宵叫ぶは心の叫び  
 {{< /hina >}}
-嗤われ流るは また来世  
+{{< hime >}}
+うたいたければ大声で  
+{{< /hime >}}
+皆様一緒におどりゃんせ  
 
 Warara up on web  
 Ah 
@@ -40,14 +41,11 @@ Ka+Ta+Ta+Ta+Ta
 問われるなら？生まれた{{< ruby "チ" >}}地/血{{< /ruby >}}の正体は？  
 {{< /hina >}}
 {{< hime >}}
-Q. Unknown, where r u from?  
+インターネット生まれ、インターネット育ちだぞバカ野郎！  
 {{< /hime >}}
 {{< hina >}}
-A. Underground 草原郷  
+大宮まで飛んでってやるぜ！  
 {{< /hina >}}
-{{< hime >}}
-名は？ WHAT? WAHT? WHAT? WHAT?  
-{{< /hime >}}
 
 "{{< ruby "ダブダブ" >}}WWW{{< /ruby >}}"
 
@@ -90,11 +88,6 @@ Warara word world
 {{< ruby "ダブダブ" >}}WWW{{< /ruby >}} 生まれ 歪んだ言葉で  
 憎まれは{{< ruby "ホマ" >}}誉{{< /ruby >}}れだと悟る眼鏡の裏  
 危険な顔バレ 晒されたら {{< ruby "ネムル" >}}ZZZ{{< /ruby >}}屍  
-
-Wo We Wo, Wo Wo We Wo  
-Wo We Wo, Wo Wo We Wo   
-Wo We Wo, Wo Wo We Wo  
-Wo We Wo, Wo Wo We Wo  
 
 {{< hime >}}
 {{< ruby "カラマ" >}}搦舞{{< /ruby >}}った{{< ruby "ヘンキョウ" >}}偏狂{{< /ruby >}}  
