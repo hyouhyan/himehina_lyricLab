@@ -38,7 +38,7 @@ DMを送れない場合は、[hyouhyan@hyouhyan.com](mailto:hyouhyan@hyouhyan.co
 
 
 ## 免責事項
-本サイトは非公式のファンサイトであり、HIMEHINA公式のものではありません。  
+本サイトは非公式のファンサイトであり、[HIMEHINA公式](https://himehina.jp/)のものではありません。  
 歌詞の著作権はそれぞれの楽曲の権利者に帰属します。  
 
 ##### Cover Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
