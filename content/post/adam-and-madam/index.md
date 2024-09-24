@@ -33,7 +33,7 @@ Belive in my way, my way って祈るよ
 木々よ {{< ruby "ユリ" >}}百合{{< /ruby >}}よ {{< ruby "ヒ" >}}陽{{< /ruby >}}よ 大地よ {{< ruby "シ" >}}始{{< /ruby >}}の海よ  
 {{< /hime >}}
 {{< hina >}}
-罪の名よ  
+罪の名よ 
 {{< ruby "ウツム" >}}俯{{< /ruby >}}いた空よ  
 {{< /hina >}}
 {{< hime >}}
