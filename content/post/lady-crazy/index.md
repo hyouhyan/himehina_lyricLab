@@ -59,7 +59,8 @@ LADY CRAZY SHOT! {{< hime >}}愛をあげる  {{< /hime >}}
 
 LADY CRAZY is BAD!! {{< hina >}}あざとし LOVER よ  {{< /hina >}}
 LADY CRAZY SHOT! {{< hina >}}君に映る  {{< /hina >}}
-{{< hina >}}狂人 Be the ONE LOVE!! 狂人 Be the ONE LOVE!!  {{< /hina >}}
+{{< hina >}}狂人{{< /hina >}} Be the ONE LOVE!!  
+{{< hina >}}狂人{{< /hina >}} Be the ONE LOVE!!  
 カランコロンアラホラマタアナタガ FALL DOWN ♥  
 
 Ahhh...CRAZY...  
@@ -122,8 +123,11 @@ LADY CRAZY ならば自由を喰らうために狂うの
 {{< /hina >}}
 {{< hime >}}LADY CRAZY LOVE{{< /hime >}} Oh... ohoh oooo  
 {{< hime >}}LADY CRAZY{{< /hime >}} 天国をあげる  
+{{< hime >}}
+狂った愛で 
+{{< /hime >}}
 {{< hina >}}
-狂った愛で  微笑んでいて  
+微笑んでいて  
 {{< /hina >}}
 
 Che, Che, Cheese  
