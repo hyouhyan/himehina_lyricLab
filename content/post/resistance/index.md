@@ -3,6 +3,7 @@ title: "Resistance!"
 slug: resistance
 categories:
     - original
+    - 1stminialbum
 tags: ["ソロ曲", "鈴木ソロ"]
 ---
 
