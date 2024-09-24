@@ -1,5 +1,5 @@
 ---
-title: ラビットホール
+title: ラビットホール (feat. 周央サンゴ, 星川サラ)
 slug: rabbit-hole
 categories:
     - Cover
