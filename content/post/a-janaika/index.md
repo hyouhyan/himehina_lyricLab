@@ -171,3 +171,7 @@ A A A A A Aじゃないか
 {{< hina >}}
 A A A A えっ Aはないわ  
 {{< /hina >}}
+
+---
+
+{{< youtube OisosYQuPHs >}}
