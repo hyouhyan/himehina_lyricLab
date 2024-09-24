@@ -9,8 +9,9 @@ categories:
 One, two, three, four...Skip,  
 Count twenty four.  
 {{< hina >}}
-終わらないこの世界 Break the fate!  
+終わらないこの世界 
 {{< /hina >}}
+Break the fate!  
 
 Ah Ahn Ah Ah Ahn  
 
