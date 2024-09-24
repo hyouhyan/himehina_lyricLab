@@ -101,12 +101,12 @@ Drug People, Drag Luck the Mother {{< ruby "シンポウ" >}}信奉{{< /ruby >}}
 
 カカカ ココケカ クカケク カコクカコクカコ  
 
-{{< hime >}}
 I'm Mother Ma Ma Ma Mother Drug On  
-{{< /hime >}}
+{{< hina >}}
 飛んだぜ ブッダ 飛んだぜ  
-{{< hime >}}
+{{< /hina >}}
 I'm Mother Ma Ma Ma Mother Drug On  
+{{< hime >}}
 然らば黄泉で暮らしていこう人間  
 {{< /hime >}}
 
