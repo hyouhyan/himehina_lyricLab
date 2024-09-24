@@ -1,5 +1,5 @@
 ---
-title: 妄想感傷代償連盟
+title: 妄想感傷代償連盟 (feat. AZKi)
 slug: mousou-kanshou-daishou-renmei
 categories:
     - Cover
