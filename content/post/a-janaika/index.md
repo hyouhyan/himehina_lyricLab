@@ -53,12 +53,12 @@ A A A A A Aじゃないか
 {{< hina >}}
 人生なんて虚しい  
 {{< /hina >}}
-{{< hime >}}
-それ 平和ボケStyle？ 
-{{< /hime >}}
 {{< hina >}}
-それ 中二病のStyle？  
+それ 平和ボケStyle？ 
 {{< /hina >}}
+{{< hime >}}
+それ 中二病のStyle？  
+{{< /hime >}}
 {{< hime >}}
 正論ですねステキ 
 {{< /hime >}}
