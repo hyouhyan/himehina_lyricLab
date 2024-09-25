@@ -128,4 +128,4 @@ SAD SAD 突っ伏して{{< ruby "カラ" >}}「」{{< /ruby >}}
 
 ---
 
-{{< youtube EUQRMi1xc >}}
+{{< youtube n-EUQRMi1xc >}}
