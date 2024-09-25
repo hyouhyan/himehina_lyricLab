@@ -19,7 +19,7 @@ icon = "music"
 
 [[main]]
 identifier = "cover"
-name = "カバー曲"
+name = "カバー曲(ウタミタ)"
 url = "/categories/cover/"
 weight = 4
 
