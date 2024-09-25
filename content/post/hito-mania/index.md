@@ -1,6 +1,6 @@
 ---
 title: 人マニア
-slug: hao
+slug: hito-mania
 categories:
     - Cover
 release: 2023-12-01
