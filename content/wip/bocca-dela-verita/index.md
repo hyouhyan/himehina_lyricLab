@@ -1,5 +1,5 @@
 ---
-title: ボッカデラベリタ
+title: "[WIP]ボッカデラベリタ"
 slug: bocca-dela-verita
 categories:
     - Cover

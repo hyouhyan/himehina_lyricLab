@@ -1,5 +1,5 @@
 ---
-title: 千本桜
+title: "[WIP]千本桜"
 slug: senbonzakura
 categories:
     - Cover
