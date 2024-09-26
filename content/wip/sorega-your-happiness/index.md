@@ -1,5 +1,5 @@
 ---
-title: それがあなたの幸せとしても
+title: "[WIP]それがあなたの幸せとしても"
 slug: sorega-your-happiness
 categories:
     - Cover
