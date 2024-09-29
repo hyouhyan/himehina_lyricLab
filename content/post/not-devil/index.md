@@ -1,5 +1,5 @@
 ---
-title: "[WIP]デビルじゃないもん"
+title: "デビルじゃないもん"
 slug: not-devil
 categories:
     - Cover

@@ -1,5 +1,5 @@
 ---
-title: "[WIP]アイデンティティ"
+title: "アイデンティティ"
 slug: identity
 categories:
     - Cover
