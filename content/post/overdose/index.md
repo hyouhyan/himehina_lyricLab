@@ -1,5 +1,5 @@
 ---
-title: "[WIP]Overdose"
+title: "Overdose"
 slug: overdose
 categories:
     - Cover
