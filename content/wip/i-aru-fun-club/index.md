@@ -3,7 +3,7 @@ title: "[WIP]いーあるふぁんくらぶ"
 slug: i-aru-fun-club
 categories:
     - Cover
-release: 
+release: 2019-03-18
 ---
 
 神戸中央区元町。(駅前)  
@@ -55,4 +55,4 @@ release:
 
 ---
 
-{{< youtube 7FfV4BHclRk >}}
+{{< youtube 3h6qU080brA >}}

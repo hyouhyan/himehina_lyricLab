@@ -3,7 +3,7 @@ title: "[WIP]夜明けと蛍"
 slug: yoake-and-hotaru
 categories:
     - Cover
-release: 
+release: 2022-10-21
 ---
 
 淡い月に見とれてしまうから  
@@ -57,4 +57,4 @@ release:
 
 ---
 
-{{< youtube 7FfV4BHclRk >}}
+{{< youtube AvrgOiOvaYo >}}

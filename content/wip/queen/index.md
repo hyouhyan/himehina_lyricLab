@@ -3,7 +3,7 @@ title: "[WIP]QUEEN"
 slug: queen
 categories:
     - Cover
-release: 
+release: 2022-08-23
 ---
 
 ライバイ　ベイビー  
@@ -65,4 +65,4 @@ CRY　CRY　CRY
 
 ---
 
-{{< youtube 7FfV4BHclRk >}}
+{{< youtube wfGZ8WA60gA >}}

@@ -3,7 +3,7 @@ title: "[WIP]フォニイ"
 slug: phony
 categories:
     - Cover
-release: 
+release: 2022-09-23
 ---
 
 この世で造花より綺麗な花は無いわ  
@@ -54,4 +54,4 @@ antipathy world
 
 ---
 
-{{< youtube 7FfV4BHclRk >}}
+{{< youtube PiDc5IBYDPk >}}
