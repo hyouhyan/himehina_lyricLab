@@ -3,7 +3,7 @@ title: "[WIP]踊"
 slug: odo
 categories:
     - Cover
-release: 
+release: 2022-07-15
 ---
 
 半端なら K.O. ふわふわしたいならどうぞ  
@@ -51,4 +51,4 @@ Woah 次回までお元気で ここらでバイバイ Let go
 
 ---
 
-{{< youtube 7FfV4BHclRk >}}
+{{< youtube cVmJc7OqxYY >}}

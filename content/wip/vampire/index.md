@@ -3,7 +3,7 @@ title: "[WIP]ヴァンパイア"
 slug: vampire
 categories:
     - Cover
-release: 
+release: 2022-08-05
 ---
 
 あたしヴァンパイア  
@@ -72,4 +72,4 @@ No more　発展　嫉妬息をしても
 
 ---
 
-{{< youtube 7FfV4BHclRk >}}
+{{< youtube siipnlhsEK0 >}}

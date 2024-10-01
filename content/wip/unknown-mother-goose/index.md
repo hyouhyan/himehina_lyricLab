@@ -3,7 +3,7 @@ title: "[WIP]アンノウン・マザーグース"
 slug: unknown-mother-goose
 categories:
     - Cover
-release: 
+release: 2022-10-07
 ---
 
 あたしが愛を語るのなら その眼には如何、映像る？  
@@ -76,4 +76,4 @@ release:
 
 ---
 
-{{< youtube 7FfV4BHclRk >}}
+{{< youtube WxQED-nBOyE >}}

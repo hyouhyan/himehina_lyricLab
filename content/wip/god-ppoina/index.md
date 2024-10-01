@@ -3,7 +3,7 @@ title: "[WIP]神っぽいな"
 slug: god-ppoina
 categories:
     - Cover
-release: 
+release: 2022-09-09
 ---
 
 愛のネタバレ 「別れ」っぽいな  
@@ -97,4 +97,4 @@ release:
 
 ---
 
-{{< youtube 7FfV4BHclRk >}}
+{{< youtube meDkq8ypkUM >}}
