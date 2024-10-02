@@ -1,5 +1,5 @@
 ---
-title: "[WIP]夜明けと蛍"
+title: "夜明けと蛍"
 slug: yoake-and-hotaru
 categories:
     - Cover
