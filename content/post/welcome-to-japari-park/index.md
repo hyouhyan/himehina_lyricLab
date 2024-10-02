@@ -3,6 +3,7 @@ title: "ようこそジャパリパークへ"
 slug: welcome-to-japari-park
 categories:
     - Cover
+release: 2018-08-17
 ---
 
 Welcome to ようこそ ばあちゃるパーク  
@@ -174,3 +175,9 @@ Oh Welcome to the ばちゃるパーク (ばちゃるパーク)
 
 素敵な旅立ち (ハイ！ハイ！！)  
 よおこそばあちゃるパーク！  
+
+
+---
+
+
+{{< youtube He6NNULUom0 >}}
