@@ -1,5 +1,5 @@
 ---
-title: "[WIP]神っぽいな"
+title: "神っぽいな"
 slug: god-ppoina
 categories:
     - Cover
