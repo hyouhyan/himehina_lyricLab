@@ -1,5 +1,5 @@
 ---
-title: "[WIP]ヴァンパイア"
+title: "ヴァンパイア"
 slug: vampire
 categories:
     - Cover
