@@ -1,5 +1,5 @@
 ---
-title: "[WIP]ヴィラン"
+title: "ヴィラン"
 slug: villain
 categories:
     - Cover
