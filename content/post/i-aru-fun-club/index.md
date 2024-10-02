@@ -1,5 +1,5 @@
 ---
-title: "[WIP]いーあるふぁんくらぶ"
+title: "いーあるふぁんくらぶ"
 slug: i-aru-fun-club
 categories:
     - Cover
