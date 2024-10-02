@@ -1,5 +1,5 @@
 ---
-title: "[WIP]アンノウン・マザーグース"
+title: "アンノウン・マザーグース"
 slug: unknown-mother-goose
 categories:
     - Cover
