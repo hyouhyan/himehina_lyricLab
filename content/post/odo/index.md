@@ -1,5 +1,5 @@
 ---
-title: "[WIP]踊"
+title: "踊"
 slug: odo
 categories:
     - Cover
