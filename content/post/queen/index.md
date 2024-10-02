@@ -1,5 +1,5 @@
 ---
-title: "[WIP]QUEEN"
+title: "QUEEN"
 slug: queen
 categories:
     - Cover
