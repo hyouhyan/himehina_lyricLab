@@ -1,5 +1,5 @@
 ---
-title: "[WIP]心という名の不可解"
+title: "心という名の不可解"
 slug: kokoroto-iunano-fukakai
 categories:
     - Cover
