@@ -3,7 +3,7 @@ title: 不機嫌なスリーカード
 slug: badmood-threecard
 categories: 
     - original
-    - 2ndalbum
+    - 3rdalbum
 ---
 
 {{< hina >}}
