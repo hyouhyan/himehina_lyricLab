@@ -4,7 +4,7 @@ slug: tricologe
 categories:
     - Cover
 tags: [壱百満天原サロメ]
-release: 2024-02-02
+date: 2024-02-02
 ---
 
 {{< hime >}}

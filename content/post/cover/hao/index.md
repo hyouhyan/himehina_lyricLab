@@ -3,7 +3,7 @@ title: ハオ
 slug: hao
 categories:
     - Cover
-release: 2024-06-28
+date: 2024-06-28
 ---
 
 これでいいなのだ 好好好  

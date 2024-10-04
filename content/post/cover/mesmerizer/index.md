@@ -3,7 +3,7 @@ title: メズマライザー
 slug: mesmerizer
 categories:
     - Cover
-release: 2024-08-16 
+date: 2024-08-16 
 ---
 
 {{< hime >}}

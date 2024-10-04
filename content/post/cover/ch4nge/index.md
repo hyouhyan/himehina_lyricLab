@@ -3,7 +3,7 @@ title: CH4NGE
 slug: ch4nge
 categories:
     - Cover
-release: 2023-06-30
+date: 2023-06-30
 ---
 
 {{< hime >}}

@@ -3,7 +3,7 @@ title: "踊"
 slug: odo
 categories:
     - Cover
-release: 2022-07-15
+date: 2022-07-15
 ---
 
 {{< hime >}}

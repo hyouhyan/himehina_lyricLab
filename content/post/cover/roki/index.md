@@ -3,7 +3,7 @@ title: ロキ
 slug: roki
 categories:
     - Cover
-release: 2018-11-09
+date: 2018-11-09
 ---
 {{< hime >}}
 「まーてぇー！」  

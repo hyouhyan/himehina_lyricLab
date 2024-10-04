@@ -3,7 +3,7 @@ title: "千本桜"
 slug: senbonzakura
 categories:
     - Cover
-release: 2023-01-06
+date: 2023-01-06
 ---
 
 {{< hime >}}

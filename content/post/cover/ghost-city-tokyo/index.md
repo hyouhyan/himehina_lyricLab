@@ -3,7 +3,7 @@ title: 幽霊東京
 slug: ghost-city-tokyo
 categories:
     - Cover
-release: 2024-09-06
+date: 2024-09-06
 ---
 
 {{< hime >}}

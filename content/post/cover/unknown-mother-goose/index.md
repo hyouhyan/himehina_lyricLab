@@ -3,7 +3,7 @@ title: "アンノウン・マザーグース"
 slug: unknown-mother-goose
 categories:
     - Cover
-release: 2022-10-07
+date: 2022-10-07
 ---
 
 {{< hime >}}

@@ -3,7 +3,7 @@ title: "アイデンティティ"
 slug: identity
 categories:
     - Cover
-release: 2023-03-03
+date: 2023-03-03
 ---
 
 {{< hime >}}

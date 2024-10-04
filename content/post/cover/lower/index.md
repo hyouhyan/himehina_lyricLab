@@ -3,7 +3,7 @@ title: ロウワー
 slug: lower
 categories:
     - Cover
-release: 2023-06-16
+date: 2023-06-16
 ---
 
 {{< hina >}}

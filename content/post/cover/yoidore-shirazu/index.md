@@ -3,7 +3,7 @@ title: 酔いどれ知らず
 slug: yoidore-shirazu
 categories:
     - Cover
-release: 2023-09-08
+date: 2023-09-08
 ---
 
 {{< hime >}}

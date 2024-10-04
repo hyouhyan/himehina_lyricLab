@@ -3,7 +3,7 @@ title: "Overdose"
 slug: overdose
 categories:
     - Cover
-release: 2023-01-20
+date: 2023-01-20
 ---
 
 {{< hina >}}

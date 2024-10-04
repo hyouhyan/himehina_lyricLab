@@ -4,7 +4,7 @@ slug: rabbit-hole
 categories:
     - Cover
 tags: [周央サンゴ, 星川サラ]
-release: 2024-04-19
+date: 2024-04-19
 ---
 
 {{< hime >}}

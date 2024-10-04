@@ -3,7 +3,7 @@ title: "ヴァンパイア"
 slug: vampire
 categories:
     - Cover
-release: 2022-08-05
+date: 2022-08-05
 ---
 
 {{< hina >}}

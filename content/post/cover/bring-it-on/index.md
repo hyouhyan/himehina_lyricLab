@@ -3,7 +3,7 @@ title: 劣等上等
 slug: bring-it-on
 categories:
     - Cover
-release: 2018-08-31
+date: 2018-08-31
 ---
 
 Papara parara pa

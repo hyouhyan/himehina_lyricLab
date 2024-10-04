@@ -3,7 +3,7 @@ title: "それがあなたの幸せとしても"
 slug: sorega-your-happiness
 categories:
     - Cover
-release: 2023-02-17
+date: 2023-02-17
 ---
 
 {{< hime >}}

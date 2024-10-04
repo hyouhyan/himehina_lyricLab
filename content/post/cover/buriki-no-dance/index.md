@@ -4,7 +4,7 @@ slug: buriki-no-dance
 categories:
     - Cover
 tags: ["戌亥とこ", "町田ちま"]
-release: 2024-07-19
+date: 2024-07-19
 ---
 {{< hime >}}田中ヒメパート  {{< /hime >}}
 {{< hina >}}鈴木ヒナパート  {{< /hina >}}

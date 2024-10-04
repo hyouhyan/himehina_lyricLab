@@ -3,7 +3,7 @@ title: "神っぽいな"
 slug: god-ppoina
 categories:
     - Cover
-release: 2022-09-09
+date: 2022-09-09
 ---
 
 "Oh my god"

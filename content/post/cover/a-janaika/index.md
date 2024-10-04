@@ -3,7 +3,7 @@ title: Aじゃないか
 slug: a-janaika
 categories:
     - Cover
-release: 2024-03-08
+date: 2024-03-08
 ---
 
 {{< hime >}}

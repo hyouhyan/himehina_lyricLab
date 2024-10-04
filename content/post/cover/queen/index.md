@@ -3,7 +3,7 @@ title: "QUEEN"
 slug: queen
 categories:
     - Cover
-release: 2022-08-23
+date: 2022-08-23
 ---
 
 {{< hime >}}
