@@ -4,6 +4,7 @@ slug: ainohana
 categories:
     - original
     - 1stalbum
+date: 2020-04-15
 ---
 
 {{< hime >}}
@@ -150,3 +151,7 @@ Show me your laugh とね泣く誰かの為
 {{< hime >}}
 {{< ruby ワラ >}}咲{{< /ruby >}}ってたいんだ  
 {{< /hime >}}
+
+---
+
+{{< youtube qmrzmpovipQ >}}

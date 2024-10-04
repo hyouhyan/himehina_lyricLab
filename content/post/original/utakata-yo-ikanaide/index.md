@@ -4,6 +4,7 @@ slug: utakata-yo-ikanaide
 categories:
     - original
     - 1stalbum
+date: 2019-09-11
 ---
 
 「うたかたよ いかないで」
@@ -179,3 +180,7 @@ Now we will 《leave》
 ずっと {{< hina >}}(ずっと){{< /hina >}} 宝石の様に  
 輝いてメモリーズ  
 {{< /hime >}}
+
+---
+
+{{< youtube rzd5xEPn4-U >}}

@@ -5,6 +5,7 @@ categories:
     - original
     - 1stminialbum
 tags: ["ソロ曲", "鈴木ソロ"]
+date: 2021-11-05
 ---
 
 {{< hina >}}
@@ -92,3 +93,7 @@ tags: ["ソロ曲", "鈴木ソロ"]
 エンドロール掴むんだ  
 
 {{< /hina >}}
+
+---
+
+{{< youtube vy86yXPWqbg >}}

@@ -4,6 +4,7 @@ slug: callgirl-and-fallencity
 categories: 
     - original
     - 2ndalbum
+date: 2021-07-21
 ---
 
 {{< hime >}}
@@ -111,3 +112,5 @@ To kiss my sweetest stella, I leave my flowergirls
 さよなら My Favorite City of Light  
 変わりゆく世界を愛してくよ  
 {{< /hina >}}
+
+{{< youtube Z9Io37vU_dY >}}

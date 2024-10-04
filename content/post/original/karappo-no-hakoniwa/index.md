@@ -3,6 +3,7 @@ title: 空っぽの箱庭
 slug: karappo-no-hakoniwa
 categories:
     - original
+date: 2023-08-07
 ---
 
 {{< hime >}}

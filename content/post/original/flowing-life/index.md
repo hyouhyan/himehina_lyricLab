@@ -4,6 +4,7 @@ slug: flowing-life
 categories:
   - original
   - 2ndalbum
+date: 2021-03-19
 ---
 
 {{< hime >}}
@@ -99,3 +100,7 @@ categories:
 君の胸の中ならば  
 流れるのも悪くないな  
 {{< /hime >}}
+
+---
+
+{{< youtube LeHpDyYoCmw >}}

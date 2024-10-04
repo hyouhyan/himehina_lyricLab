@@ -4,6 +4,7 @@ slug: heart-pie-danceholl
 categories:
     - original
     - 4thalbum
+date: 2023-12-15
 ---
 
 {{< hime >}}
@@ -169,3 +170,7 @@ categories:
 {{< ruby "アイパイ" >}}愛包{{< /ruby >}}ダンスホール  
 
 どうぞ  
+
+---
+
+{{< youtube bnofYmfKLeo >}}

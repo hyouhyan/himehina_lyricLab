@@ -4,6 +4,7 @@ slug: golden
 categories:
     - Original
     - 3rdalbum
+date: 2023-05-24
 ---
 
 {{< hime >}}
@@ -137,3 +138,7 @@ Got Golden? That's Golden?
 
 Yes Golden! Here's Golden!  
 Go Golden, on and on
+
+---
+
+{{< youtube mMIvGTQ6Qzg >}}

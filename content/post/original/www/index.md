@@ -4,6 +4,7 @@ slug: www
 categories:
     - Original
     - 3rdalbum
+date: 2023-03-19
 ---
 
 レイデイス＆ジエントルメン  
@@ -137,3 +138,7 @@ Warara word world
 
 薔薇色だが我血は{{< ruby "ダブガタ" >}}W型{{< /ruby >}}  
 {{< ruby "カ" >}}噛{{< /ruby >}}ぶ牙から{{< ruby "コボ" >}}溢{{< /ruby >}}れる{{< ruby "ワルワルワラ" >}}惡÷笑{{< /ruby >}}  
+
+---
+
+{{< youtube mWPocET-tVM >}}

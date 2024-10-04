@@ -4,6 +4,7 @@ slug: aitai-bokura
 categories:
     - original
     - 3rdalbum
+date: 2022-10-29
 ---
 
 「ねえ、会いたいよ」  
@@ -135,3 +136,7 @@ categories:
 未来もずっと 
 {{< /hime >}}
 笑い合おう  
+
+---
+
+{{< youtube X6f4CrKMPpo >}}

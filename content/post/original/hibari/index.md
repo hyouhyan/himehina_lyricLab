@@ -4,6 +4,7 @@ slug: hibari
 categories:
     - original
     - 1stalbum
+date: 2019-06-28
 ---
 
 {{< hime >}}
@@ -134,3 +135,7 @@ Syndrome：アイシテル
 いこう  
 {{< ruby "ヒバリ" >}}姫雛鳥{{< /ruby >}}の{{< ruby "ソラ" >}}天{{< /ruby >}}  
 {{< /hime >}}
+
+---
+
+{{< youtube O5uyMKs0n3Q >}}
