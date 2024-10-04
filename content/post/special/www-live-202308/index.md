@@ -4,6 +4,7 @@ slug: www-live-202308
 categories:
     - Original
     - 3rdalbum
+    - special
 tags: ["Live", "live2023"]
 ---
 
