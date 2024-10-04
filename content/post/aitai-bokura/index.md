@@ -3,7 +3,7 @@ title: "会いたいボクラ"
 slug: aitai-bokura
 categories:
     - original
-    - 2ndalbum
+    - 3rdalbum
 ---
 
 {{< hime >}}
