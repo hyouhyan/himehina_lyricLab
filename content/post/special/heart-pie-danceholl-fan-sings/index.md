@@ -4,6 +4,7 @@ slug: heart-pie-danceholl-fan-sings
 categories:
     - original
     - 4thalbum
+    - special
 ---
 
 {{< part-5 >}}コール部分  {{< /part-5 >}}
