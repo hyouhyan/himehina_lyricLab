@@ -6,6 +6,7 @@ categories:
     - 3rdalbum
     - special
 tags: ["Live", "live2023"]
+date: 2023-08-05
 ---
 
 レイデイス＆ジエントルメン  

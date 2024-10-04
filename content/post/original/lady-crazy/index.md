@@ -5,6 +5,7 @@ categories:
     - original
     - 4thalbum
 tags: [live2024-08, "未リリース"]
+date: 2024-08-04
 ---
 
 L..L..L..LADY  
