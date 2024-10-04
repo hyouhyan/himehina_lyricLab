@@ -4,6 +4,7 @@ slug: yakusoku-blood
 categories:
     - original
     - 1stalbum
+date: 2020-04-15
 ---
 
 {{< hime >}}
