@@ -4,6 +4,7 @@ slug: mr-virtualizer
 categories:
     - original
     - 2ndalbum
+date: 2020-08-28
 ---
 
 タラッタッタタッツタッター＆ラッター  
@@ -131,3 +132,7 @@ Right away, Right away, Right away, Right away, Jump!
 
 タラッタッタタッツタッター＆ラッター  
 Mr.VIRTUALIZER  
+
+---
+
+{{< youtube 9mR5y5DAVSg >}}

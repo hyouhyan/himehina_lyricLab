@@ -4,6 +4,7 @@ slug: mizutamari-rondo
 categories:
     - original
     - 2ndalbum
+date: 2020-11-26
 ---
 
 {{< hime >}}
@@ -109,3 +110,7 @@ Don't Touch Me! Don't Touch Me! もうI Can't Breathe!
 {{< hime >}}
 水たまりロンド  
 {{< /hime >}}
+
+---
+
+{{< youtube 0mUlMPcwodk >}}

@@ -4,6 +4,7 @@ slug: mother-drug
 categories:
     - original
     - 4thalbum
+date: 2023-08-07
 ---
 
 カカカ ココケカ ククケカ ケカケカク カココカコ カコクケコ  
@@ -131,3 +132,7 @@ I'm Mother Ma Ma Ma Mother Drug On
 {{< /hina >}}
 
 カカカ ココケカ クカケク カコクカコクカコ  
+
+---
+
+{{< youtube twJzYXklQhI >}}

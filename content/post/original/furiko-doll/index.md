@@ -4,6 +4,7 @@ slug: furiko-doll
 categories:
     - original
     - 2ndalbum
+date: 2021-07-16
 ---
 
 Fury Flag 天ヨリ 降リ 降リ 振ラ  
@@ -153,3 +154,7 @@ Do not free your soul.
 
 Fury Flag 天ヨリ 降リ 降リ 振ラ  
 Sily Sily Foolish ニ Flee Flee Farewell!  
+
+---
+
+{{< youtube 5JZ0sLljwMI >}}

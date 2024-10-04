@@ -4,6 +4,7 @@ slug: kiryca
 categories:
     - original
     - 2ndalbum
+date: 2021-07-21
 ---
 
 {{< hime >}}
@@ -96,3 +97,7 @@ categories:
 {{< hime >}}
 歌え、それでも世界は晴れるよと  
 {{< /hime >}}
+
+---
+
+{{< youtube Mu27_4cwMAg >}}

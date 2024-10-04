@@ -4,6 +4,7 @@ slug: badmood-threecard
 categories: 
     - original
     - 3rdalbum
+date: 2022-08-11
 ---
 
 {{< hina >}}
@@ -95,3 +96,7 @@ Double & Down
 もう誰も 
 {{< /hime >}}
 止められない  
+
+---
+
+{{< youtube ulH8MUUAOu4 >}}

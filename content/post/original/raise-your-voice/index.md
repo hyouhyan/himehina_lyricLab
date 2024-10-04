@@ -4,6 +4,7 @@ slug: raise-your-voice
 categories:
     - original
 tags: ["ソロ曲", "鈴木ソロ"]
+date: 2023-08-07
 ---
 
 {{< hina >}}
@@ -107,3 +108,7 @@ tags: ["ソロ曲", "鈴木ソロ"]
 信じてその鼓動を  
 
 {{< /hina >}}
+
+---
+
+{{< youtube 2zM8A2PWl1U >}}

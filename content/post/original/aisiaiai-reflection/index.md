@@ -4,6 +4,7 @@ slug: aisiaiai-reflection
 categories:
     - original
     - 2ndalbum
+date: 2021-02-07
 ---
 
 {{< hina >}}
@@ -180,3 +181,7 @@ Oh, Yes!! Oh, Yes!!
 
 {{< ruby アイタイ >}}相対{{< /ruby >}}したいEye Tonight  
 会いたいじゃない 愛し合いたい  
+
+---
+
+{{< youtube rTmGarVkCgo >}}

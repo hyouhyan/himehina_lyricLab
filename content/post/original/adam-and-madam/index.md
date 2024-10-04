@@ -4,6 +4,7 @@ slug: adam-and-madam
 categories:
     - original
     - 1stalbum
+date: 2020-04-15
 ---
 
 One, two, three, four...Skip,  
@@ -147,3 +148,7 @@ She messed up & Burned out 最後は{{< ruby "イカ" >}}怒{{< /ruby >}}って�
 {{< /hime >}}
 
 Ah Ahn Ah Ah Ahn  
+
+---
+
+{{< youtube VADgVRvoqwg >}}

@@ -4,7 +4,7 @@ slug: kaze-ami-bird
 categories:
     - original
     - 4thalbum
-tags: [live2024-08, wip]
+tags: [live2024-08, wip, "未リリース"]
 ---
 
 忘れちまったな、はじまりの言葉  

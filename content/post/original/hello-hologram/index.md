@@ -4,6 +4,7 @@ slug: hello-hologram
 categories:
     - original
     - 3rdalbum
+date: 2022-05-13
 ---
 
 What you watch  
@@ -127,3 +128,7 @@ Ah!!! {{< ruby "マヨ" >}}真夜{{< /ruby >}}の{{< ruby "ツユ" >}}露{{< /ru
 滅ぶ{{< ruby "ラム" >}}子羊{{< /ruby >}}の民を{{< ruby "アマテ" >}}天照{{< /ruby >}}らすhalo  
 Haaaah!!
 {{< /hime >}}
+
+---
+
+{{< youtube _46UlyaJPyk >}}

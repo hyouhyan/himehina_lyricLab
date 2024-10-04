@@ -4,6 +4,7 @@ slug: hitogata
 categories:
     - original
     - 1stalbum
+date: 2019-01-09
 ---
 
 Hey,Mr&MrsVirtual,  
@@ -145,3 +146,7 @@ you know it's naughty virtual virtualize a life alive
 人ならざる者の{{< ruby "イノチ" >}}生命{{< /ruby >}}を{{< ruby "ウタ" >}}謳{{< /ruby >}}う  
 
 ヒトガタ  
+
+---
+
+{{< youtube J8PUUv4LFkQ >}}

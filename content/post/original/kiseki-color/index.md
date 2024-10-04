@@ -5,6 +5,7 @@ categories:
     - original
     - 1stminialbum
 tags: ["ソロ曲", "田中ソロ"]
+date: 2020-12-24
 ---
 
 {{< hime >}}
@@ -96,3 +97,7 @@ tags: ["ソロ曲", "田中ソロ"]
 私の色  
 
 {{< /hime >}}
+
+---
+
+{{< youtube GF1vrjCBpeo >}}

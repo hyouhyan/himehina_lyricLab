@@ -5,6 +5,7 @@ categories:
     - original
     - 1stminialbum
 tags: ["ソロ曲", "田中ソロ"]
+date: 2021-11-05
 ---
 
 {{< hime >}}
@@ -76,3 +77,7 @@ tags: ["ソロ曲", "田中ソロ"]
 これからも手を取って  
 
 {{< /hime >}}
+
+---
+
+{{< youtube S5NE8aPv-es >}}

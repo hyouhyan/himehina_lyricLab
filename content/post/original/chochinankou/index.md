@@ -4,6 +4,7 @@ slug: chochinankou
 categories:
     - original
     - 3rdalbum
+date: 2023-05-24
 ---
 
 「やがて 意識も臓器も {{< ruby ヒレ >}}鰭{{< /ruby >}}も目も失い」
@@ -108,3 +109,7 @@ categories:
 {{< ruby ヒトツ >}}僕等{{< /ruby >}}のまま  
 ただ生きていく  
 {{< /hime >}}
+
+---
+
+{{< youtube LP-c0gRyP1g >}}

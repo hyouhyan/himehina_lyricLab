@@ -4,6 +4,7 @@ slug: kohakuno-body
 categories: 
     - original
     - 1stalbum
+date: 2019-11-29
 ---
 
 土埃りが眠りにつく{{< ruby ハイガイ >}}廃街{{< /ruby >}}に  
@@ -169,3 +170,7 @@ Ah
 {{< /hime >}}
 
 息してよLover.  
+
+---
+
+{{< youtube 2mcb3w-Ejjo >}}

@@ -5,6 +5,7 @@ categories:
     - original
     - 1stminialbum
 tags: ["ソロ曲", "鈴木ソロ"]
+date: 2020-12-24
 ---
 
 {{< hina >}}
@@ -95,3 +96,7 @@ tags: ["ソロ曲", "鈴木ソロ"]
 {{< ruby "ユメミテル" >}}you make me tell{{< /ruby >}} ソバニイタイ 言いたい 歌っていたい  
 
 {{< /hina >}}
+
+---
+
+{{< youtube j4nPnJWoX2E >}}
