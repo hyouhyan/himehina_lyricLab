@@ -5,6 +5,7 @@ categories:
     - original
     - 1stminialbum
 tags: [田中ソロ]
+date: 2022-02-14
 ---
 
 {{< hime >}}
