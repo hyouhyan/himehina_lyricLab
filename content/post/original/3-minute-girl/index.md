@@ -4,6 +4,7 @@ slug: 3-minute-girl
 categories:
     - Original
     - 2ndalbum
+date: 2021-07-21
 ---
 
 This is the final call for challengers.  
@@ -148,3 +149,7 @@ You have three minutes to comply. Ready?
 {{< /hime >}}
 人生 [{{< ruby "ベッド" >}}Bed or Bet？{{< /ruby >}}]　最終戦　3分間  
 Time Over
+
+---
+
+{{< youtube RBmWaW-3Cug >}}
