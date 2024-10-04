@@ -5,6 +5,7 @@ categories:
     - original
     - 1stminialbum
 tags: [鈴木ソロ]
+date: 2022-02-14
 ---
 
 ワガママばかり 言ってごめんね  
