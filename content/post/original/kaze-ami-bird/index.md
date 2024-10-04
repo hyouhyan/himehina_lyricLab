@@ -4,7 +4,7 @@ slug: kaze-ami-bird
 categories:
     - original
     - 4thalbum
-tags: [live2024-08, wip, "未リリース"]
+tags: [live2024-08, wip, unreleased]
 date: 2024-08-03
 ---
 

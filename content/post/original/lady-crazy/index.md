@@ -4,7 +4,7 @@ slug: lady-crazy
 categories:
     - original
     - 4thalbum
-tags: [live2024-08, "未リリース"]
+tags: [live2024-08, unreleased]
 date: 2024-08-04
 ---
 
