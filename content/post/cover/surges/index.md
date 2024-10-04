@@ -4,7 +4,7 @@ slug: surges
 categories:
     - Cover
 tags: ["角巻わため"]
-release: 2024-08-23
+date: 2024-08-23
 ---
 
 {{< hime >}}田中パート  {{< /hime >}}

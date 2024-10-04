@@ -3,7 +3,7 @@ title: 太陽系デスコ
 slug: solar-system-disco
 categories:
     - Cover
-release: 2018-09-21
+date: 2018-09-21
 ---
 
 {{< hina >}}

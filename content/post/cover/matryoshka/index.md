@@ -4,7 +4,7 @@ slug: matryoshka
 categories:
     - Cover
 tags: [ラプラス・ダークネス]
-release: 2023-10-20
+date: 2023-10-20
 ---
 
 {{< hime >}}田中ヒメ パート  {{< /hime >}}

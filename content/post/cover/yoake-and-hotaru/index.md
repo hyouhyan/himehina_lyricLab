@@ -3,7 +3,7 @@ title: "夜明けと蛍"
 slug: yoake-and-hotaru
 categories:
     - Cover
-release: 2022-10-21
+date: 2022-10-21
 ---
 
 {{< hina >}}

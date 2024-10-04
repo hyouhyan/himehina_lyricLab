@@ -3,7 +3,7 @@ title: ネバーフィクション
 slug: never-fiction
 categories:
     - Cover
-release: 2024-09-20
+date: 2024-09-20
 ---
 {{< hime >}}
 さらって 笑って  

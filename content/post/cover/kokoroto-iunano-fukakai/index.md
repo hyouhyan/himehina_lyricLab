@@ -3,7 +3,7 @@ title: "心という名の不可解"
 slug: kokoroto-iunano-fukakai
 categories:
     - Cover
-release: 2022-12-09
+date: 2022-12-09
 ---
 
 {{< hina >}}

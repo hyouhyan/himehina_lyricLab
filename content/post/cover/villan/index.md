@@ -3,7 +3,7 @@ title: "ヴィラン"
 slug: villain
 categories:
     - Cover
-release: 2022-11-18
+date: 2022-11-18
 ---
 
 {{< hime >}}

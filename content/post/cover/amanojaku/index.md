@@ -3,7 +3,7 @@ title: 天ノ弱
 slug: amanojaku
 categories:
     - Cover
-release: 2023-04-21
+date: 2023-04-21
 ---
 
 {{< hime >}}

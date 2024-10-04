@@ -4,7 +4,7 @@ slug: gehenna
 categories:
     - Cover
 tags: ["健屋花那"]
-release: 2024-05-17 
+date: 2024-05-17 
 ---
 
 {{< hime >}}田中ヒメパート  {{< /hime >}}

@@ -4,7 +4,7 @@ slug: toupi-christmass-2022
 categories:
     - Cover
 tags: [田中ソロ]
-release: 2023-02-03
+date: 2023-02-03
 ---
 
 {{< hime >}}

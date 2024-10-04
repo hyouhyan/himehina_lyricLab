@@ -3,7 +3,7 @@ title: レクイエム
 slug: requiem
 categories:
     - Cover
-release: 2024-09-22 
+date: 2024-09-22 
 ---
 {{< hina >}}
 曖昧ディスコミュ まるで狂気の花  

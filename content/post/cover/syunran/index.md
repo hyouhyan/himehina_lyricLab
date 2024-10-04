@@ -3,7 +3,7 @@ title: 春嵐
 slug: syunran
 categories:
     - Cover
-release: 2024-02-16
+date: 2024-02-16
 ---
 
 {{< hime >}}

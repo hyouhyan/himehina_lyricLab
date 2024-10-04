@@ -4,7 +4,7 @@ slug: mousou-kanshou-daishou-renmei
 categories:
     - Cover
 tags: [AZKi]
-release: 2024-03-29
+date: 2024-03-29
 ---
 
 {{< hime >}}

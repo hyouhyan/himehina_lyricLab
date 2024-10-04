@@ -4,7 +4,7 @@ slug: tengaku
 categories:
     - Cover
 tags: [レヴィ・エリファ]
-release: 2023-11-17
+date: 2023-11-17
 ---
 
 {{< hime >}}

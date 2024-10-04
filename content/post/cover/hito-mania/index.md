@@ -3,7 +3,7 @@ title: 人マニア
 slug: hito-mania
 categories:
     - Cover
-release: 2023-12-01
+date: 2023-12-01
 ---
 
 ※ 全部二人同時

@@ -3,7 +3,7 @@ title: アイドル
 slug: idle
 categories:
     - Cover
-release: 2023-05-05
+date: 2023-05-05
 ---
 
 {{< hime >}}

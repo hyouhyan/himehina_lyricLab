@@ -3,7 +3,7 @@ title: "デビルじゃないもん"
 slug: not-devil
 categories:
     - Cover
-release: 2023-01-24
+date: 2023-01-24
 ---
 
 アルバムのパート分け  

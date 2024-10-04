@@ -3,7 +3,7 @@ title: ノンブレス・オブリージュ
 slug: non-breath-oblige
 categories:
     - Cover
-release: 2024-05-04
+date: 2024-05-04
 ---
 
 {{< hime >}}

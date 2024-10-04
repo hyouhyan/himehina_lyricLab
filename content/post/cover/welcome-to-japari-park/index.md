@@ -3,7 +3,7 @@ title: "ようこそジャパリパークへ"
 slug: welcome-to-japari-park
 categories:
     - Cover
-release: 2018-08-17
+date: 2018-08-17
 ---
 
 Welcome to ようこそ ばあちゃるパーク  

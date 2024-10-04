@@ -3,7 +3,7 @@ title: "ボッカデラベリタ"
 slug: bocca-dela-verita
 categories:
     - Cover
-release: 2023-04-07
+date: 2023-04-07
 ---
 
 {{< hime >}}

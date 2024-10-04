@@ -3,7 +3,7 @@ title: 唱
 slug: show
 categories:
     - Cover
-release: 2023-11-03
+date: 2023-11-03
 ---
 
 Nah-Nah-Nah-Nah-Nah, Ready for my show  
