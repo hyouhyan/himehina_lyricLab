@@ -1,7 +1,8 @@
 ---
 title: 藍の華
-description: 1st Album「藍の華」 収録曲
+description: 1st Album「藍の華」 収録曲 2020-04-15リリース
 image:
+date: 2020-04-15
 
 # Badge style
 style:
