@@ -3,5 +3,8 @@
         "hime": "{{< hime >}}\\n${text}\\n{{< /hime >}}",
         "hina": "{{< hina >}}\\n${text}\\n{{< /hina >}}",
         "ruby": "{{< ruby >}}${text}{{< /ruby >}}",
+        "m": "{{< hime >}}\\n${text}\\n{{< /hime >}}",
+        "n": "{{< hina >}}\\n${text}\\n{{< /hina >}}",
+        "r": "{{< ruby >}}${text}{{< /ruby >}}",
     }
 }
