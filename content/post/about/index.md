@@ -4,6 +4,7 @@ description: HIMEHINA Lyric LABの紹介と説明
 slug: about
 image: cover.jpg
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+date: 2024-09-23
 ---
 ## はおー！
 HIMEHINA Lyric LABへようこそ！  
