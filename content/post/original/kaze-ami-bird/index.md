@@ -5,6 +5,7 @@ categories:
     - original
     - 4thalbum
 tags: [live2024-08, wip, "未リリース"]
+date: 2024-08-03
 ---
 
 忘れちまったな、はじまりの言葉  

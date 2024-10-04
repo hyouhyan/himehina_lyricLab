@@ -5,6 +5,7 @@ categories:
     - original
     - 4thalbum
     - special
+date: 2024-07-30
 ---
 
 {{< part-5 >}}コール部分  {{< /part-5 >}}
@@ -244,3 +245,7 @@ categories:
 {{< /part-5 >}}
 
 どうぞ  
+
+---
+
+{{< youtube Ai8zQCnjQjE >}}
