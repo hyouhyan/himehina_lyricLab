@@ -1,7 +1,7 @@
 {
     "wrapSelection.patterns": {
-        "hime": "{{< hime >}}${text}{{< /hime >}}",
-        "hina": "{{< hina >}}${text}{{< /hina >}}",
+        "hime": "{{< hime >}}\\n${text}\\n{{< /hime >}}",
+        "hina": "{{< hina >}}\\n${text}\\n{{< /hina >}}",
         "ruby": "{{< ruby >}}${text}{{< /ruby >}}",
     }
 }
