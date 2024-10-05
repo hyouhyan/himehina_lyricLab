@@ -5,7 +5,7 @@ categories:
     - original
     - 3rdalbum
 date: 2022-10-29
-tags: [dam]
+tags: [dam, joysound]
 ---
 
 「ねえ、会いたいよ」  

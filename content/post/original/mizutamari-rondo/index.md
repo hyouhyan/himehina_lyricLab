@@ -5,7 +5,7 @@ categories:
     - original
     - 2ndalbum
 date: 2020-11-26
-tags: [dam]
+tags: [dam, joysound]
 ---
 
 {{< hime >}}

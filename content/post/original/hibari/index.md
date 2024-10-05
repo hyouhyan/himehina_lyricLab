@@ -5,7 +5,7 @@ categories:
     - original
     - 1stalbum
 date: 2019-06-28
-tags: [dam]
+tags: [dam, joysound]
 ---
 
 {{< hime >}}

@@ -5,7 +5,7 @@ categories:
     - original
     - 1stalbum
 date: 2019-11-29
-tags: [dam]
+tags: [dam, joysound]
 ---
 
 土埃りが眠りにつく{{< ruby ハイガイ >}}廃街{{< /ruby >}}に  

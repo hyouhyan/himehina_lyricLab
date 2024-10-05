@@ -5,7 +5,7 @@ categories:
     - original
     - 2ndalbum
 date: 2021-07-16
-tags: [dam]
+tags: [dam, joysound]
 ---
 
 Fury Flag 天ヨリ 降リ 降リ 振ラ  

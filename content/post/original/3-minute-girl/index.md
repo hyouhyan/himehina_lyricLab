@@ -5,7 +5,7 @@ categories:
     - Original
     - 2ndalbum
 date: 2021-07-21
-tags: [dam]
+tags: [dam, joysound]
 ---
 
 This is the final call for challengers.  

@@ -5,7 +5,7 @@ categories:
     - original
     - 3rdalbum
 date: 2022-08-11
-tags: [dam]
+tags: [dam, joysound]
 ---
 
 {{< hina >}}

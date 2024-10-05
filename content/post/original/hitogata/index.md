@@ -5,7 +5,7 @@ categories:
     - original
     - 1stalbum
 date: 2019-01-09
-tags: [dam]
+tags: [dam, joysound]
 ---
 
 Hey,Mr&MrsVirtual,  

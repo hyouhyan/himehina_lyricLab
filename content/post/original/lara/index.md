@@ -5,7 +5,7 @@ categories:
     - original
     - 1stalbum
 date: 2020-04-15
-tags: [dam]
+tags: [dam, joysound]
 ---
 
 {{< hina >}}
