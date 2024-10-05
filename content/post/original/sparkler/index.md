@@ -5,6 +5,7 @@ categories:
     - original
     - 3rdalbum
 date: 2023-05-24
+tags: [dam]
 ---
 
 夢のおわりの菊の花  

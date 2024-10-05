@@ -5,6 +5,7 @@ categories:
     - Original
     - 3rdalbum
 date: 2023-05-24
+tags: [dam]
 ---
 
 {{< hime >}}

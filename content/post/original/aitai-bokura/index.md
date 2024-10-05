@@ -5,6 +5,7 @@ categories:
     - original
     - 3rdalbum
 date: 2022-10-29
+tags: [dam]
 ---
 
 「ねえ、会いたいよ」  

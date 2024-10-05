@@ -5,6 +5,7 @@ categories:
     - Original
     - 3rdalbum
 date: 2023-03-19
+tags: [dam]
 ---
 
 レイデイス＆ジエントルメン  

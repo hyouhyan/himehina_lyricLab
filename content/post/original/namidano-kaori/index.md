@@ -5,6 +5,7 @@ categories:
     - original
     - 4thalbum
 date: 2024-08-03
+tags: [dam]
 ---
 
 {{< hime >}}

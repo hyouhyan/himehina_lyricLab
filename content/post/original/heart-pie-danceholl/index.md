@@ -5,6 +5,7 @@ categories:
     - original
     - 4thalbum
 date: 2023-12-15
+tags: [dam]
 ---
 
 {{< hime >}}

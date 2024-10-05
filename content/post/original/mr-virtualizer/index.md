@@ -5,6 +5,7 @@ categories:
     - original
     - 2ndalbum
 date: 2020-08-28
+tags: [dam]
 ---
 
 タラッタッタタッツタッター＆ラッター  

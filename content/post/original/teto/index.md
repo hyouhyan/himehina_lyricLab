@@ -5,6 +5,7 @@ categories:
     - original
     - 2ndalbum
 date: 2021-07-21
+tags: [dam]
 ---
 
 {{< hina >}}

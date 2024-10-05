@@ -5,6 +5,7 @@ categories:
     - original
     - 1stalbum
 date: 2019-09-11
+tags: [dam]
 ---
 
 「うたかたよ いかないで」

@@ -5,6 +5,7 @@ categories:
     - original
     - 3rdalbum
 date: 2023-05-24
+tags: [dam]
 ---
 
 「やがて 意識も臓器も {{< ruby ヒレ >}}鰭{{< /ruby >}}も目も失い」
