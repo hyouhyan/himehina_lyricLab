@@ -3,6 +3,7 @@ title: 空っぽの箱庭
 slug: karappo-no-hakoniwa
 categories:
     - original
+tags: [田中ソロ]
 date: 2023-08-07
 ---
 
@@ -96,3 +97,7 @@ Beside me 届いて
 I've decide to sing このまま  
 
 {{< /hime >}}
+
+---
+
+{{< youtube bZAc2Fw4PX4 >}}
