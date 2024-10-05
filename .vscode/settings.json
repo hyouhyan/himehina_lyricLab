@@ -6,5 +6,8 @@
         "m": "{{< hime >}}\\n${text}\\n{{< /hime >}}",
         "n": "{{< hina >}}\\n${text}\\n{{< /hina >}}",
         "r": "{{< ruby >}}${text}{{< /ruby >}}",
+        "hm": "{{< hime >}}\\n${text}\\n{{< /hime >}}",
+        "hn": "{{< hina >}}\\n${text}\\n{{< /hina >}}",
+        "ru": "{{< ruby >}}${text}{{< /ruby >}}",
     }
 }
