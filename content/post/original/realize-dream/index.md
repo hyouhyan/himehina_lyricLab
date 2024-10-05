@@ -3,7 +3,8 @@ title: Realize Dream
 slug: realize-dream
 categories:
     - original
-tags: [田中ソロ, unreleased]
+tags: [田中ソロ, unreleased, live2024-08]
+date: 2024-08-03
 ---
 
 マイク越し見える言の葉も  
