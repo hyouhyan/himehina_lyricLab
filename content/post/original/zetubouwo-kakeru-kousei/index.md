@@ -5,7 +5,7 @@ categories:
     - original
     - 4thalbum
 date: 2024-08-03
-tags: [WIP]
+tags: [WIP, live2024-08, unreleased]
 ---
 
 指先からこぼれ落ちた  
