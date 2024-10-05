@@ -4,6 +4,7 @@ slug: not-devil
 categories:
     - Cover
 date: 2023-01-24
+tags: [田中ソロ]
 ---
 
 アルバムのパート分け  
