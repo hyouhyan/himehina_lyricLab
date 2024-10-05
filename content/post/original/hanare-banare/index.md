@@ -4,7 +4,7 @@ slug: hanare-banare
 categories:
     - original
     - 1stminialbum
-tags: ["ソロ曲", "田中ソロ"]
+tags: ["ソロ曲", "田中ソロ", dam, joysound]
 date: 2021-11-05
 ---
 

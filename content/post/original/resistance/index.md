@@ -4,7 +4,7 @@ slug: resistance
 categories:
     - original
     - 1stminialbum
-tags: ["ソロ曲", "鈴木ソロ"]
+tags: ["ソロ曲", "鈴木ソロ", dam, joysound]
 date: 2021-11-05
 ---
 

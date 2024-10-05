@@ -3,7 +3,7 @@ title: "Raise your voice!"
 slug: raise-your-voice
 categories:
     - original
-tags: ["ソロ曲", "鈴木ソロ"]
+tags: ["ソロ曲", "鈴木ソロ", dam, joysound]
 date: 2023-08-07
 ---
 

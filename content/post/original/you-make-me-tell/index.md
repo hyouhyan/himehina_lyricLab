@@ -4,7 +4,7 @@ slug: you-make-me-tell
 categories:
     - original
     - 1stminialbum
-tags: ["ソロ曲", "鈴木ソロ"]
+tags: ["ソロ曲", "鈴木ソロ", dam, joysound]
 date: 2020-12-24
 ---
 

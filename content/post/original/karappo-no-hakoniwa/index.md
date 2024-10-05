@@ -3,7 +3,7 @@ title: 空っぽの箱庭
 slug: karappo-no-hakoniwa
 categories:
     - original
-tags: [田中ソロ]
+tags: [田中ソロ, dam, joysound]
 date: 2023-08-07
 ---
 

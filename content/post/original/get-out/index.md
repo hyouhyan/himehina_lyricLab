@@ -4,7 +4,7 @@ slug: get-out
 categories:
     - original
     - 1stminialbum
-tags: [田中ソロ]
+tags: [田中ソロ, dam, joysound]
 date: 2022-02-14
 ---
 

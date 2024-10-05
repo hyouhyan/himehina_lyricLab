@@ -4,7 +4,7 @@ slug: kimito-kanaderu-gosenfu
 categories:
     - original
     - 1stminialbum
-tags: [鈴木ソロ]
+tags: [鈴木ソロ, dam, joysound]
 date: 2022-02-14
 ---
 
