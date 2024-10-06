@@ -14,10 +14,10 @@ tags: [田中ソロ]
 {{< /hime >}}
 
 {{< hime >}}
-{{< ruby "わますちふぁさだだ ちゃんねおてぃびー" >}}WHY I'M SWITCHING FASTER THAN THE CHANNELS ON TV{{< /ruby >}}  
+{{< ruby "わますちふぁさだだ" >}}WHY I'M SWITCHING FASTER THAN THE{{< /ruby >}} {{< ruby ちゃんねおてぃびー >}}CHANNELS ON TV{{< /ruby >}}  
 {{< ruby "あい、ヴぁ↑！！"  >}}I'm black{{< /ruby >}} {{< ruby "たねも〜" >}}THEN I'M which{{< /ruby >}}  
 {{< ruby "のーそといすでー" >}}NO!!! SOMETHING ISN'T RIGHT!!{{< /ruby >}}  
-{{< ruby "まいえぶりすべぶぶ あいどんとはとぅふぁーい" >}}MY ENEMY'S INVISIBLE,I DON'T KNOW HOW TO FIGHT{{< /ruby >}}  
+{{< ruby "まいえぶりすべぶぶ" >}}MY ENEMY'S INVISIBLE{{< /ruby >}},{{< ruby あいどんとはとぅふぁーい>}}I DON'T KNOW HOW TO FIGHT{{< /ruby >}}  
 
 {{< /hime >}}
 
@@ -27,8 +27,8 @@ tags: [田中ソロ]
 {{< /hime >}}
 
 {{< hime >}}
-{{< ruby "ざて↑ぶらりーふぃー どどどどんてー" >}}THE TREMBLING FEAR IS MORE THAN I CAN TAKE{{< /ruby >}}  
-{{< ruby "えなまたゲーェ↑ちょ〜ちんざーみらー" >}}WHEN I'M UP AGAINST THE ECHO IN THE MIRROR{{< /ruby >}}  
+{{< ruby "ざて↑ぶらりーふぃー" >}}THE TREMBLING FEAR{{< /ruby >}} {{< ruby どどどどんてー >}}IS MORE THAN I CAN TAKE{{< /ruby >}}  
+{{< ruby "えなまたゲーェ↑" >}}WHEN I'M UP AGAINST{{< /ruby >}} {{< ruby "えちょ〜ちんざーみらー" >}}THE ECHO IN THE MIRROR{{< /ruby >}}  
 
 {{< /hime >}}
 
