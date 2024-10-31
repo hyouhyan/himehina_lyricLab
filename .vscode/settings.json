@@ -9,5 +9,8 @@
         "hm": "{{< hime >}}\\n${text}\\n{{< /hime >}}",
         "hn": "{{< hina >}}\\n${text}\\n{{< /hina >}}",
         "ru": "{{< ruby >}}${text}{{< /ruby >}}",
+        "3": "{{< part-3 >}}\\n${text}\\n{{< /part-3 >}}",
+        "4": "{{< part-4 >}}\\n${text}\\n{{< /part-4 >}}",
+        "5": "{{< part-5 >}}\\n${text}\\n{{< /part-5 >}}",
     }
 }
