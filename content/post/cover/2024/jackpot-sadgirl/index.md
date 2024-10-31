@@ -1,5 +1,5 @@
 ---
-title: ジャックポットサッドガール
+title: "ジャックポットサッドガール (feat. 尾丸ポルカ, 町田ちま, 緑仙)"
 slug: jackpot-sadgirl
 categories:
     - Cover
