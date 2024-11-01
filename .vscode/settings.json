@@ -3,16 +3,17 @@
         "hime": "{{< hime >}}\\n${text}\\n{{< /hime >}}",
         "hina": "{{< hina >}}\\n${text}\\n{{< /hina >}}",
         "ruby": "{{< ruby >}}${text}{{< /ruby >}}",
-        "m": "{{< hime >}}\\n${text}\\n{{< /hime >}}",
-        "n": "{{< hina >}}\\n${text}\\n{{< /hina >}}",
         "r": "{{< ruby >}}${text}{{< /ruby >}}",
-        "hm": "{{< hime >}}\\n${text}\\n{{< /hime >}}",
-        "hn": "{{< hina >}}\\n${text}\\n{{< /hina >}}",
-        "ru": "{{< ruby >}}${text}{{< /ruby >}}",
         "1": "{{< hime >}}\\n${text}\\n{{< /hime >}}",
         "2": "{{< hina >}}\\n${text}\\n{{< /hina >}}",
         "3": "{{< part-3 >}}\\n${text}\\n{{< /part-3 >}}",
         "4": "{{< part-4 >}}\\n${text}\\n{{< /part-4 >}}",
         "5": "{{< part-5 >}}\\n${text}\\n{{< /part-5 >}}",
+
+        "1b": "{{< hime b >}}\\n${text}\\n{{< /hime >}}",
+        "2b": "{{< hina b >}}\\n${text}\\n{{< /hina >}}",
+        "3b": "{{< part-3 b >}}\\n${text}\\n{{< /part-3 >}}",
+        "4b": "{{< part-4 b >}}\\n${text}\\n{{< /part-4 >}}",
+        "5b": "{{< part-5 b >}}\\n${text}\\n{{< /part-5 >}}",
     }
 }
