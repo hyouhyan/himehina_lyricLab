@@ -44,14 +44,14 @@ BABY, YOU are MY KING?
 人間様  
 {{< ruby "イノチ" >}}生命{{< /ruby >}}は平等という刷り込みを語る{{< ruby "ソンシソンガン" >}}尊師尊顔{{< /ruby >}}にゃ  
 {{< /hina >}}
-崇めたまえ頭さげたまえ(ハァ…)  
+{{< ruby アガ >}}崇{{< /ruby >}}めたまえ頭さげたまえ(ハァ…)  
 とか言われて従順  狂ってるって HAPPY HAPPY  
 
 (オウエオエー オアラオエオー アラオエオー アウワエレオー)  
 
 {{< hina >}}
-脳触に委ね涎  
-蕩けて裸愛裸愛な顔を見せてよ  
+{{< ruby ノウショク >}}脳触{{< /ruby >}}に委ね{{< ruby ヨダレ >}}涎{{< /ruby >}}  
+{{< ruby トロ >}}蕩{{< /ruby >}}けて{{< ruby ラメラメ >}}裸愛裸愛{{< /ruby >}}な顔を見せてよ  
 {{< /hina >}}
 
 Che, Che, Cheese
@@ -78,7 +78,7 @@ Ahhh...
 {{< /hime >}}CRAZY...  
 
 誰かの笑顔食って食って  
-贖罪には{{< ruby "ジャム" >}}邪夢{{< /ruby >}}を塗って  
+{{< ruby ショクザイ >}}贖罪{{< /ruby >}}には{{< ruby "ジャム" >}}邪夢{{< /ruby >}}を塗って  
 現実から逃げといでと  
 愛を絡め{{< ruby トジ >}}綴{{< /ruby >}}る  
 
@@ -94,22 +94,23 @@ Aow!
 {{< /hime >}}
 {{< hina >}}
 お望みは我の奴隷?  
-ならほら崇めたまえ歌え歌え  
+ならほら{{< ruby アガ >}}崇{{< /ruby >}}めたまえ歌え歌え  
 {{< /hina >}}
 
 (オウエオエー オアラオエオー アラオエオー アウワエレオー)  
 
 {{< hime >}}
-強欲に委ねたのね  
-惚けた駄目駄目の顔を見せてよ  
+強欲に{{< ruby ユダ >}}委{{< /ruby >}}ねたのね  
+{{< ruby トボ >}}惚{{< /ruby >}}けた{{< ruby ダメダメ >}}駄目駄目{{< /ruby >}}の顔を見せてよ  
 {{< /hime >}}
 
 Che, Che, Che, Che, Che, Che, Cheese  
 
 I am the LADY of CRAZY. I'm READY.  
-教本通り待ちわびた犠牲集群様  絆された口のドア  
+教本通り待ちわびた{{< ruby ギセイ >}}犠牲{{< /ruby >}}{{< ruby シュウグンサマ >}}集群様{{< /ruby >}}  
+{{< ruby ホダ >}}絆{{< /ruby >}}された口のドア  
 もう OPEN して興奮して呼吸すんのも忘れちゃうくらいバンバカバンだ!  
-万歳だ!この一矢の中毒性はまるで犯罪だ!  
+万歳だ!この{{< ruby イチヤ >}}一矢{{< /ruby >}}の中毒性はまるで犯罪だ!  
 
 共感者は共犯者  今日はヤめな傍観者  
 叫び散らかせや合唱  残響  乱反射  
@@ -136,7 +137,7 @@ LADY CRAZY 僕らの生は
 LADY CRAZY いつかは終わる  
 {{< /hina >}}
 {{< hime >}}
-LADY CRAZY ならば自由を喰らうために狂うの  
+LADY CRAZY ならば自由を{{< ruby ク >}}喰{{< /ruby >}}らうために狂うの  
 {{< /hime >}}
 {{< hina >}}
 (LADY)  
@@ -159,11 +160,11 @@ Che, Che, Cheese
 LADY CRAZY POP!
 {{< /hina >}} Oh, LOLO LOLOLOLO  
 {{< hina >}}LADY CRAZY SHOT! 愛をあげる  
-狂おしいほど狂られたのね  
+狂おしいほど{{< ruby タブ >}}狂{{< /ruby >}}られたのね  
 BABY, BABY,{{< /hina >}} Aow! {{< hina >}}夢をあげる  {{< /hina >}}
 
-{{< hime >}}LADY CRAZY VIRTUAL でいいのね  {{< /hime >}}
-{{< hime >}}LADY CRAZY VIRUS な《{{< ruby "キス" >}}接射{{< /ruby >}}》で  {{< /hime >}}
+{{< hime >}}LADY CRAZY {{< ruby バーチャル >}}VIRTUAL{{< /ruby >}} でいいのね  {{< /hime >}}
+{{< hime >}}LADY CRAZY {{< ruby バイラス >}}VIRUS{{< /ruby >}} な《{{< ruby "キス" >}}接射{{< /ruby >}}》で  {{< /hime >}}
 {{< hina >}}狂人{{< /hina >}} Be the ONE LOVE!!  
 {{< hime >}}狂人{{< /hime >}} Be the ONE LOVE!!  
 {{< hime >}}
