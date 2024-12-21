@@ -1,5 +1,5 @@
 ---
-title: potatoになっていく
+title: potatoになっていく(feat. 緑仙)
 slug: becoming-potato
 categories:
     - Cover
