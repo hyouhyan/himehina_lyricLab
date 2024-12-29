@@ -28,7 +28,7 @@ icon = "music"
 
 [[main]]
 identifier = "categories"
-name = "Categories"
+name = "Categories(アルバムごと)"
 url = "/categories"
 weight = 5
 
