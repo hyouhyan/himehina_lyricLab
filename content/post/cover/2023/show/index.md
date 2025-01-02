@@ -12,7 +12,7 @@ Okay たちまち独壇場 Listen listen
 {{< /hime >}}
 Nah-Nah-Nah-Nah-Nah, Ready for my show  
 {{< hina >}}
-傾け  
+{{< ruby かぶ >}}傾{{< /ruby >}}け  
 {{< /hina >}}
 
 振り切ろう  
@@ -30,28 +30,28 @@ Brah brah brah！！！ Pow
 {{< /hina >}}
 
 {{< hime >}}
-全土絢爛豪華 Attention 騒ごうか  
+全土{{< ruby けんらんごうか >}}絢爛豪華{{< /ruby >}} Attention 騒ごうか  
 意思表示にもうじき衝撃の声高らか堂々登板  
 {{< /hime >}}
 {{< hina >}}
-もう伽藍洞は疾っくの疾う淘汰  
+もう{{< ruby がらんどう >}}伽藍洞{{< /ruby >}}は{{< ruby と >}}疾{{< /ruby >}}っくの{{< ruby と >}}疾{{< /ruby >}}う{{< ruby とうた >}}淘汰{{< /ruby >}}  
 {{< /hina >}}
 Aye 繚乱桜花 御出座しだ  
 
 {{< hime >}}
 格好つけてるつもりは NO NO  
 オートマティックに溢れちゃう本能  
-宣う断頭台の上で 燥げ華麗  
+{{< ruby のたま >}}宣{{< /ruby >}}う断頭台の上で {{< ruby はしゃ >}}燥{{< /ruby >}}げ{{< ruby かれい >}}華麗{{< /ruby >}}  
 Da rat a tat... WARNING！  
 {{< /hime >}}
 
 Nah-Nah-Nah-Nah-Nah, Ready for my show  
 {{< hina >}}
-バンザイ 遊ぶ気に寿 Shout it out, Shout it out  
+バンザイ 遊ぶ気に{{< ruby ことぶき >}}寿{{< /ruby >}} Shout it out, Shout it out  
 {{< /hina >}}
 Nah-Nah-Nah-Nah-Nah, Ready for my show  
 {{< hime >}}
-はんなり 感情通りに八艘飛び Shout it out, 
+はんなり 感情通りに{{< ruby はっそう >}}八艘{{< /ruby >}}飛び Shout it out, 
 {{< /hime >}}
 Shout it out  
 
@@ -76,23 +76,23 @@ Look at me now
 {{< /hina >}}
 
 {{< hime >}}
-蛇腹刃蛇尾 騙る二枚刃  
+{{< ruby じゃばら >}}蛇腹{{< /ruby >}}{{< ruby ばだび >}}刃蛇尾{{< /ruby >}} {{< ruby かた >}}騙{{< /ruby >}}る二枚刃  
 野心家 嫉妬するようなジュース  
 たぶらかすな かっとなっちゃ嫌  
-カルマに至る前に揺蕩うわ  
+カルマに至る前に{{< ruby たゆた >}}揺蕩{{< /ruby >}}うわ  
 {{< /hime >}}
 {{< hina >}}
-蛇腹刃蛇尾 騙る二枚刃  
+{{< ruby じゃばら >}}蛇腹{{< /ruby >}}{{< ruby ばだび >}}刃蛇尾{{< /ruby >}} {{< ruby かた >}}騙{{< /ruby >}}る二枚刃  
 野心家 嫉妬するようなジュース  
 たぶらかすな かっとなっちゃ嫌  
 十色のバタフライ (No escape)  
 {{< /hina >}}
 
 {{< hime >}}
-ご存じの通り 騒々しい鼓動に絆されてもう止まれない  
+ご存じの通り {{< ruby そうぞう >}}騒々{{< /ruby >}}しい鼓動に{{< ruby ほだ >}}絆{{< /ruby >}}されてもう止まれない  
 {{< /hime >}}
 {{< hina >}}
-衝動に塗装し描いた Daybreak 肺貫通低音狂  
+衝動に塗装し{{< ruby えが >}}描{{< /ruby >}}いた Daybreak {{< ruby はいかんつうていおんきょう >}}肺貫通低音狂{{< /ruby >}}  
 {{< /hina >}}
 
 Nah-Nah-Nah-Nah-Nah, Ready for my show  
@@ -106,11 +106,11 @@ Nah-Nah-Nah-Nah-Nah, Ready for my show
 
 Nah-Nah-Nah-Nah-Nah, Ready for my show  
 {{< hime >}}
-バンザイ 遊ぶ気に寿 Shout it out, Shout it out  
+バンザイ 遊ぶ気に{{< ruby ことぶき >}}寿{{< /ruby >}} Shout it out, Shout it out  
 {{< /hime >}}
 Nah-Nah-Nah-Nah-Nah, Ready for my show  
 {{< hina >}}
-喝采 巻き起こすために Stay  
+{{< ruby かっさい >}}喝采{{< /ruby >}} 巻き起こすために Stay  
 {{< /hina >}}
 一切合切忘れて Shout it out  
 
