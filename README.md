@@ -6,6 +6,11 @@ This is a quick start template for [Hugo theme Stack](https://github.com/CaiJimm
 
 It comes with a basic theme structure and configuration. GitHub action has been set up to deploy the theme to a public GitHub page automatically. Also, there's a cron job to update the theme automatically everyday.
 
+## 独自Prefix
+- lyric: 歌詞追加
+- part: パート分け
+- ruby: ルビ(ふりがな)振り
+
 ## Get started
 
 1. Click *Use this template*, and create your repository as `<username>.github.io` on GitHub.
