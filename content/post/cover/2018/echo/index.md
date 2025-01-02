@@ -45,3 +45,7 @@ tags: [田中ソロ]
 ｱﾊｧｰ↑↑↑↑wwwww  
 
 {{< /hime >}}
+
+---
+
+{{< youtube H2wdu1ndmmI >}}
