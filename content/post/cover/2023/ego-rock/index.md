@@ -3,6 +3,7 @@ title: エゴロック
 slug: ego-rock
 categories:
 - Cover
+- 2ndcoveralbum
 date: 2023-11-24
 ---
 

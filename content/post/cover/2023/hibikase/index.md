@@ -3,6 +3,7 @@ title: ヒビカセ
 slug: hibikase
 categories:
 - Cover
+- 2ndcoveralbum
 date: 2023-11-24
 ---
 

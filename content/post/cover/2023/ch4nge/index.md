@@ -3,6 +3,7 @@ title: CH4NGE
 slug: ch4nge
 categories:
     - Cover
+    - 2ndcoveralbum
 date: 2023-06-30
 ---
 
