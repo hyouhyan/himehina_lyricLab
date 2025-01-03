@@ -3,6 +3,7 @@ title: 酔いどれ知らず
 slug: yoidore-shirazu
 categories:
     - Cover
+    - 2ndcoveralbum
 date: 2023-09-08
 ---
 

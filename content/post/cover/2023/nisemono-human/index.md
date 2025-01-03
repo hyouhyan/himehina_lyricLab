@@ -3,6 +3,7 @@ title: 偽物人間40号
 slug: nisemono-human
 categories:
 - Cover
+- 2ndcoveralbum
 date: 2023-11-24
 ---
 

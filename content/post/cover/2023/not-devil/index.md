@@ -3,6 +3,7 @@ title: "デビルじゃないもん"
 slug: not-devil
 categories:
     - Cover
+    - 2ndcoveralbum
 date: 2023-01-24
 tags: [田中ソロ]
 ---

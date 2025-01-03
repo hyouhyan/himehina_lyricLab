@@ -3,6 +3,7 @@ title: ノンブレス・オブリージュ
 slug: non-breath-oblige
 categories:
     - Cover
+    - 2ndcoveralbum
 date: 2024-05-04
 ---
 

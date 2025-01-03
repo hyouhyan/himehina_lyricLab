@@ -3,6 +3,7 @@ title: 天ノ弱
 slug: amanojaku
 categories:
     - Cover
+    - 2ndcoveralbum
 date: 2023-04-21
 ---
 

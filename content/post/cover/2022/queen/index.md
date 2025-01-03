@@ -3,6 +3,7 @@ title: "QUEEN"
 slug: queen
 categories:
     - Cover
+    - 2ndcoveralbum
 date: 2022-08-23
 ---
 
