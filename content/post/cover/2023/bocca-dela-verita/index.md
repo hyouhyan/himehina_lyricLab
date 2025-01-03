@@ -3,6 +3,7 @@ title: "ボッカデラベリタ"
 slug: bocca-dela-verita
 categories:
     - Cover
+    - 1stcoveralbum
 date: 2023-04-07
 ---
 

@@ -3,6 +3,7 @@ title: "ヴィラン"
 slug: villain
 categories:
     - Cover
+    - 1stcoveralbum
 date: 2022-11-18
 ---
 

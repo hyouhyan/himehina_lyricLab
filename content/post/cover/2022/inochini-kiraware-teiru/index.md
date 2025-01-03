@@ -2,7 +2,8 @@
 title: "命に嫌われている"
 slug: inochini-kiraware-teiru
 categories:
-- Cover
+    - Cover
+    - 1stcoveralbum
 date: 2022-12-17
 ---
 

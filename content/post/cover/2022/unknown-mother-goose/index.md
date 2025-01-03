@@ -3,6 +3,7 @@ title: "アンノウン・マザーグース"
 slug: unknown-mother-goose
 categories:
     - Cover
+    - 1stcoveralbum
 date: 2022-10-07
 ---
 

@@ -3,6 +3,7 @@ title: "ヴァンパイア"
 slug: vampire
 categories:
     - Cover
+    - 1stcoveralbum
 date: 2022-08-05
 ---
 

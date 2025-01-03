@@ -3,6 +3,7 @@ title: アスノヨゾラ哨戒班
 slug: asuno-yozora-syoukaihan
 categories:
     - Cover
+    - 1stcoveralbum
 date: 2024-07-12
 ---
 {{< hina >}}

@@ -3,6 +3,7 @@ title: "踊"
 slug: odo
 categories:
     - Cover
+    - 1stcoveralbum
 date: 2022-07-15
 ---
 

@@ -3,6 +3,7 @@ title: "それがあなたの幸せとしても"
 slug: sorega-your-happiness
 categories:
     - Cover
+    - 1stcoveralbum
 date: 2023-02-17
 ---
 
