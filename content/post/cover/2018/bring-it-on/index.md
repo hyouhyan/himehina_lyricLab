@@ -3,6 +3,7 @@ title: 劣等上等
 slug: bring-it-on
 categories:
     - Cover
+    - 1stcoveralbum
 date: 2018-08-31
 ---
 

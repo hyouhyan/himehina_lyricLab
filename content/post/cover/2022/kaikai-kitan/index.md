@@ -2,7 +2,8 @@
 title: "廻廻奇譚"
 slug: kaikai-kitan
 categories:
-- Cover
+    - Cover
+    - 1stcoveralbum
 date: 2022-12-17
 ---
 
