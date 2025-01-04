@@ -3,7 +3,6 @@ title: 天樂 (feat. レヴィ・エリファ)
 slug: tengaku
 categories:
     - Cover
-    - 2ndcoveralbum
 tags: [レヴィ・エリファ]
 date: 2023-11-17
 ---

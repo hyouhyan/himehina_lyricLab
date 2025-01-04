@@ -3,6 +3,7 @@ title: 天樂 (ウタミタ弐Ver)
 slug: tengaku-cd
 categories:
     - Cover
+    - 2ndcoveralbum
 date: 2023-11-24
 ---
 
