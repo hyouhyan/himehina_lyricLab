@@ -171,7 +171,10 @@ Oh oh oh, oh oh oh oh oh
 Hey hey hey hey  
 hey hey hey hey  
 
+{{< hime >}}
 それでは皆様お先にBye,Guys!  
+
+{{< /hime >}}
 
 フロアが湧き上がりました
 
