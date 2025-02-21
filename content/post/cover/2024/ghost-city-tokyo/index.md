@@ -7,7 +7,7 @@ date: 2024-09-06
 ---
 
 Key(初音ミク) -3  
-Key(Ayase) -8
+Key(Ayase) +4
 
 ---
 
