@@ -6,7 +6,7 @@ categories:
 date: 2025-01-10
 ---
 
-Key: -3
+Key -3
 
 ---
 
