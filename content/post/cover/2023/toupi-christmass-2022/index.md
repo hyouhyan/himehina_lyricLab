@@ -7,6 +7,10 @@ tags: [田中ソロ]
 date: 2023-02-03
 ---
 
+Key +5
+
+---
+
 {{< hime >}}
 I'm gonna fade away  
 消し去ってきなよそのデータベース  
