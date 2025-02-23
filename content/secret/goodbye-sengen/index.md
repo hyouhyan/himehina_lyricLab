@@ -1,9 +1,6 @@
 ---
 title: グッバイ宣言
 slug: goodbye-sengen
-categories:
-- Cover
-date: 2023-11-24
 ---
 
 {{< hime >}}
