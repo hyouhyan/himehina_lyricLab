@@ -54,13 +54,13 @@ weight = 1
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
+identifier = "x"
+name = "X"
 url = "https://x.com/hyouhyan"
 weight = 2
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-x"
 
 [[social]]
 identifier = "search"
