@@ -1,7 +1,8 @@
 name: Check Compile without Deploy
 
 on:
-  pull_request_target:
+  pull_request:
+    types: [opened, synchronize, reopened]
     branches: [master]
 
 jobs:
@@ -9,14 +10,14 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
       contents: write
 
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: ${{ github.event.pull_request.head.ref }}
-
       - name: Set Timezone JST
         run: sudo timedatectl set-timezone Asia/Tokyo
 
