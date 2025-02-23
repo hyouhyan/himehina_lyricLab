@@ -1,11 +1,14 @@
 ---
-title: potatoになっていく(feat. 緑仙)
-slug: becoming-potato
 categories:
-    - Cover
+- Cover
 date: 2024-12-20
-tags: [緑仙]
+image: https://img.youtube.com/vi/OJij33Z5ekA/maxresdefault.jpg
+slug: becoming-potato
+tags:
+- 緑仙
+title: potatoになっていく(feat. 緑仙)
 ---
+
 
 Key +-0
 

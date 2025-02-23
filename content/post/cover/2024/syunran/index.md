@@ -1,10 +1,12 @@
 ---
-title: 春嵐
-slug: syunran
 categories:
-    - Cover
+- Cover
 date: 2024-02-16
+image: https://img.youtube.com/vi/zsamTkaikvY/maxresdefault.jpg
+slug: syunran
+title: 春嵐
 ---
+
 
 Key +-0
 

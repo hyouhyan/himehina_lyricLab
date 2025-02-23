@@ -1,11 +1,13 @@
 ---
-title: アスノヨゾラ哨戒班
-slug: asuno-yozora-syoukaihan
 categories:
-    - Cover
-    - 1stcoveralbum
+- Cover
+- 1stcoveralbum
 date: 2024-07-12
+image: https://img.youtube.com/vi/7Hk3WLadcMI/maxresdefault.jpg
+slug: asuno-yozora-syoukaihan
+title: アスノヨゾラ哨戒班
 ---
+
 
 Key -2
 

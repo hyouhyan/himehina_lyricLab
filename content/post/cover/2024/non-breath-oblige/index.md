@@ -1,11 +1,13 @@
 ---
-title: ノンブレス・オブリージュ
-slug: non-breath-oblige
 categories:
-    - Cover
-    - 2ndcoveralbum
+- Cover
+- 2ndcoveralbum
 date: 2024-05-04
+image: https://img.youtube.com/vi/Og0IoLY8XtE/maxresdefault.jpg
+slug: non-breath-oblige
+title: ノンブレス・オブリージュ
 ---
+
 
 Key -4
 

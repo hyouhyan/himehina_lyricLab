@@ -1,11 +1,14 @@
 ---
-title: 妄想感傷代償連盟 (feat. AZKi)
-slug: mousou-kanshou-daishou-renmei
 categories:
-    - Cover
-tags: [AZKi]
+- Cover
 date: 2024-03-29
+image: https://img.youtube.com/vi/cvQln96Lsv4/maxresdefault.jpg
+slug: mousou-kanshou-daishou-renmei
+tags:
+- AZKi
+title: 妄想感傷代償連盟 (feat. AZKi)
 ---
+
 
 Key -1
 
