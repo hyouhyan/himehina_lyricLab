@@ -1,11 +1,13 @@
 ---
-title: 涙の薫りがする
-slug: namidano-kaori
-categories: 
-    - original
-    - 4thalbum
+categories:
+- original
+- 4thalbum
 date: 2024-08-03
+image: https://img.youtube.com/vi/Gpu5Cgpsjn4/maxresdefault.jpg
+slug: namidano-kaori
+title: 涙の薫りがする
 ---
+
 
 {{< hime >}}
 泣いたって 泣いたって  
