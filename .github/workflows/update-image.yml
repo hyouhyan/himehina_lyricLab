@@ -45,6 +45,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: master
           author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          assignees: hyouhyan
+          commit-message: "CI: サムネイルをimageに反映"
           delete-branch: true
           title: "CI: サムネイルをimageに反映"
           body: "This is an automatically generated PR from GitHub Actions"
