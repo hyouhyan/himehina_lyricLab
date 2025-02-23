@@ -1,11 +1,13 @@
 ---
-title: マザードラッグ
-slug: mother-drug
 categories:
-    - original
-    - 4thalbum
+- original
+- 4thalbum
 date: 2023-08-07
+image: https://img.youtube.com/vi/twJzYXklQhI/maxresdefault.jpg
+slug: mother-drug
+title: マザードラッグ
 ---
+
 
 カカカ ココケカ ククケカ ケカケカク カココカコ カコクケコ  
 カココ クカケコ カカコ カコク カカコ ケコク  

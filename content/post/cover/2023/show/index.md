@@ -1,10 +1,12 @@
 ---
-title: 唱
-slug: show
 categories:
-    - Cover
+- Cover
 date: 2023-11-03
+image: https://img.youtube.com/vi/DqGNHjJTXy8/maxresdefault.jpg
+slug: show
+title: 唱
 ---
+
 
 Key +-0
 

@@ -1,11 +1,13 @@
 ---
-title: 氷少女と陥落街
-slug: callgirl-and-fallencity
-categories: 
-    - original
-    - 2ndalbum
+categories:
+- original
+- 2ndalbum
 date: 2021-07-21
+image: https://img.youtube.com/vi/Z9Io37vU_dY/maxresdefault.jpg
+slug: callgirl-and-fallencity
+title: 氷少女と陥落街
 ---
+
 
 {{< hime >}}
 もう一度聞かせてあの歓声を  

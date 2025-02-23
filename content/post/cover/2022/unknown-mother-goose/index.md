@@ -1,11 +1,13 @@
 ---
-title: "アンノウン・マザーグース"
-slug: unknown-mother-goose
 categories:
-    - Cover
-    - 1stcoveralbum
+- Cover
+- 1stcoveralbum
 date: 2022-10-07
+image: https://img.youtube.com/vi/WxQED-nBOyE/maxresdefault.jpg
+slug: unknown-mother-goose
+title: アンノウン・マザーグース
 ---
+
 
 Key -2
 

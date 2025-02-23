@@ -1,10 +1,12 @@
 ---
-title: ロウワー
-slug: lower
 categories:
-    - Cover
+- Cover
 date: 2023-06-16
+image: https://img.youtube.com/vi/RnmWwIMiMNw/maxresdefault.jpg
+slug: lower
+title: ロウワー
 ---
+
 
 Key -4
 

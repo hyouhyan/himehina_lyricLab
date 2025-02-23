@@ -1,10 +1,12 @@
 ---
-title: "いーあるふぁんくらぶ"
-slug: i-aru-fun-club
 categories:
-    - Cover
+- Cover
 date: 2019-03-18
+image: https://img.youtube.com/vi/3h6qU080brA/maxresdefault.jpg
+slug: i-aru-fun-club
+title: いーあるふぁんくらぶ
 ---
+
 
 Key +-0
 

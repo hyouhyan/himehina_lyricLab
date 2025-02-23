@@ -1,11 +1,13 @@
 ---
-title: Hello, Hologram
-slug: hello-hologram
 categories:
-    - original
-    - 3rdalbum
+- original
+- 3rdalbum
 date: 2022-05-13
+image: https://img.youtube.com/vi/_46UlyaJPyk/maxresdefault.jpg
+slug: hello-hologram
+title: Hello, Hologram
 ---
+
 
 What you watch  
 on the bright limelight.  

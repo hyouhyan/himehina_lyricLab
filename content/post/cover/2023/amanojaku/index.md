@@ -1,11 +1,13 @@
 ---
-title: 天ノ弱
-slug: amanojaku
 categories:
-    - Cover
-    - 2ndcoveralbum
+- Cover
+- 2ndcoveralbum
 date: 2023-04-21
+image: https://img.youtube.com/vi/xIGJhY6Kc7M/maxresdefault.jpg
+slug: amanojaku
+title: 天ノ弱
 ---
+
 
 Key -5
 

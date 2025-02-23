@@ -1,11 +1,13 @@
 ---
-title: 酔いどれ知らず
-slug: yoidore-shirazu
 categories:
-    - Cover
-    - 2ndcoveralbum
+- Cover
+- 2ndcoveralbum
 date: 2023-09-08
+image: https://img.youtube.com/vi/5hzs2tlQzAk/maxresdefault.jpg
+slug: yoidore-shirazu
+title: 酔いどれ知らず
 ---
+
 
 Key +-0
 

@@ -1,11 +1,13 @@
 ---
-title: "踊"
-slug: odo
 categories:
-    - Cover
-    - 1stcoveralbum
+- Cover
+- 1stcoveralbum
 date: 2022-07-15
+image: https://img.youtube.com/vi/cVmJc7OqxYY/maxresdefault.jpg
+slug: odo
+title: 踊
 ---
+
 
 Key +-0
 

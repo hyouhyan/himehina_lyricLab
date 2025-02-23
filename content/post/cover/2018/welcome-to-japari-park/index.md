@@ -1,10 +1,12 @@
 ---
-title: "ようこそジャパリパークへ"
-slug: welcome-to-japari-park
 categories:
-    - Cover
+- Cover
 date: 2018-08-17
+image: https://img.youtube.com/vi/He6NNULUom0/maxresdefault.jpg
+slug: welcome-to-japari-park
+title: ようこそジャパリパークへ
 ---
+
 
 Key +-0
 

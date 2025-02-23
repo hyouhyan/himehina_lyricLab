@@ -1,11 +1,13 @@
 ---
-title: 相思相愛リフレクション
-slug: aisiaiai-reflection
 categories:
-    - original
-    - 2ndalbum
+- original
+- 2ndalbum
 date: 2021-02-07
+image: https://img.youtube.com/vi/rTmGarVkCgo/maxresdefault.jpg
+slug: aisiaiai-reflection
+title: 相思相愛リフレクション
 ---
+
 
 {{< hina >}}
 I’m Ready to Shout Emotion.  

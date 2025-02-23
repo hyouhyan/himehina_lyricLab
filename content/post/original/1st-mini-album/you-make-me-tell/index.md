@@ -1,12 +1,16 @@
 ---
-title: "ユメミテル"
-slug: you-make-me-tell
 categories:
-    - original
-    - 1stminialbum
-tags: ["ソロ曲", "鈴木ソロ"]
+- original
+- 1stminialbum
 date: 2020-12-24
+image: https://img.youtube.com/vi/j4nPnJWoX2E/maxresdefault.jpg
+slug: you-make-me-tell
+tags:
+- ソロ曲
+- 鈴木ソロ
+title: ユメミテル
 ---
+
 
 {{< hina >}}
 {{< ruby "ユメミテル" >}}you make me tell{{< /ruby >}} ソバニイタイ 言いたい  

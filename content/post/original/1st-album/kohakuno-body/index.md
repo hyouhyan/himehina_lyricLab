@@ -1,11 +1,13 @@
 ---
-title: 琥珀の身体
-slug: kohakuno-body
-categories: 
-    - original
-    - 1stalbum
+categories:
+- original
+- 1stalbum
 date: 2019-11-29
+image: https://img.youtube.com/vi/2mcb3w-Ejjo/maxresdefault.jpg
+slug: kohakuno-body
+title: 琥珀の身体
 ---
+
 
 土埃りが眠りにつく{{< ruby ハイガイ >}}廃街{{< /ruby >}}に  
 裸足でコソ取り  

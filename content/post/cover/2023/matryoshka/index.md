@@ -1,11 +1,14 @@
 ---
-title: マトリョシカ (feat. ラプラス・ダークネス)
-slug: matryoshka
 categories:
-    - Cover
-tags: [ラプラス・ダークネス]
+- Cover
 date: 2023-10-20
+image: https://img.youtube.com/vi/OTNuKoV_3m0/maxresdefault.jpg
+slug: matryoshka
+tags:
+- ラプラス・ダークネス
+title: マトリョシカ (feat. ラプラス・ダークネス)
 ---
+
 
 Key -3
 
