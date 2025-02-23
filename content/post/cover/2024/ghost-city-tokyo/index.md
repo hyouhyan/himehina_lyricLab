@@ -1,10 +1,12 @@
 ---
-title: 幽霊東京
-slug: ghost-city-tokyo
 categories:
-    - Cover
+- Cover
 date: 2024-09-06
+image: https://img.youtube.com/vi/6xk7bstyhF0/maxresdefault.jpg
+slug: ghost-city-tokyo
+title: 幽霊東京
 ---
+
 
 Key(初音ミク) -3  
 Key(Ayase) +4

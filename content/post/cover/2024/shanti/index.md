@@ -1,10 +1,12 @@
 ---
-title: シャンティ
-slug: shanti
 categories:
-    - Cover
+- Cover
 date: 2024-12-06
+image: https://img.youtube.com/vi/IW0RmnsA-bc/maxresdefault.jpg
+slug: shanti
+title: シャンティ
 ---
+
 
 Key +1
 
