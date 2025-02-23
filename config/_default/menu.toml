@@ -48,6 +48,7 @@ icon = "tag"
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/hyouhyan/himehina_lyricLab"
+weight = 1
 
 [social.params]
 icon = "brand-github"
@@ -56,6 +57,16 @@ icon = "brand-github"
 identifier = "twitter"
 name = "Twitter"
 url = "https://x.com/hyouhyan"
+weight = 2
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "search"
+name = "search"
+url = "/search/"
+weight = 3
+
+[social.params]
+icon = "search"
