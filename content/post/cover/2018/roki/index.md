@@ -1,10 +1,12 @@
 ---
-title: ロキ
-slug: roki
 categories:
-    - Cover
+- Cover
 date: 2018-11-09
+image: https://img.youtube.com/vi/mtb-qa8xvFU/maxresdefault.jpg
+slug: roki
+title: ロキ
 ---
+
 
 Key +-0
 

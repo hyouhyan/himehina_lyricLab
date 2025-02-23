@@ -1,11 +1,15 @@
 ---
-title: "Raise your voice!"
-slug: raise-your-voice
 categories:
-    - original
-tags: ["ソロ曲", "鈴木ソロ"]
+- original
 date: 2023-08-07
+image: https://img.youtube.com/vi/2zM8A2PWl1U/maxresdefault.jpg
+slug: raise-your-voice
+tags:
+- ソロ曲
+- 鈴木ソロ
+title: Raise your voice!
 ---
+
 
 {{< hina >}}
 見渡す限り豪雨  

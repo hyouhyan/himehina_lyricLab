@@ -1,11 +1,13 @@
 ---
-title: "Mr.VIRTUALIZER"
-slug: mr-virtualizer
 categories:
-    - original
-    - 2ndalbum
+- original
+- 2ndalbum
 date: 2020-08-28
+image: https://img.youtube.com/vi/9mR5y5DAVSg/maxresdefault.jpg
+slug: mr-virtualizer
+title: Mr.VIRTUALIZER
 ---
+
 
 タラッタッタタッツタッター＆ラッター  
 Mr.VIRTUALIZER  

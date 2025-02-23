@@ -1,11 +1,13 @@
 ---
-title: "ボッカデラベリタ"
-slug: bocca-dela-verita
 categories:
-    - Cover
-    - 1stcoveralbum
+- Cover
+- 1stcoveralbum
 date: 2023-04-07
+image: https://img.youtube.com/vi/D67sHM2tcHE/maxresdefault.jpg
+slug: bocca-dela-verita
+title: ボッカデラベリタ
 ---
+
 
 Key -5
 

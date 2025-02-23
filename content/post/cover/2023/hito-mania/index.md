@@ -1,10 +1,12 @@
 ---
-title: 人マニア
-slug: hito-mania
 categories:
-    - Cover
+- Cover
 date: 2023-12-01
+image: https://img.youtube.com/vi/n8JeG5VBEv8/maxresdefault.jpg
+slug: hito-mania
+title: 人マニア
 ---
+
 
 Key +-0
 

@@ -1,11 +1,13 @@
 ---
-title: 藍の華
-slug: ainohana
 categories:
-    - original
-    - 1stalbum
+- original
+- 1stalbum
 date: 2020-04-15
+image: https://img.youtube.com/vi/qmrzmpovipQ/maxresdefault.jpg
+slug: ainohana
+title: 藍の華
 ---
+
 
 {{< hime >}}
 生きる居場所も選べぬなら  

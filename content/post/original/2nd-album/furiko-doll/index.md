@@ -1,11 +1,13 @@
 ---
-title: フリコドウル
-slug: furiko-doll
 categories:
-    - original
-    - 2ndalbum
+- original
+- 2ndalbum
 date: 2021-07-16
+image: https://img.youtube.com/vi/5JZ0sLljwMI/maxresdefault.jpg
+slug: furiko-doll
+title: フリコドウル
 ---
+
 
 Fury Flag 天ヨリ 降リ 降リ 振ラ  
 Sily Sily Foolish ニ Flee Flee Faraway!  

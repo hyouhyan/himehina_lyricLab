@@ -1,11 +1,13 @@
 ---
-title: 3分ガール
-slug: 3-minute-girl
 categories:
-    - Original
-    - 2ndalbum
+- Original
+- 2ndalbum
 date: 2021-07-21
+image: https://img.youtube.com/vi/RBmWaW-3Cug/maxresdefault.jpg
+slug: 3-minute-girl
+title: 3分ガール
 ---
+
 
 This is the final call for challengers.  
 You have three minutes to comply. Ready?  

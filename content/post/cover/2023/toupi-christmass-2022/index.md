@@ -1,11 +1,14 @@
 ---
-title: 刀ピークリスマスのテーマソング2022
-slug: toupi-christmass-2022
 categories:
-    - Cover
-tags: [田中ソロ]
+- Cover
 date: 2023-02-03
+image: https://img.youtube.com/vi/nWd1Kj8tU0g/maxresdefault.jpg
+slug: toupi-christmass-2022
+tags:
+- 田中ソロ
+title: 刀ピークリスマスのテーマソング2022
 ---
+
 
 Key +5
 

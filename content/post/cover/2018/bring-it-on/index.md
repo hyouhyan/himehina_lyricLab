@@ -1,11 +1,13 @@
 ---
-title: 劣等上等
-slug: bring-it-on
 categories:
-    - Cover
-    - 1stcoveralbum
+- Cover
+- 1stcoveralbum
 date: 2018-08-31
+image: https://img.youtube.com/vi/il4cAeVzZwI/maxresdefault.jpg
+slug: bring-it-on
+title: 劣等上等
 ---
+
 
 Key -3
 

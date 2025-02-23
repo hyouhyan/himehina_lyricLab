@@ -1,11 +1,13 @@
 ---
-title: キリカ
-slug: kiryca
 categories:
-    - original
-    - 2ndalbum
+- original
+- 2ndalbum
 date: 2021-07-21
+image: https://img.youtube.com/vi/Mu27_4cwMAg/maxresdefault.jpg
+slug: kiryca
+title: キリカ
 ---
+
 
 {{< hime >}}
 さらば全ての{{< ruby "コイネガ" >}}希いよ{{< /ruby >}} きたれ全ての禍いよ  
