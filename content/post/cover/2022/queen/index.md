@@ -1,11 +1,13 @@
 ---
-title: "QUEEN"
-slug: queen
 categories:
-    - Cover
-    - 2ndcoveralbum
+- Cover
+- 2ndcoveralbum
 date: 2022-08-23
+image: https://img.youtube.com/vi/wfGZ8WA60gA/maxresdefault.jpg
+slug: queen
+title: QUEEN
 ---
+
 
 Key -6
 

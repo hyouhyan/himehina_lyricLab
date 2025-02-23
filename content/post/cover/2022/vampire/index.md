@@ -1,11 +1,13 @@
 ---
-title: "ヴァンパイア"
-slug: vampire
 categories:
-    - Cover
-    - 1stcoveralbum
+- Cover
+- 1stcoveralbum
 date: 2022-08-05
+image: https://img.youtube.com/vi/siipnlhsEK0/maxresdefault.jpg
+slug: vampire
+title: ヴァンパイア
 ---
+
 
 Key -4
 

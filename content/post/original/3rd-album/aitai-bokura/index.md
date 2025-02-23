@@ -1,11 +1,13 @@
 ---
-title: "会いたいボクラ"
-slug: aitai-bokura
 categories:
-    - original
-    - 3rdalbum
+- original
+- 3rdalbum
 date: 2022-10-29
+image: https://img.youtube.com/vi/X6f4CrKMPpo/maxresdefault.jpg
+slug: aitai-bokura
+title: 会いたいボクラ
 ---
+
 
 「ねえ、会いたいよ」  
 

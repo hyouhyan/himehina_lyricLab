@@ -1,11 +1,13 @@
 ---
-title: GOLDEN
-slug: golden
 categories:
-    - Original
-    - 3rdalbum
+- Original
+- 3rdalbum
 date: 2023-05-24
+image: https://img.youtube.com/vi/mMIvGTQ6Qzg/maxresdefault.jpg
+slug: golden
+title: GOLDEN
 ---
+
 
 {{< hime >}}
 Hey J, what a Golden Day  

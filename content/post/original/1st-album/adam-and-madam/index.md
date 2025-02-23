@@ -1,11 +1,13 @@
 ---
-title: "アダムとマダム"
-slug: adam-and-madam
 categories:
-    - original
-    - 1stalbum
+- original
+- 1stalbum
 date: 2020-04-15
+image: https://img.youtube.com/vi/VADgVRvoqwg/maxresdefault.jpg
+slug: adam-and-madam
+title: アダムとマダム
 ---
+
 
 One, two, three, four...Skip,  
 Count twenty four.  

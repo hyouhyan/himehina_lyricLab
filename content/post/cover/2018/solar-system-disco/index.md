@@ -1,10 +1,12 @@
 ---
-title: 太陽系デスコ
-slug: solar-system-disco
 categories:
-    - Cover
+- Cover
 date: 2018-09-21
+image: https://img.youtube.com/vi/DdqEdO4EOuU/maxresdefault.jpg
+slug: solar-system-disco
+title: 太陽系デスコ
 ---
+
 
 Key +4
 

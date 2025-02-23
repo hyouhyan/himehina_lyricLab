@@ -1,11 +1,13 @@
 ---
-title: 愛包ダンスホール
-slug: heart-pie-danceholl
 categories:
-    - original
-    - 4thalbum
+- original
+- 4thalbum
 date: 2023-12-15
+image: https://img.youtube.com/vi/bnofYmfKLeo/maxresdefault.jpg
+slug: heart-pie-danceholl
+title: 愛包ダンスホール
 ---
+
 
 {{< hime >}}
 {{< ruby "アイパイ" >}}愛包{{< /ruby >}}ダンスホール 今日はボレロ  
