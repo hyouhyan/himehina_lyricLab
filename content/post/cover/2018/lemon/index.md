@@ -2,7 +2,7 @@
 categories:
 - cover
 date: 2018-10-12
-image: https://img.youtube.com/vi/fxenYOQDXj4/maxresdefault.jpg
+image: cover.jpg
 slug: lemon
 tags:
 - deleted
