@@ -7,6 +7,10 @@ date: 2018-05-17
 tags: [田中ソロ]
 ---
 
+Key +-0
+
+---
+
 {{< hime >}}
 {{< ruby "わちゃへ！" >}}WHAT THE HELL'S{{< /ruby >}} {{< ruby "ごにごん！" >}}GOING ON?!{{< /ruby >}}  
 {{< ruby "きゃん" >}}CAN{{< /ruby >}} {{< ruby "さまてみぴー" >}}SOMEONE TELL ME PLEASE--{{< /ruby >}}  
