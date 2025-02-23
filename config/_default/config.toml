@@ -1,3 +1,5 @@
+theme = "stack"
+
 # Change baseurl before deploy
 baseurl = "https://himehina.hyouhyan.com"
 languageCode = "ja"
