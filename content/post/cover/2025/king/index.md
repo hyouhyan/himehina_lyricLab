@@ -4,6 +4,7 @@ slug: king
 categories:
   - Cover
 date: 2025-01-10
+image: https://img.youtube.com/vi/jNnkUU8i0t8/maxresdefault.jpg
 ---
 
 Key -3
