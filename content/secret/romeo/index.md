@@ -37,6 +37,9 @@ title: ロメオ
 
 {{< hime >}}
 さあさドレスに着替えて  
+{{< hina >}}
+(Jump! Jump! Jump! Jump!)  
+{{< /hina >}}
 世界一のお姫様踊りましょうか？  
 {{< /hime >}}
 {{< hina >}}
@@ -52,6 +55,9 @@ title: ロメオ
 
 {{< hina >}}
 瞳閉じてプレゼント  
+{{< hime >}}
+(Jump! Jump! Jump! Jump!)  
+{{< /hime >}}
 空に光るあの星を二人のものに  
 {{< /hina >}}
 {{< hime >}}
@@ -88,6 +94,9 @@ title: ロメオ
 
 {{< hina >}}
 さあさ裸足で駆け出せ  
+{{< hime >}}
+(Jump! Jump! Jump! Jump!)  
+{{< /hime >}}
 世界一のお姫様夢の世界へ  
 {{< /hina >}}
 {{< hime >}}
@@ -103,6 +112,9 @@ title: ロメオ
 
 {{< hime >}}
 手を繋いで連れてくよ  
+{{< hina >}}
+(Jump! Jump! Jump! Jump!)  
+{{< /hina >}}
 海に眠る宝石を二人のものに  
 {{< /hime >}}
 {{< hina >}}
@@ -137,6 +149,9 @@ title: ロメオ
 
 {{< hime >}}
 さあさドレスに着替えて  
+{{< hina >}}
+(Jump! Jump! Jump! Jump!)  
+{{< /hina >}}
 世界一のお姫様踊りましょうか？  
 {{< /hime >}}
 {{< hina >}}
@@ -152,6 +167,9 @@ title: ロメオ
 
 {{< hina >}}
 瞳閉じてプレゼント  
+{{< hime >}}
+(Jump! Jump! Jump! Jump!)  
+{{< /hime >}}
 空に光るあの星を二人のものに  
 {{< /hina >}}
 {{< hime >}}
