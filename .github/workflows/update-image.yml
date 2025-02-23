@@ -43,7 +43,7 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: main
+          base: master
           author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           delete-branch: true
           title: "CI: サムネイルをimageに反映"
