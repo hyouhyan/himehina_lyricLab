@@ -1,11 +1,14 @@
 ---
-title: Surges (feat. 角巻わため)
-slug: surges
 categories:
-    - Cover
-tags: ["角巻わため"]
+- Cover
 date: 2024-08-23
+image: https://img.youtube.com/vi/Tabx6hI0YX4/maxresdefault.jpg
+slug: surges
+tags:
+- 角巻わため
+title: Surges (feat. 角巻わため)
 ---
+
 
 Key +-0
 

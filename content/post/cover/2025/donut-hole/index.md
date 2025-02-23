@@ -5,6 +5,7 @@ categories:
 - Cover
 date: 2025-02-07
 tags: ["儒烏風亭らでん","轟はじめ"]
+image: https://img.youtube.com/vi/o4ldHxSl6Dk/maxresdefault.jpg
 ---
 
 Key -4

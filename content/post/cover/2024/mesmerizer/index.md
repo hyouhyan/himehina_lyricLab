@@ -1,10 +1,12 @@
 ---
-title: メズマライザー
-slug: mesmerizer
 categories:
-    - Cover
-date: 2024-08-16 
+- Cover
+date: 2024-08-16
+image: https://img.youtube.com/vi/IpATDVy9nRw/maxresdefault.jpg
+slug: mesmerizer
+title: メズマライザー
 ---
+
 
 Key +-0
 

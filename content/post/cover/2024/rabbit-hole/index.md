@@ -1,11 +1,15 @@
 ---
-title: ラビットホール (feat. 周央サンゴ, 星川サラ)
-slug: rabbit-hole
 categories:
-    - Cover
-tags: [周央サンゴ, 星川サラ]
+- Cover
 date: 2024-04-19
+image: https://img.youtube.com/vi/nilFlrzgeks/maxresdefault.jpg
+slug: rabbit-hole
+tags:
+- 周央サンゴ
+- 星川サラ
+title: ラビットホール (feat. 周央サンゴ, 星川サラ)
 ---
+
 
 Key +-0
 

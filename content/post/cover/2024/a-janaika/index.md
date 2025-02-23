@@ -1,10 +1,12 @@
 ---
-title: Aじゃないか
-slug: a-janaika
 categories:
-    - Cover
+- Cover
 date: 2024-03-08
+image: https://img.youtube.com/vi/OisosYQuPHs/maxresdefault.jpg
+slug: a-janaika
+title: Aじゃないか
 ---
+
 
 Key +-0
 
