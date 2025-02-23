@@ -1,11 +1,14 @@
 ---
-title: ジェヘナ (feat. 健屋花那)
-slug: gehenna
 categories:
-    - Cover
-tags: ["健屋花那"]
-date: 2024-05-17 
+- Cover
+date: 2024-05-17
+image: https://img.youtube.com/vi/zDp89vQ6LZs/maxresdefault.jpg
+slug: gehenna
+tags:
+- 健屋花那
+title: ジェヘナ (feat. 健屋花那)
 ---
+
 
 Key -2
 

@@ -1,10 +1,12 @@
 ---
-title: ネバーフィクション
-slug: never-fiction
 categories:
-    - Cover
+- Cover
 date: 2024-09-20
+image: https://img.youtube.com/vi/OahAk0Osdoc/maxresdefault.jpg
+slug: never-fiction
+title: ネバーフィクション
 ---
+
 
 Key +-0
 

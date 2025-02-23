@@ -1,11 +1,15 @@
 ---
-title: ブリキノダンス (feat. Nornis(戌亥とこ, 町田ちま))
-slug: buriki-no-dance
 categories:
-    - Cover
-tags: ["戌亥とこ", "町田ちま"]
+- Cover
 date: 2024-07-19
+image: https://img.youtube.com/vi/u6OKRQDpC_s/maxresdefault.jpg
+slug: buriki-no-dance
+tags:
+- 戌亥とこ
+- 町田ちま
+title: ブリキノダンス (feat. Nornis(戌亥とこ, 町田ちま))
 ---
+
 
 Key +2
 

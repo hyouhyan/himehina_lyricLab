@@ -1,10 +1,12 @@
 ---
-title: ハオ
-slug: hao
 categories:
-    - Cover
+- Cover
 date: 2024-06-28
+image: https://img.youtube.com/vi/DlvdVRnlhVo/maxresdefault.jpg
+slug: hao
+title: ハオ
 ---
+
 
 Key 0
 

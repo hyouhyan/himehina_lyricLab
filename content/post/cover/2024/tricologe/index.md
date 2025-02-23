@@ -1,11 +1,14 @@
 ---
-title: トリコロージュ (feat. 壱百満天原サロメ)
-slug: tricologe
 categories:
-    - Cover
-tags: [壱百満天原サロメ]
+- Cover
 date: 2024-02-02
+image: https://img.youtube.com/vi/zOQoU1XhhB8/maxresdefault.jpg
+slug: tricologe
+tags:
+- 壱百満天原サロメ
+title: トリコロージュ (feat. 壱百満天原サロメ)
 ---
+
 
 Key +-0
 

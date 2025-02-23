@@ -1,11 +1,16 @@
 ---
-title: "ジャックポットサッドガール (feat. 尾丸ポルカ, 町田ちま, 緑仙)"
-slug: jackpot-sadgirl
 categories:
-    - Cover
+- Cover
 date: 2024-10-31
-tags: ["尾丸ポルカ", "町田ちま", "緑仙"]
+image: https://img.youtube.com/vi/63C74T0DLOg/maxresdefault.jpg
+slug: jackpot-sadgirl
+tags:
+- 尾丸ポルカ
+- 町田ちま
+- 緑仙
+title: ジャックポットサッドガール (feat. 尾丸ポルカ, 町田ちま, 緑仙)
 ---
+
 
 Key +-0
 
