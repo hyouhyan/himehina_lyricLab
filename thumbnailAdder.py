@@ -46,6 +46,6 @@ def process_directory(root_dir):
 
 
 if __name__ == '__main__':
-    target_directory = '/home/hyouhyan/github/himehina_lyricLab/content/post/'  # 対象のルートディレクトリを指定
+    target_directory = './content/post/'  # 対象のルートディレクトリを指定
     process_directory(target_directory)
     print('Processing complete.')
