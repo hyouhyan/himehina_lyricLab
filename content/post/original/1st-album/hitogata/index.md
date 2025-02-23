@@ -1,11 +1,13 @@
 ---
-title: "ヒトガタ"
-slug: hitogata
 categories:
-    - original
-    - 1stalbum
+- original
+- 1stalbum
 date: 2019-01-09
+image: https://img.youtube.com/vi/J8PUUv4LFkQ/maxresdefault.jpg
+slug: hitogata
+title: ヒトガタ
 ---
+
 
 Hey,Mr&MrsVirtual,  
 you know we are not a doll  

@@ -1,10 +1,12 @@
 ---
-title: "千本桜"
-slug: senbonzakura
 categories:
-    - Cover
+- Cover
 date: 2023-01-06
+image: https://img.youtube.com/vi/7FfV4BHclRk/maxresdefault.jpg
+slug: senbonzakura
+title: 千本桜
 ---
+
 
 Key +-0
 

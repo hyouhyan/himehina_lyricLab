@@ -1,11 +1,14 @@
 ---
-title: ECHO(えちょー)
-slug: echo
 categories:
-    - cover
+- cover
 date: 2018-05-17
-tags: [田中ソロ]
+image: https://img.youtube.com/vi/H2wdu1ndmmI/maxresdefault.jpg
+slug: echo
+tags:
+- 田中ソロ
+title: ECHO(えちょー)
 ---
+
 
 Key +-0
 

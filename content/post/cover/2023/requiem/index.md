@@ -1,10 +1,12 @@
 ---
-title: レクイエム
-slug: requiem
 categories:
-    - Cover
-date: 2023-09-22 
+- Cover
+date: 2023-09-22
+image: https://img.youtube.com/vi/IwOFJzE1pGw/maxresdefault.jpg
+slug: requiem
+title: レクイエム
 ---
+
 
 Key +-0
 

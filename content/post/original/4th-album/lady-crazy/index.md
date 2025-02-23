@@ -1,11 +1,13 @@
 ---
-title: "Lady Crazy"
-slug: lady-crazy
 categories:
-    - original
-    - 4thalbum
+- original
+- 4thalbum
 date: 2024-11-15
+image: https://img.youtube.com/vi/WTBycStPfJM/maxresdefault.jpg
+slug: lady-crazy
+title: Lady Crazy
 ---
+
 
 L..L..L..LADY  
 C..CRAZY LADY  

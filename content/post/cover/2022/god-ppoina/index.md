@@ -1,10 +1,12 @@
 ---
-title: "神っぽいな"
-slug: god-ppoina
 categories:
-    - Cover
+- Cover
 date: 2022-09-09
+image: https://img.youtube.com/vi/meDkq8ypkUM/maxresdefault.jpg
+slug: god-ppoina
+title: 神っぽいな
 ---
+
 
 Key -2
 

@@ -1,11 +1,14 @@
 ---
-title: 天樂 (feat. レヴィ・エリファ)
-slug: tengaku
 categories:
-    - Cover
-tags: [レヴィ・エリファ]
+- Cover
 date: 2023-11-17
+image: https://img.youtube.com/vi/qm1VHqb5jjM/maxresdefault.jpg
+slug: tengaku
+tags:
+- レヴィ・エリファ
+title: 天樂 (feat. レヴィ・エリファ)
 ---
+
 
 Key +-0
 

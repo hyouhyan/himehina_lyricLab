@@ -1,11 +1,13 @@
 ---
-title: "ヴィラン"
-slug: villain
 categories:
-    - Cover
-    - 1stcoveralbum
+- Cover
+- 1stcoveralbum
 date: 2022-11-18
+image: https://img.youtube.com/vi/fXbhlSQfE8w/maxresdefault.jpg
+slug: villain
+title: ヴィラン
 ---
+
 
 Key -2
 

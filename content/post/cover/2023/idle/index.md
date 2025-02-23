@@ -1,10 +1,12 @@
 ---
-title: アイドル
-slug: idle
 categories:
-    - Cover
+- Cover
 date: 2023-05-05
+image: https://img.youtube.com/vi/iiHRF95vHdI/maxresdefault.jpg
+slug: idle
+title: アイドル
 ---
+
 
 Key +-0
 

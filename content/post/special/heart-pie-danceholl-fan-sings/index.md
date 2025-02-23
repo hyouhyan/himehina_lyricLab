@@ -1,12 +1,14 @@
 ---
-title: 愛包ダンスホール (コール付)
-slug: heart-pie-danceholl-fan-sings
 categories:
-    - original
-    - 4thalbum
-    - special
+- original
+- 4thalbum
+- special
 date: 2024-07-30
+image: https://img.youtube.com/vi/Ai8zQCnjQjE/maxresdefault.jpg
+slug: heart-pie-danceholl-fan-sings
+title: 愛包ダンスホール (コール付)
 ---
+
 
 {{< part-5 >}}コール部分  {{< /part-5 >}}
 {{< part-5 b>}}一緒に歌う部分  {{< /part-5 >}}

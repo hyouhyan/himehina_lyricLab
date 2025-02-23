@@ -1,12 +1,16 @@
 ---
-title: "キセキ色"
-slug: kiseki-color
 categories:
-    - original
-    - 1stminialbum
-tags: ["ソロ曲", "田中ソロ"]
+- original
+- 1stminialbum
 date: 2020-12-24
+image: https://img.youtube.com/vi/GF1vrjCBpeo/maxresdefault.jpg
+slug: kiseki-color
+tags:
+- ソロ曲
+- 田中ソロ
+title: キセキ色
 ---
+
 
 {{< hime >}}
 すり抜けていく透明な世界  

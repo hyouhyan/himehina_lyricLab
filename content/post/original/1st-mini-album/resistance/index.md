@@ -1,12 +1,16 @@
 ---
-title: "Resistance!"
-slug: resistance
 categories:
-    - original
-    - 1stminialbum
-tags: ["ソロ曲", "鈴木ソロ"]
+- original
+- 1stminialbum
 date: 2021-11-05
+image: https://img.youtube.com/vi/vy86yXPWqbg/maxresdefault.jpg
+slug: resistance
+tags:
+- ソロ曲
+- 鈴木ソロ
+title: Resistance!
 ---
+
 
 {{< hina >}}
 帰り道 残ってないどこも  

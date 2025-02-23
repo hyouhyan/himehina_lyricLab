@@ -1,10 +1,12 @@
 ---
-title: "心という名の不可解"
-slug: kokoroto-iunano-fukakai
 categories:
-    - Cover
+- Cover
 date: 2022-12-09
+image: https://img.youtube.com/vi/RIYC2WOcphM/maxresdefault.jpg
+slug: kokoroto-iunano-fukakai
+title: 心という名の不可解
 ---
+
 
 Key -1
 

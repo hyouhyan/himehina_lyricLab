@@ -1,11 +1,14 @@
 ---
-title: 空っぽの箱庭
-slug: karappo-no-hakoniwa
 categories:
-    - original
-tags: [田中ソロ]
+- original
 date: 2023-08-07
+image: https://img.youtube.com/vi/bZAc2Fw4PX4/maxresdefault.jpg
+slug: karappo-no-hakoniwa
+tags:
+- 田中ソロ
+title: 空っぽの箱庭
 ---
+
 
 {{< hime >}}
 Beside me 応えて  

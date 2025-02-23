@@ -1,11 +1,13 @@
 ---
-title: 提灯暗航
-slug: chochinankou 
 categories:
-    - original
-    - 3rdalbum
+- original
+- 3rdalbum
 date: 2023-05-24
+image: https://img.youtube.com/vi/LP-c0gRyP1g/maxresdefault.jpg
+slug: chochinankou
+title: 提灯暗航
 ---
+
 
 「やがて 意識も臓器も {{< ruby ヒレ >}}鰭{{< /ruby >}}も目も失い」  
 「{{< ruby シユウ >}}雌雄{{< /ruby >}}、一つの生命体となる」
