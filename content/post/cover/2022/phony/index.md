@@ -1,10 +1,12 @@
 ---
-title: "フォニイ"
-slug: phony
 categories:
-    - Cover
+- Cover
 date: 2022-09-23
+image: https://img.youtube.com/vi/PiDc5IBYDPk/maxresdefault.jpg
+slug: phony
+title: フォニイ
 ---
+
 
 Key -2
 

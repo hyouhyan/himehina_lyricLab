@@ -1,11 +1,13 @@
 ---
-title: CH4NGE
-slug: ch4nge
 categories:
-    - Cover
-    - 2ndcoveralbum
+- Cover
+- 2ndcoveralbum
 date: 2023-06-30
+image: https://img.youtube.com/vi/gQMWMi5h24Q/maxresdefault.jpg
+slug: ch4nge
+title: CH4NGE
 ---
+
 
 Key +-0
 

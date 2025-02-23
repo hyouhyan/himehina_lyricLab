@@ -1,11 +1,13 @@
 ---
-title: 不機嫌なスリーカード
-slug: badmood-threecard
-categories: 
-    - original
-    - 3rdalbum
+categories:
+- original
+- 3rdalbum
 date: 2022-08-11
+image: https://img.youtube.com/vi/ulH8MUUAOu4/maxresdefault.jpg
+slug: badmood-threecard
+title: 不機嫌なスリーカード
 ---
+
 
 {{< hina >}}
 現実 空想 世界 繰り返すゲームで  

@@ -1,11 +1,13 @@
 ---
-title: "ヒバリ"
-slug: hibari
 categories:
-    - original
-    - 1stalbum
+- original
+- 1stalbum
 date: 2019-06-28
+image: https://img.youtube.com/vi/O5uyMKs0n3Q/maxresdefault.jpg
+slug: hibari
+title: ヒバリ
 ---
+
 
 {{< hime >}}
 ひらひら {{< ruby "ハオチヅキ" >}}葉落月{{< /ruby >}}  

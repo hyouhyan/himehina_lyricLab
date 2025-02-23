@@ -1,11 +1,13 @@
 ---
-title: "うたかたよいかないで"
-slug: utakata-yo-ikanaide
 categories:
-    - original
-    - 1stalbum
+- original
+- 1stalbum
 date: 2019-09-11
+image: https://img.youtube.com/vi/rzd5xEPn4-U/maxresdefault.jpg
+slug: utakata-yo-ikanaide
+title: うたかたよいかないで
 ---
+
 
 「うたかたよ いかないで」
 

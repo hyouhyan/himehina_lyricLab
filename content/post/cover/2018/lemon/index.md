@@ -1,11 +1,14 @@
 ---
-title: Lemon
-slug: lemon
 categories:
-    - cover
+- cover
 date: 2018-10-12
-tags: [deleted]
+image: https://img.youtube.com/vi/fxenYOQDXj4/maxresdefault.jpg
+slug: lemon
+tags:
+- deleted
+title: Lemon
 ---
+
 
 Key +5
 

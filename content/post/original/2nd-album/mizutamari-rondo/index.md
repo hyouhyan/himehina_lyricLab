@@ -1,11 +1,13 @@
 ---
-title: 水たまりロンド
-slug: mizutamari-rondo
 categories:
-    - original
-    - 2ndalbum
+- original
+- 2ndalbum
 date: 2020-11-26
+image: https://img.youtube.com/vi/0mUlMPcwodk/maxresdefault.jpg
+slug: mizutamari-rondo
+title: 水たまりロンド
 ---
+
 
 {{< hime >}}
 泣きじゃくる様に嘆く空  

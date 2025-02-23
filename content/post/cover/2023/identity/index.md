@@ -1,10 +1,12 @@
 ---
-title: "アイデンティティ"
-slug: identity
 categories:
-    - Cover
+- Cover
 date: 2023-03-03
+image: https://img.youtube.com/vi/_xWUxD55-5U/maxresdefault.jpg
+slug: identity
+title: アイデンティティ
 ---
+
 
 Key -2
 

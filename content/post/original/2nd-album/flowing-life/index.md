@@ -1,11 +1,13 @@
 ---
-title: 流れ行く命
-slug: flowing-life
 categories:
-  - original
-  - 2ndalbum
+- original
+- 2ndalbum
 date: 2021-03-19
+image: https://img.youtube.com/vi/LeHpDyYoCmw/maxresdefault.jpg
+slug: flowing-life
+title: 流れ行く命
 ---
+
 
 {{< hime >}}
 拝啓、昨日の自分  

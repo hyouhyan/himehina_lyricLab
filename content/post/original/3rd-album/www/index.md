@@ -1,11 +1,13 @@
 ---
-title: "WWW"
-slug: www
 categories:
-    - Original
-    - 3rdalbum
+- Original
+- 3rdalbum
 date: 2023-03-19
+image: https://img.youtube.com/vi/mWPocET-tVM/maxresdefault.jpg
+slug: www
+title: WWW
 ---
+
 
 レイデイス＆ジエントルメン  
 プリイズ炎上 In the Paradiso Waradiso  

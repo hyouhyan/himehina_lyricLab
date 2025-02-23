@@ -1,12 +1,15 @@
 ---
-title: "デビルじゃないもん"
-slug: not-devil
 categories:
-    - Cover
-    - 2ndcoveralbum
+- Cover
+- 2ndcoveralbum
 date: 2023-01-24
-tags: [田中ソロ]
+image: https://img.youtube.com/vi/oNlKGXv-rCw/maxresdefault.jpg
+slug: not-devil
+tags:
+- 田中ソロ
+title: デビルじゃないもん
 ---
+
 
 Key +-0
 

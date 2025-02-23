@@ -1,10 +1,12 @@
 ---
-title: "夜明けと蛍"
-slug: yoake-and-hotaru
 categories:
-    - Cover
+- Cover
 date: 2022-10-21
+image: https://img.youtube.com/vi/AvrgOiOvaYo/maxresdefault.jpg
+slug: yoake-and-hotaru
+title: 夜明けと蛍
 ---
+
 
 Key +-0
 

@@ -1,12 +1,16 @@
 ---
-title: "花れ話れ"
-slug: hanare-banare
 categories:
-    - original
-    - 1stminialbum
-tags: ["ソロ曲", "田中ソロ"]
+- original
+- 1stminialbum
 date: 2021-11-05
+image: https://img.youtube.com/vi/S5NE8aPv-es/maxresdefault.jpg
+slug: hanare-banare
+tags:
+- ソロ曲
+- 田中ソロ
+title: 花れ話れ
 ---
+
 
 {{< hime >}}
 夕焼け小道に  

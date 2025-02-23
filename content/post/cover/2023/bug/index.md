@@ -1,10 +1,12 @@
 ---
-title: バグ
-slug: bug
 categories:
-    - Cover
+- Cover
 date: 2023-07-14
+image: https://img.youtube.com/vi/n-EUQRMi1xc/maxresdefault.jpg
+slug: bug
+title: バグ
 ---
+
 
 Key -2
 
