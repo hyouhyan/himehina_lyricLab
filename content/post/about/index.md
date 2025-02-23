@@ -8,7 +8,7 @@ date: 2024-09-23
 ---
 ## はおー！
 HIMEHINA Lyric LABへようこそ！  
-ここでは、HIMEHINA楽曲の歌詞を掲載しています。  
+ここでは、HIMEHINA楽曲の歌詞をパート分けして掲載しています。  
 [オリソン](/categories/original/)、[ウタミタ](/categories/cover/)問わずなるべく多くの楽曲を掲載していく予定です。
 
 パート分けはカラーリングで行っており、  
