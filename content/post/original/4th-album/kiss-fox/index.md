@@ -2,7 +2,7 @@
 categories:
 - original
 - 4thalbum
-date: 2025-03-03
+date: 2025-03-02
 slug: kiss-fox
 title: キスキツネ
 ---
