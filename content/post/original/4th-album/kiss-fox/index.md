@@ -26,7 +26,7 @@ title: キスキツネ
 コンココこういうのが好きなんでしょ？
 {{< /hina >}}
 {{< hime >}}
-そうね。  
+(そうね。)  
 {{< /hime >}}
 {{< hina >}}
 オス♂メス♀キツネ バチャ{{< ruby メカ >}}粧{{< /ruby >}}しよね  
@@ -35,13 +35,13 @@ title: キスキツネ
 Midnight Calling {{< ruby カンゲンキョウ >}}甘言郷{{< /ruby >}}へGet go？ 
 {{< /hime >}}
 {{< hina >}}
-Get go!!  
+(Get go!!)  
 {{< /hina >}}
 {{< hime >}}
 ハマれば{{< ruby ミヤコ >}}都{{< /ruby >}} オチれば{{< ruby カエ >}}帰{{< /ruby >}}らん人  
 {{< /hime >}}
 
-いざ{{< ruby ヨ >}}寄{{< /ruby >}}られぃ いざ{{< ruby ヨ >}}寄{{< /ruby >}}られぃ Hey!!  
+いざ{{< ruby ヨ >}}寄{{< /ruby >}}られぃ いざ{{< ruby ヨ >}}寄{{< /ruby >}}られぃ (Hey!!)  
 ほら止まれぃ 
 {{< hina >}}
 Stand by？  
@@ -72,19 +72,19 @@ MagicalなFakeでVirtualなKissをしたいなら
 {{< hina >}}
 {{< ruby オド >}}踊{{< /ruby >}}らされって{{< ruby ホテ >}}火照{{< /ruby >}}られちゃって心のヤカンが 
 {{< /hina >}}  
-{{< ruby チン >}}Chin{{< /ruby >}}!! {{< ruby チン >}}Chin{{< /ruby >}}!!  
+({{< ruby チン >}}Chin{{< /ruby >}}!! {{< ruby チン >}}Chin{{< /ruby >}}!!)  
 {{< hime >}}
 {{< ruby ドシャブ >}}土砂降{{< /ruby >}}り涙で{{< ruby ノウショウ >}}脳漿{{< /ruby >}}{{< ruby カンスイ >}}冠水{{< /ruby >}}したとて{{< ruby ケイホウ >}}警報{{< /ruby >}} 
 {{< /hime >}}  
-{{< ruby チン >}}Chin{{< /ruby >}}!! {{< ruby チン >}}Chin{{< /ruby >}}!!  
+({{< ruby チン >}}Chin{{< /ruby >}}!! {{< ruby チン >}}Chin{{< /ruby >}}!!)  
 {{< hina >}}
 {{< ruby アヤカシ >}}妖{{< /ruby >}}の鳴らすベル
 {{< /hina >}}  
-{{< ruby チン >}}Chin{{< /ruby >}}!! {{< ruby チン >}}Chin{{< /ruby >}}!!  
+({{< ruby チン >}}Chin{{< /ruby >}}!! {{< ruby チン >}}Chin{{< /ruby >}}!!)  
 {{< hime >}}
 狐の嫁入り
 {{< /hime >}}  
-{{< ruby コン >}}Kon{{< /ruby >}}♡{{< ruby コン >}}Kon{{< /ruby >}}♡  
+({{< ruby コン >}}Kon{{< /ruby >}}♡{{< ruby コン >}}Kon{{< /ruby >}}♡)  
 {{< hime >}}
 これもうパペットじゃん 
 {{< /hime >}}{{< hina >}}
@@ -104,7 +104,7 @@ Trouble Fox Knocks
 {{< /hime >}}
 {{< ruby タバカ >}}謀{{< /ruby >}}られて {{< ruby タワ >}}戯{{< /ruby >}}かられて Ah  
 
-いざ{{< ruby ホ >}}惚{{< /ruby >}}られぃ いざ{{< ruby ホ >}}惚{{< /ruby >}}られぃ Hey!!  
+いざ{{< ruby ホ >}}惚{{< /ruby >}}られぃ いざ{{< ruby ホ >}}惚{{< /ruby >}}られぃ (Hey!!)  
 ぬけ出せねぃ {{< hime >}}
 Hands up?  
 {{< /hime >}}
