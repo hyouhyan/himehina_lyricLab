@@ -5,6 +5,7 @@ categories:
     - original
     - 4thalbum
 tags: [live2024-08, live2025-03, wip, unreleased]
+image: https://old.himehina.jp/s3/demo-skiyaki/uploads/ckeditor/pictures/145579/content__FHD_LIVE_%E6%B6%99%E3%81%AE%E8%96%AB%E3%82%8A%E3%81%8B%E3%82%99%E3%81%99%E3%82%8B_%E8%A5%BF%E3%83%84%E3%82%A2%E3%83%BCKV%E6%A8%AA_%E5%8D%94%E8%B3%9B%E5%85%A5%E3%82%8A_%E3%83%AD%E3%82%B3%E3%82%99%E6%94%B92.png
 date: 2024-08-03
 ---
 
