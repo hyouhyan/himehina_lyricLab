@@ -34,11 +34,6 @@ jobs:
         run: python ./thumbnailAdder.py
 
       # 変更をコミットしてプッシュ
-      - name: set git config
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
       - name: Create pull request
         uses: peter-evans/create-pull-request@v5
         with:
