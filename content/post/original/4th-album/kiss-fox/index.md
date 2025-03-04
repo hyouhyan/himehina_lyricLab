@@ -15,8 +15,8 @@ title: キスキツネ
 {{< ruby ば >}}化{{< /ruby >}}かし{{< ruby あいこ >}}愛乞{{< /ruby >}}う {{< ruby アイキョウメンヨウカイ >}}愛嬌面妖怪{{< /ruby >}}  
 キスキツネ  
 
-Yahan  
-Kon Coretta  
+{{< ruby ヤハン >}}Yahan{{< /ruby >}}  
+{{< ruby コン >}}Kon{{< /ruby >}} {{< ruby コレッタ >}}Coretta{{< /ruby >}}  
 
 {{< hina >}}
 コンココこういうのが好きなんでしょ？
@@ -24,16 +24,16 @@ Kon Coretta
 {{< hime >}}
 そうね。  
 {{< /hime >}}
-オス♂メス♀キツネ バチャ粧しよね  
+オス♂メス♀キツネ バチャ{{< ruby め >}}粧{{< /ruby >}}しよね  
 {{< hime >}}
 Midnight Calling {{< ruby カンゲンキョウ >}}甘言郷{{< /ruby >}}へGet go？ 
 {{< /hime >}}
 {{< hina >}}
 Get go!!  
 {{< /hina >}}
-ハマれば都 オチれば帰らん人  
+ハマれば{{< ruby みやこ >}}都{{< /ruby >}} オチれば{{< ruby かえ >}}帰{{< /ruby >}}らん人  
 
-いざ寄られぃ いざ寄られぃ Hey!!  
+いざ{{< ruby よ >}}寄{{< /ruby >}}られぃ いざ{{< ruby よ >}}寄{{< /ruby >}}られぃ Hey!!  
 ほら止まれぃ 
 {{< hina >}}
 Stand by？  
@@ -42,31 +42,31 @@ Stand by？
 {{< ruby トロ >}}蕩{{< /ruby >}}り {{< ruby タモ >}}給{{< /ruby >}}り {{< ruby ソロ >}}静{{< /ruby >}}り {{< ruby ソロ >}}揃{{< /ruby >}}り {{< ruby ソバ >}}傍{{< /ruby >}}に  
 {{< /hime >}}
 {{< hina >}}
-差し出しませ頬に  
+差し出しませ{{< ruby ほほ >}}頬{{< /ruby >}}に  
 {{< /hina >}}
 
 Locking on Target  
 
 {{< hime >}}
-遊戯な{{< ruby チュー >}}(๑ˇ3ˇ๑){{< /ruby >}}が好き  
+{{< ruby ゆうぎ >}}遊戯{{< /ruby >}}な{{< ruby チュー >}}(๑ˇ3ˇ๑){{< /ruby >}}が好き  
 キスキスキツネ キスキスキツネ  
-嗚呼、{{< ruby ヤ >}}妬{{< /ruby >}}かしい？  
+{{< ruby ああ >}}嗚呼{{< /ruby >}}、{{< ruby ヤ >}}妬{{< /ruby >}}かしい？  
 {{< /hime >}}
 {{< hina >}}
 MagicalなFakeでVirtualなKissをしたいなら  
 手のひらで 
 {{< /hina >}}
-踊って  
+{{< ruby おど >}}踊{{< /ruby >}}って  
 
-Yahan  
-Kon Coretta  
+{{< ruby ヤハン >}}Yahan{{< /ruby >}}  
+{{< ruby コン >}}Kon{{< /ruby >}} {{< ruby コレッタ >}}Coretta{{< /ruby >}}  
 
 {{< hina >}}
-踊らされって{{< ruby ホテ >}}火照{{< /ruby >}}られちゃって心のヤカンが 
+{{< ruby おど >}}踊{{< /ruby >}}らされって{{< ruby ホテ >}}火照{{< /ruby >}}られちゃって心のヤカンが 
 {{< /hina >}}
 Chin!! Chin!!  
 {{< hime >}}
-土砂降り涙で脳漿冠水したとて警報 
+{{< ruby どしゃぶ >}}土砂降{{< /ruby >}}り涙で{{< ruby のうしょう >}}脳漿{{< /ruby >}}{{< ruby かんすい >}}冠水{{< /ruby >}}したとて{{< ruby けいほう >}}警報{{< /ruby >}} 
 {{< /hime >}}
 Chin!! Chin!!  
 {{< hina >}}
@@ -82,7 +82,7 @@ Chin!! Chin!!
 {{< /hina >}}
 {{< hime >}}
 パーリーto Go 
-夢の京へ  
+夢の{{< ruby きょう >}}京{{< /ruby >}}へ  
 {{< /hime >}}
 
 {{< hina >}}
@@ -90,16 +90,16 @@ Chin!! Chin!!
 {{< /hina >}}
 Trouble Fox Knocks  
 {{< hime >}}
-紛れ込んだ宵 Your Soul 誘拐  
+紛れ込んだ{{< ruby よい >}}宵{{< /ruby >}} Your Soul 誘拐  
 {{< /hime >}}
 {{< ruby タバカ >}}謀{{< /ruby >}}られて {{< ruby タワ >}}戯{{< /ruby >}}かられて Ah  
 
-いざ惚られぃ いざ惚られぃ Hey!!  
+いざ{{< ruby ほ >}}惚{{< /ruby >}}られぃ いざ{{< ruby ほ >}}惚{{< /ruby >}}られぃ Hey!!  
 ぬけ出せねぃ {{< hime >}}
 Hands up?  
 {{< /hime >}}
 {{< hina >}}
-遂に天地返り脳内冗談状態  
+{{< ruby つい >}}遂{{< /ruby >}}に天地返り{{< ruby のうないじょうだんじょうたい >}}脳内冗談状態{{< /ruby >}}  
 {{< /hina >}}
 {{< hime >}}
 「そのネツキスキスキ」  
@@ -107,36 +107,36 @@ Hands up?
 
 ・・・止められねぃ！  
 
-Yahan  
-Kon Coretta  
+{{< ruby ヤハン >}}Yahan{{< /ruby >}}  
+{{< ruby コン >}}Kon{{< /ruby >}} {{< ruby コレッタ >}}Coretta{{< /ruby >}}  
 
 Locking on Target  
 
 {{< hime >}}
-遊戯な{{< ruby チュー >}}(๑ˇ3ˇ๑){{< /ruby >}}てなさ  
-化か化かし合い 馬鹿馬鹿しい愛  
-嗚呼、{{< ruby ホ >}}惚{{< /ruby >}}らしい♥  
+{{< ruby ゆうぎ >}}遊戯{{< /ruby >}}な{{< ruby チュー >}}(๑ˇ3ˇ๑){{< /ruby >}}てなさ  
+{{< ruby ば >}}化{{< /ruby >}}か{{< ruby ば >}}化{{< /ruby >}}かし{{< ruby あ >}}合{{< /ruby >}}い {{< ruby ばかばか >}}馬鹿馬鹿{{< /ruby >}}しい{{< ruby あい >}}愛{{< /ruby >}}  
+{{< ruby ああ >}}嗚呼{{< /ruby >}}、{{< ruby ホ >}}惚{{< /ruby >}}らしい♥  
 {{< /hime >}}
 {{< hina >}}
-でもアンタの頬に口づけしたのは本気の気まぐれよ  
+でもアンタの{{< ruby ほほ >}}頬{{< /ruby >}}に口づけしたのは本気の気まぐれよ  
 {{< /hina >}}
 {{< hime >}}
 食らっちゃったったったったー！  
 {{< /hime >}}
 
 {{< hina >}}
-遊戯な{{< ruby チュー >}}(๑ˇ3ˇ๑){{< /ruby >}}が好き  
+{{< ruby ゆうぎ >}}遊戯{{< /ruby >}}な{{< ruby チュー >}}(๑ˇ3ˇ๑){{< /ruby >}}が好き  
 キスキスキツネ キスキスキツネ  
-嗚呼、{{< ruby ヤ >}}妬{{< /ruby >}}かしい？  
+{{< ruby ああ >}}嗚呼{{< /ruby >}}、{{< ruby ヤ >}}妬{{< /ruby >}}かしい？  
 {{< /hina >}}
 {{< hime >}}
 {{< ruby マジガオ >}}Magigao{{< /ruby >}}なFaceでRealなKissをしたいから  
 眠るまで
 {{< /hime >}}
- 踊って  
+ {{< ruby おど >}}踊{{< /ruby >}}って  
 
-Yahan  
-Kon Coretta  
+{{< ruby ヤハン >}}Yahan{{< /ruby >}}  
+{{< ruby コン >}}Kon{{< /ruby >}} {{< ruby コレッタ >}}Coretta{{< /ruby >}}  
 
 ---
 
