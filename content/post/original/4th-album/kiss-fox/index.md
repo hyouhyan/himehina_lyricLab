@@ -10,9 +10,13 @@ title: キスキツネ
 
 
 
+{{< hime >}}
 よぉ～～
+{{< /hime >}}
 
+{{< hime >}}
 {{< ruby バ >}}化{{< /ruby >}}かし{{< ruby アイコ >}}愛乞{{< /ruby >}}う {{< ruby アイキョウメンヨウカイ >}}愛嬌面妖怪{{< /ruby >}}  
+{{< /hime >}}
 キスキツネ  
 
 {{< ruby ヤハン >}}Yahan{{< /ruby >}}  
@@ -24,14 +28,18 @@ title: キスキツネ
 {{< hime >}}
 そうね。  
 {{< /hime >}}
+{{< hina >}}
 オス♂メス♀キツネ バチャ{{< ruby メカ >}}粧{{< /ruby >}}しよね  
+{{< /hina >}}
 {{< hime >}}
 Midnight Calling {{< ruby カンゲンキョウ >}}甘言郷{{< /ruby >}}へGet go？ 
 {{< /hime >}}
 {{< hina >}}
 Get go!!  
 {{< /hina >}}
+{{< hime >}}
 ハマれば{{< ruby ミヤコ >}}都{{< /ruby >}} オチれば{{< ruby カエ >}}帰{{< /ruby >}}らん人  
+{{< /hime >}}
 
 いざ{{< ruby ヨ >}}寄{{< /ruby >}}られぃ いざ{{< ruby ヨ >}}寄{{< /ruby >}}られぃ Hey!!  
 ほら止まれぃ 
@@ -120,7 +128,8 @@ Locking on Target
 {{< ruby アア >}}嗚呼{{< /ruby >}}、{{< ruby ホ >}}惚{{< /ruby >}}らしい♥  
 {{< /hime >}}
 {{< hina >}}
-でもアンタの{{< ruby ホホ >}}頬{{< /ruby >}}に口づけしたのは本気の気まぐれよ  
+でもアンタの{{< ruby ホホ >}}頬{{< /ruby >}}に口づけしたのは  
+本気の気まぐれよ  
 {{< /hina >}}
 {{< hime >}}
 食らっちゃったったったったー！  
