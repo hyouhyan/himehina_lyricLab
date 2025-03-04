@@ -23,7 +23,7 @@ Midnight Calling {{< ruby カンゲンキョウ >}}甘言郷{{< /ruby >}}へGet 
 
 いざ寄られぃ いざ寄られぃ Hey!!  
 ほら止まれぃ Stand by？  
-{{< ruby トロ >}}蕩{{< /ruby >}}り {{< ruby タモ >}}給{{< /ruby >}}り {{< ruby ソロ >}}静{{< /ruby >}}り{ {< ruby ソロ >}}揃{{< /ruby >}}り {{< ruby ソバ >}}傍{{< /ruby >}}に  
+{{< ruby トロ >}}蕩{{< /ruby >}}り {{< ruby タモ >}}給{{< /ruby >}}り {{< ruby ソロ >}}静{{< /ruby >}}り {{< ruby ソロ >}}揃{{< /ruby >}}り {{< ruby ソバ >}}傍{{< /ruby >}}に  
 差し出しませ頬に  
 
 Locking on Target  
