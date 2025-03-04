@@ -63,18 +63,20 @@ MagicalなFakeでVirtualなKissをしたいなら
 
 {{< hina >}}
 {{< ruby オド >}}踊{{< /ruby >}}らされって{{< ruby ホテ >}}火照{{< /ruby >}}られちゃって心のヤカンが 
-{{< /hina >}}
-Chin!! Chin!!  
+{{< /hina >}}  
+{{< ruby チン >}}Chin{{< /ruby >}}!! {{< ruby チン >}}Chin{{< /ruby >}}!!  
 {{< hime >}}
 {{< ruby ドシャブ >}}土砂降{{< /ruby >}}り涙で{{< ruby ノウショウ >}}脳漿{{< /ruby >}}{{< ruby カンスイ >}}冠水{{< /ruby >}}したとて{{< ruby ケイホウ >}}警報{{< /ruby >}} 
-{{< /hime >}}
-Chin!! Chin!!  
+{{< /hime >}}  
+{{< ruby チン >}}Chin{{< /ruby >}}!! {{< ruby チン >}}Chin{{< /ruby >}}!!  
 {{< hina >}}
-{{< ruby アヤカシ >}}妖{{< /ruby >}}の鳴らすベル 
-{{< /hina >}}Chin!! Chin!!  
+{{< ruby アヤカシ >}}妖{{< /ruby >}}の鳴らすベル
+{{< /hina >}}  
+{{< ruby チン >}}Chin{{< /ruby >}}!! {{< ruby チン >}}Chin{{< /ruby >}}!!  
 {{< hime >}}
 狐の嫁入り
-{{< /hime >}}Kon♡Kon♡  
+{{< /hime >}}  
+{{< ruby コン >}}Kon{{< /ruby >}}♡{{< ruby コン >}}Kon{{< /ruby >}}♡  
 {{< hime >}}
 これもうパペットじゃん 
 {{< /hime >}}{{< hina >}}
@@ -86,11 +88,11 @@ Chin!! Chin!!
 {{< /hime >}}
 
 {{< hina >}}
-{{< ruby タブラ >}}誑{{< /ruby >}}かす{{< ruby モウアイ >}}盲愛{{< /ruby >}}{{< ruby ドウラク >}}道楽{{< /ruby >}}妖怪  
+{{< ruby タブラ >}}誑{{< /ruby >}}かす{{< ruby モウアイ >}}盲愛{{< /ruby >}}{{< ruby ドウラク >}}道楽{{< /ruby >}}{{< ruby ヨウカイ >}}妖怪{{< /ruby >}}  
 {{< /hina >}}
 Trouble Fox Knocks  
 {{< hime >}}
-紛れ込んだ{{< ruby ヨイ >}}宵{{< /ruby >}} Your Soul 誘拐  
+紛れ込んだ{{< ruby ヨイ >}}宵{{< /ruby >}} Your Soul {{< ruby ユウカイ >}}誘拐{{< /ruby >}}  
 {{< /hime >}}
 {{< ruby タバカ >}}謀{{< /ruby >}}られて {{< ruby タワ >}}戯{{< /ruby >}}かられて Ah  
 
@@ -132,8 +134,8 @@ Locking on Target
 {{< hime >}}
 {{< ruby マジガオ >}}Magigao{{< /ruby >}}なFaceでRealなKissをしたいから  
 眠るまで
-{{< /hime >}}
- {{< ruby オド >}}踊{{< /ruby >}}って  
+{{< /hime >}} 
+{{< ruby オド >}}踊{{< /ruby >}}って  
 
 {{< ruby ヤハン >}}Yahan{{< /ruby >}}  
 {{< ruby コン >}}Kon{{< /ruby >}} {{< ruby コレッタ >}}Coretta{{< /ruby >}}  
