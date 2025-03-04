@@ -12,7 +12,7 @@ title: キスキツネ
 
 よぉ～～
 
-{{< ruby ば >}}化{{< /ruby >}}かし{{< ruby あいこ >}}愛乞{{< /ruby >}}う {{< ruby アイキョウメンヨウカイ >}}愛嬌面妖怪{{< /ruby >}}  
+{{< ruby バ >}}化{{< /ruby >}}かし{{< ruby アイコ >}}愛乞{{< /ruby >}}う {{< ruby アイキョウメンヨウカイ >}}愛嬌面妖怪{{< /ruby >}}  
 キスキツネ  
 
 {{< ruby ヤハン >}}Yahan{{< /ruby >}}  
@@ -24,16 +24,16 @@ title: キスキツネ
 {{< hime >}}
 そうね。  
 {{< /hime >}}
-オス♂メス♀キツネ バチャ{{< ruby め >}}粧{{< /ruby >}}しよね  
+オス♂メス♀キツネ バチャ{{< ruby メ >}}粧{{< /ruby >}}しよね  
 {{< hime >}}
 Midnight Calling {{< ruby カンゲンキョウ >}}甘言郷{{< /ruby >}}へGet go？ 
 {{< /hime >}}
 {{< hina >}}
 Get go!!  
 {{< /hina >}}
-ハマれば{{< ruby みやこ >}}都{{< /ruby >}} オチれば{{< ruby かえ >}}帰{{< /ruby >}}らん人  
+ハマれば{{< ruby ミヤコ >}}都{{< /ruby >}} オチれば{{< ruby カエ >}}帰{{< /ruby >}}らん人  
 
-いざ{{< ruby よ >}}寄{{< /ruby >}}られぃ いざ{{< ruby よ >}}寄{{< /ruby >}}られぃ Hey!!  
+いざ{{< ruby ヨ >}}寄{{< /ruby >}}られぃ いざ{{< ruby ヨ >}}寄{{< /ruby >}}られぃ Hey!!  
 ほら止まれぃ 
 {{< hina >}}
 Stand by？  
@@ -42,31 +42,31 @@ Stand by？
 {{< ruby トロ >}}蕩{{< /ruby >}}り {{< ruby タモ >}}給{{< /ruby >}}り {{< ruby ソロ >}}静{{< /ruby >}}り {{< ruby ソロ >}}揃{{< /ruby >}}り {{< ruby ソバ >}}傍{{< /ruby >}}に  
 {{< /hime >}}
 {{< hina >}}
-差し出しませ{{< ruby ほほ >}}頬{{< /ruby >}}に  
+差し出しませ{{< ruby ホホ >}}頬{{< /ruby >}}に  
 {{< /hina >}}
 
 Locking on Target  
 
 {{< hime >}}
-{{< ruby ゆうぎ >}}遊戯{{< /ruby >}}な{{< ruby チュー >}}(๑ˇ3ˇ๑){{< /ruby >}}が好き  
+{{< ruby ユウギ >}}遊戯{{< /ruby >}}な{{< ruby チュー >}}(๑ˇ3ˇ๑){{< /ruby >}}が好き  
 キスキスキツネ キスキスキツネ  
-{{< ruby ああ >}}嗚呼{{< /ruby >}}、{{< ruby ヤ >}}妬{{< /ruby >}}かしい？  
+{{< ruby アア >}}嗚呼{{< /ruby >}}、{{< ruby ヤ >}}妬{{< /ruby >}}かしい？  
 {{< /hime >}}
 {{< hina >}}
 MagicalなFakeでVirtualなKissをしたいなら  
 手のひらで 
 {{< /hina >}}
-{{< ruby おど >}}踊{{< /ruby >}}って  
+{{< ruby オド >}}踊{{< /ruby >}}って  
 
 {{< ruby ヤハン >}}Yahan{{< /ruby >}}  
 {{< ruby コン >}}Kon{{< /ruby >}} {{< ruby コレッタ >}}Coretta{{< /ruby >}}  
 
 {{< hina >}}
-{{< ruby おど >}}踊{{< /ruby >}}らされって{{< ruby ホテ >}}火照{{< /ruby >}}られちゃって心のヤカンが 
+{{< ruby オド >}}踊{{< /ruby >}}らされって{{< ruby ホテ >}}火照{{< /ruby >}}られちゃって心のヤカンが 
 {{< /hina >}}
 Chin!! Chin!!  
 {{< hime >}}
-{{< ruby どしゃぶ >}}土砂降{{< /ruby >}}り涙で{{< ruby のうしょう >}}脳漿{{< /ruby >}}{{< ruby かんすい >}}冠水{{< /ruby >}}したとて{{< ruby けいほう >}}警報{{< /ruby >}} 
+{{< ruby ドシャブ >}}土砂降{{< /ruby >}}り涙で{{< ruby ノウショウ >}}脳漿{{< /ruby >}}{{< ruby カンスイ >}}冠水{{< /ruby >}}したとて{{< ruby ケイホウ >}}警報{{< /ruby >}} 
 {{< /hime >}}
 Chin!! Chin!!  
 {{< hina >}}
@@ -82,7 +82,7 @@ Chin!! Chin!!
 {{< /hina >}}
 {{< hime >}}
 パーリーto Go 
-夢の{{< ruby きょう >}}京{{< /ruby >}}へ  
+夢の{{< ruby キョウ >}}京{{< /ruby >}}へ  
 {{< /hime >}}
 
 {{< hina >}}
@@ -90,16 +90,16 @@ Chin!! Chin!!
 {{< /hina >}}
 Trouble Fox Knocks  
 {{< hime >}}
-紛れ込んだ{{< ruby よい >}}宵{{< /ruby >}} Your Soul 誘拐  
+紛れ込んだ{{< ruby ヨイ >}}宵{{< /ruby >}} Your Soul 誘拐  
 {{< /hime >}}
 {{< ruby タバカ >}}謀{{< /ruby >}}られて {{< ruby タワ >}}戯{{< /ruby >}}かられて Ah  
 
-いざ{{< ruby ほ >}}惚{{< /ruby >}}られぃ いざ{{< ruby ほ >}}惚{{< /ruby >}}られぃ Hey!!  
+いざ{{< ruby ホ >}}惚{{< /ruby >}}られぃ いざ{{< ruby ホ >}}惚{{< /ruby >}}られぃ Hey!!  
 ぬけ出せねぃ {{< hime >}}
 Hands up?  
 {{< /hime >}}
 {{< hina >}}
-{{< ruby つい >}}遂{{< /ruby >}}に天地返り{{< ruby のうないじょうだんじょうたい >}}脳内冗談状態{{< /ruby >}}  
+{{< ruby ツイ >}}遂{{< /ruby >}}に天地返り{{< ruby ノウナイジョウダンジョウタイ >}}脳内冗談状態{{< /ruby >}}  
 {{< /hina >}}
 {{< hime >}}
 「そのネツキスキスキ」  
@@ -113,27 +113,27 @@ Hands up?
 Locking on Target  
 
 {{< hime >}}
-{{< ruby ゆうぎ >}}遊戯{{< /ruby >}}な{{< ruby チュー >}}(๑ˇ3ˇ๑){{< /ruby >}}てなさ  
-{{< ruby ば >}}化{{< /ruby >}}か{{< ruby ば >}}化{{< /ruby >}}かし{{< ruby あ >}}合{{< /ruby >}}い {{< ruby ばかばか >}}馬鹿馬鹿{{< /ruby >}}しい{{< ruby あい >}}愛{{< /ruby >}}  
-{{< ruby ああ >}}嗚呼{{< /ruby >}}、{{< ruby ホ >}}惚{{< /ruby >}}らしい♥  
+{{< ruby ユウギ >}}遊戯{{< /ruby >}}な{{< ruby チュー >}}(๑ˇ3ˇ๑){{< /ruby >}}てなさ  
+{{< ruby バ >}}化{{< /ruby >}}か{{< ruby バ >}}化{{< /ruby >}}かし{{< ruby ア >}}合{{< /ruby >}}い {{< ruby バカバカ >}}馬鹿馬鹿{{< /ruby >}}しい{{< ruby アイ >}}愛{{< /ruby >}}  
+{{< ruby アア >}}嗚呼{{< /ruby >}}、{{< ruby ホ >}}惚{{< /ruby >}}らしい♥  
 {{< /hime >}}
 {{< hina >}}
-でもアンタの{{< ruby ほほ >}}頬{{< /ruby >}}に口づけしたのは本気の気まぐれよ  
+でもアンタの{{< ruby ホホ >}}頬{{< /ruby >}}に口づけしたのは本気の気まぐれよ  
 {{< /hina >}}
 {{< hime >}}
 食らっちゃったったったったー！  
 {{< /hime >}}
 
 {{< hina >}}
-{{< ruby ゆうぎ >}}遊戯{{< /ruby >}}な{{< ruby チュー >}}(๑ˇ3ˇ๑){{< /ruby >}}が好き  
+{{< ruby ユウギ >}}遊戯{{< /ruby >}}な{{< ruby チュー >}}(๑ˇ3ˇ๑){{< /ruby >}}が好き  
 キスキスキツネ キスキスキツネ  
-{{< ruby ああ >}}嗚呼{{< /ruby >}}、{{< ruby ヤ >}}妬{{< /ruby >}}かしい？  
+{{< ruby アア >}}嗚呼{{< /ruby >}}、{{< ruby ヤ >}}妬{{< /ruby >}}かしい？  
 {{< /hina >}}
 {{< hime >}}
 {{< ruby マジガオ >}}Magigao{{< /ruby >}}なFaceでRealなKissをしたいから  
 眠るまで
 {{< /hime >}}
- {{< ruby おど >}}踊{{< /ruby >}}って  
+ {{< ruby オド >}}踊{{< /ruby >}}って  
 
 {{< ruby ヤハン >}}Yahan{{< /ruby >}}  
 {{< ruby コン >}}Kon{{< /ruby >}} {{< ruby コレッタ >}}Coretta{{< /ruby >}}  
