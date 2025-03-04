@@ -24,7 +24,7 @@ title: キスキツネ
 {{< hime >}}
 そうね。  
 {{< /hime >}}
-オス♂メス♀キツネ バチャ{{< ruby メ >}}粧{{< /ruby >}}しよね  
+オス♂メス♀キツネ バチャ{{< ruby メカ >}}粧{{< /ruby >}}しよね  
 {{< hime >}}
 Midnight Calling {{< ruby カンゲンキョウ >}}甘言郷{{< /ruby >}}へGet go？ 
 {{< /hime >}}
