@@ -5,7 +5,6 @@ categories:
     - original
     - 4thalbum
 tags: [unreleased, live2025-03]
-image: https://old.himehina.jp/s3/demo-skiyaki/uploads/ckeditor/pictures/146196/content_7thTDCKV%E6%A8%AA_%E6%83%85%E5%A0%B1%E5%87%BA%E3%81%97.jpg
 date: 2025-03-01
 ---
 
