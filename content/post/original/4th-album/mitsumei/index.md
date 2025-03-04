@@ -4,7 +4,7 @@ slug: mitsumei
 categories:
     - original
     - 4thalbum
-tags: [unreleased]
+tags: [unreleased, live2025-03]
 date: 2025-03-01
 ---
 
