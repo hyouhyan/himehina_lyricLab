@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
+      - main
     paths:
       - 'content/post/**/index.md'
 
@@ -38,7 +38,7 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: master
+          base: main
           author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           assignees: hyouhyan
           commit-message: "CI: サムネイルをimageに反映"
