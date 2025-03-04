@@ -1,5 +1,5 @@
 ---
-title: "WWW LIVE2023「提灯暗航、夏をゆく」"
+title: "WWW (LIVE2023「提灯暗航、夏をゆく」)"
 slug: www-live-202308
 categories:
     - Original

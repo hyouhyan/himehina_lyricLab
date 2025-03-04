@@ -1,5 +1,5 @@
 ---
-title: 棄てられた鉄の王国 LIVE2023「提灯暗航、夏をゆく」
+title: 棄てられた鉄の王国 (LIVE2023「提灯暗航、夏をゆく」)
 slug: suterareta-tetuno-oukoku-live-202308
 categories:
     - original
