@@ -59,7 +59,7 @@ Locking on Target
 {{< ruby アア >}}嗚呼{{< /ruby >}}、{{< ruby ヤ >}}妬{{< /ruby >}}かしい？  
 {{< /hime >}}
 {{< hina >}}
-MagicalなFakeでVirtualなKissをしたいなら  
+{{< ruby マジカル >}}Magical{{< /ruby >}}なFakeでVirtualなKissをしたいなら  
 手のひらで 
 {{< /hina >}}
 {{< ruby オド >}}踊{{< /ruby >}}って  
@@ -113,7 +113,7 @@ Hands up?
 「そのネツキスキスキ」  
 {{< /hime >}}
 
-・・・止められねぃ！  
+止められね～～～～ぃ！  
 
 {{< ruby ヤハン >}}Yahan{{< /ruby >}}  
 {{< ruby コン >}}Kon{{< /ruby >}} {{< ruby コレッタ >}}Coretta{{< /ruby >}}  
