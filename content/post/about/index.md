@@ -37,6 +37,10 @@ DMを送れない場合は、[hyouhyan@hyouhyan.com](mailto:hyouhyan@hyouhyan.co
 (詳しい方は[GitHub](https://github.com/hyouhyan/himehina_lyricLab)にPull Requestを送っていただいても構いません。)
 
 
+## Links
+- [歌い方縛りカラオケルーレット](https://hyouhyan.github.io/singing-style-restricted-karaoke-roulette/)
+
+
 ## 免責事項
 本サイトは非公式のファンサイトであり、[HIMEHINA公式](https://himehina.jp/)のものではありません。  
 歌詞の著作権はそれぞれの楽曲の権利者に帰属します。  
