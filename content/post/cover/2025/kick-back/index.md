@@ -10,6 +10,11 @@ Key
 
 ---
 
+努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
+
 ランドリー今日はガラ空きでラッキーデイ  
 かったりい油汚れもこれでバイバイ  
 
@@ -23,7 +28,15 @@ Key
 いつかみた地獄もいいところ 愛をばら撒いて  
 アイラブユー貶してくれ 全部奪って笑ってくれマイハニー  
 努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
 なんか忘れちゃってんだ  
+
+努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
 
 4443で外れる炭酸水  
 ハングリー拗らせて吐きそうな人生  
@@ -39,6 +52,9 @@ Key
 良い子だけ迎える天国じゃ どうも生きらんない  
 アイラブユー貶して奪って笑ってくれマイハニー  
 努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
 なんか忘れちゃってんだ  
 
 ハッピー ラッキー こんにちはベイビー  
@@ -48,4 +64,12 @@ Key
 ハッピー ラッキー こんにちはベイビーソースイート  
 (ハッピー ラッキー こんにちはベイビーソースイート)  
 努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
 なんかすごい良い感じ  
+
+努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
+努力 未来 A BEAUTIFUL STAR  
