@@ -4,7 +4,7 @@ slug: nisemono-human
 categories:
 - Cover
 - 2ndcoveralbum
-date: 2023-11-24
+date: 2025-03-28
 ---
 
 Key +2
@@ -126,3 +126,5 @@ Key +2
 ジャンキー人間なんで  
 
 「チッ、ああクソが」
+
+{{< youtube m6GJKOC5W_8 >}}
