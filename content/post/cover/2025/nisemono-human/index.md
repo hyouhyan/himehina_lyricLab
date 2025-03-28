@@ -1,11 +1,13 @@
 ---
-title: 偽物人間40号
-slug: nisemono-human
 categories:
 - Cover
 - 2ndcoveralbum
 date: 2025-03-28
+image: https://img.youtube.com/vi/m6GJKOC5W_8/maxresdefault.jpg
+slug: nisemono-human
+title: 偽物人間40号
 ---
+
 
 Key +2
 
