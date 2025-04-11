@@ -4,6 +4,7 @@ slug: telepathy
 categories:
 - Cover
 date: 2025-04-11
+image: https://img.youtube.com/vi/fHrY6rM7uH0/maxresdefault.jpg
 ---
 
 Key ?
