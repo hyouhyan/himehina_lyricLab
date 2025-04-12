@@ -39,6 +39,7 @@ DMを送れない場合は、[hyouhyan@hyouhyan.com](mailto:hyouhyan@hyouhyan.co
 
 ## Links
 - [歌い方縛りカラオケルーレット](https://hyouhyan.github.io/singing-style-restricted-karaoke-roulette/)
+- [🤫](/secret)
 
 
 ## 免責事項
