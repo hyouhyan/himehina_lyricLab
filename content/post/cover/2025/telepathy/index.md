@@ -12,10 +12,13 @@ Key +-0
 ---
 
 ねえもっとちょうだい？  
+
 :-b ;-b boy, :-b ;-b boy, duh  
 :-b ;-b boy, :-b ;-b boy, duh  
 :-b ;-b boy, :-b ;-b boy, duh  
 :-b ;-b boy, :-b ;-b boy  
+
+(DECO!!)
 
 {{< hime >}}
 べー！  
