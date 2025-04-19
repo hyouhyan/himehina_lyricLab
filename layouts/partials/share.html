@@ -1,10 +1,13 @@
 <div class="sns-share">
-    <ul>
-      <li>
-        <a class="sns-share-btn sns-share-btn-tw" href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }} %7C {{ .Site.Title }}" target="_blank" title="Twitter" rel="nofollow"><i class="fab fa-twitter"></i></a>
-      </li>
-      <li>
-        <a class="sns-share-btn sns-share-btn-line" href="https://line.me/R/msg/text/?{{ .Title }}{{.Permalink }}" target="_blank" title="LINE" rel="nofollow">LINE</a>
-      </li>
-    </ul>
-  </div>
+  <ul>
+    <li>
+      <a class="sns-share-btn sns-share-btn-tw"
+        href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }} %7C {{ .Site.Title }}"
+        target="_blank" title="Twitter" rel="nofollow"><i class="fab fa-twitter"></i></a>
+    </li>
+    <li>
+      <a class="sns-share-btn sns-share-btn-line" href="https://line.me/R/msg/text/?{{ .Title }}{{.Permalink }}"
+        target="_blank" title="LINE" rel="nofollow">LINE</a>
+    </li>
+  </ul>
+</div>
