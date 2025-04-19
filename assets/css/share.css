@@ -46,3 +46,41 @@
 .sns-share-btn-line:hover a {
   color: #00B900;
 }
+
+
+#qr-modal {
+  display: none; /* 最初は非表示 */
+  position: fixed;
+  inset: 0; /* top: 0; right: 0; bottom: 0; left: 0 と同等 */
+  background-color: rgba(0, 0, 0, 0.5);
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+#qr-modal .modal-content {
+  background-color: white;
+  padding: 24px;
+  border-radius: 8px;
+  position: relative;
+  width: 320px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+
+#qr-code-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+#qr-close-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+}

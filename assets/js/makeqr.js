@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", function () {
     const modal = document.getElementById("qr-modal");
     const openBtn = document.getElementById("qr-toggle-btn");
@@ -7,11 +8,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const pageUrl = openBtn.dataset.url;
 
-    // モーダル開く
     openBtn.addEventListener("click", function () {
-        modal.classList.remove("hidden");
+        modal.style.display = "flex"; // Tailwindのhiddenを使っていない場合はこれ！
 
-        // QRコード生成（初回だけ）
         if (!qrGenerated) {
             new QRCode(qrContainer, {
                 text: pageUrl,
@@ -22,15 +21,13 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 
-    // モーダル閉じる
     closeBtn.addEventListener("click", function () {
-        modal.classList.add("hidden");
+        modal.style.display = "none";
     });
 
-    // モーダル外クリックで閉じる
     modal.addEventListener("click", function (event) {
         if (event.target === modal) {
-            modal.classList.add("hidden");
+            modal.style.display = "none";
         }
     });
 });
