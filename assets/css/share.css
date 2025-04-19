@@ -1,50 +1,48 @@
-.sns-share ul {
+.sns-parent {
   text-align: center;
 }
 
-.sns-share li {
+.sns-share {
   display: inline-block;
-  width: 80px;
-  font-style: bold;
-  text-decoration: none;
-  background-color: #ccc;
+  text-align: left;
 }
-
 .sns-share-btn {
-  display: block;
-  width: 100%;
-  padding: 6px 0;
-  box-sizing: border-box;
+  float: left;
+  box-shadow: inset 0 0 0 2px #42464c;
+  border-radius: 100%;
+  -moz-transition: all 280ms ease;
+  -o-transition: all 280ms ease;
+  -webkit-transition: all 280ms ease;
+  transition: all 280ms ease;
+}
+.sns-share-btn a {
+  display: table-cell;
+  width: 44px;
+  height: 44px;
+  color: #42464c;
   text-align: center;
-  font-weight: bold;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 2px;
-  transform: translate3d(0, 0, 0);
-  cursor: pointer;
-  transition: all 0.2s ease-out;
+  vertical-align: middle;
+  -moz-transition: all 280ms ease;
+  -o-transition: all 280ms ease;
+  -webkit-transition: all 280ms ease;
+  transition: all 280ms ease;
 }
-
+.sns-share-btn i {
+  font-size: 20px;
+  vertical-align: middle;
+}
 .sns-share-btn:hover {
-  transform: translate3d(0, 5px, 0);
+  box-shadow: inset 0 0 0 22px #eaeaea;
 }
 
-.sns-share-btn-fb {
-  background-color: #3b5998;
+.sns-share-btn + .sns-share-btn {
+  margin: 0 0 0 12px;
 }
 
-.sns-share-btn-tw {
-  background-color: #55acee;
+.sns-share-btn-tw:hover a {
+  color: #1B95E0;
 }
 
-.sns-share-btn-line {
-  background-color: #00b900;
-}
-
-.sns-share-btn-hb {
-  background-color: #00a4de;
-}
-
-.sns-share-btn-po {
-  background-color: #ef4156;
+.sns-share-btn-line:hover a {
+  color: #00B900;
 }
