@@ -5,6 +5,8 @@ document.addEventListener("DOMContentLoaded", function () {
     const qrContainer = document.getElementById("qr-code-container");
     let qrGenerated = false;
 
+    const pageUrl = openBtn.dataset.url;
+
     // モーダル開く
     openBtn.addEventListener("click", function () {
         modal.classList.remove("hidden");
@@ -12,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
         // QRコード生成（初回だけ）
         if (!qrGenerated) {
             new QRCode(qrContainer, {
-                text: "{{ .Permalink }}",
+                text: pageUrl,
                 width: 128,
                 height: 128,
             });
