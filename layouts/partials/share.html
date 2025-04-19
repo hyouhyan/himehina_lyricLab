@@ -1,5 +1,5 @@
 <section class="section sns-parent">
-  <div class="container sns-share">
+  <div class="container sns-share flex justify-center gap-4">
     <div class="sns-share-btn sns-share-btn-tw">
       <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }} %7C {{ .Site.Title }}"
         target="_blank" title="Twitter" rel="nofollow"><i class="fa-brands fa-x-twitter"></i></a>
@@ -8,6 +8,26 @@
     <div class="sns-share-btn sns-share-btn-line">
       <a href="https://line.me/R/msg/text/?{{ .Title }}{{.Permalink }}" target="_blank" title="LINE" rel="nofollow"><i
           class="fa-brands fa-line"></i></a>
+    </div>
+
+    <div class="sns-share-btn sns-share-btn-qr">
+      <a id="qr-toggle-btn" title="QRでシェア">
+        <i class="fa-solid fa-qrcode"></i>
+      </a>
+    </div>
+
+    <!-- モーダル -->
+    <div id="qr-modal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+      <div class="bg-white p-6 rounded-lg shadow-lg relative w-80">
+        <!-- 閉じるボタン -->
+        <button id="qr-close-btn" class="absolute top-2 right-2 text-gray-500 hover:text-gray-700">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+
+        <!-- QRコード表示領域 -->
+        <h2 class="text-lg font-semibold mb-4">QRコードでシェア</h2>
+        <div id="qr-code-container" class="flex justify-center"></div>
+      </div>
     </div>
 
   </div>
