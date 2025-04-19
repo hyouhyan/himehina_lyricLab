@@ -6,7 +6,7 @@ favicon = "/favicon.ico"
 
 [footer]
 since = 2024
-customText = "Made by <a href='https://x.com/hyouhyan'>Hyouhyan</a>"
+customText = "本サイトは非公式のファンサイトです。<br>Made by <a href='https://x.com/hyouhyan'>Hyouhyan</a>"
 
 [dateFormat]
 published = "2006年 01月 02日"
