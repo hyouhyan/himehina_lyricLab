@@ -1,5 +1,5 @@
 ---
-title: "[WIP]絶望を翔る{{< ruby こうせい >}}恒星{{< /ruby >}}"
+title: "[WIP]絶望を翔る恒星"
 slug: zetubouwo-kakeru-kousei
 categories:
     - original
