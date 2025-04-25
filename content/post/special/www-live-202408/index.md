@@ -164,7 +164,3 @@ Warara word world
 
 Fury Flag 天ヨリ 降リ 降リ 振ラ  
 {{< ruby "カ" >}}噛{{< /ruby >}}ぶ牙から{{< ruby "コボ" >}}溢{{< /ruby >}}れる{{< ruby "ワル" >}}惡{{< /ruby >}}ァラララララ  
-
----
-
-{{< youtube mWPocET-tVM >}}
