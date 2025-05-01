@@ -1,0 +1,13 @@
+{{ $code := .Inner}}
+{{ $code := replace $code "  " "<br>" | safeHTML }}
+
+{{ $colorStyle := "color: var(--lyric-part-6-color)" | safeCSS }}
+{{ if eq (.Get 0) "b" }}
+{{ $colorStyle = "background: linear-gradient(transparent 80%, var(--lyric-part-6-background) 20%);" | safeCSS }}
+{{ end }}
+
+{{ if hasSuffix $code "\n\n" }}
+<p style="{{$colorStyle}}">{{$code}}</p>
+{{ else }}
+<span style="{{$colorStyle}}">{{$code}}</span>
+{{ end }}
