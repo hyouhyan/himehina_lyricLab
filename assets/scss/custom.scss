@@ -21,6 +21,12 @@
 
     --lyric-part-5-color: rgb(243, 183, 18);
     --lyric-part-5-background: rgba(255, 165, 0, 0.5);
+    
+    --lyric-part-6-color: rgb(255, 30, 0);
+    --lyric-part-6-background: rgba(255, 30, 0, 0.5);
+    
+    --lyric-part-7-color: rgb(0, 30, 255);
+    --lyric-part-7-background: rgba(0, 30, 255, 0.5);
 
     --sns-btn-color: #42464c;
     --sns-btn-color-hover: #42464c;
@@ -28,6 +34,8 @@
 
 :root[data-scheme=dark] {
     --lyric-part-4-color: rgb(192, 108, 235);
+
+    --lyric-part-7-color: rgb(90, 124, 255);
     
     --sns-btn-color: #eaeaea;
     --sns-btn-color-hover: #42464c;
