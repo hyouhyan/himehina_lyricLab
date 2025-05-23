@@ -246,8 +246,8 @@ Past & Future
 run for the Future  
 
 {{< hina >}}
-{{< ruby ひと >}}人{{< /ruby >}}の{{< ruby あ >}}在{{< /ruby >}}る{{< ruby ところ >}}所{{< /ruby >}}に{{< ruby いつ >}}何時{{< /ruby >}}も{{< ruby うれいごと >}}憂い事{{< /ruby >}}  
-{{< ruby いきぬ >}}生き抜{{< /ruby >}}けこの{{< ruby ばけもの >}}化物{{< /ruby >}} 
+{{< ruby ひと >}}人{{< /ruby >}}の{{< ruby あ >}}在{{< /ruby >}}る{{< ruby ところ >}}所{{< /ruby >}}に{{< ruby いつ >}}何時{{< /ruby >}}も{{< ruby うれ >}}憂{{< /ruby >}}い{{< ruby ごと >}}事{{< /ruby >}}  
+{{< ruby い >}}生{{< /ruby >}}き{{< ruby ぬ >}}抜{{< /ruby >}}けこの{{< ruby ばけもの >}}化物{{< /ruby >}} 
 {{< /hina >}}
 ばかりの{{< ruby ものがたり >}}物語{{< /ruby >}}
 
