@@ -26,8 +26,9 @@ Hi, そうメンヘラでも面がキュートならメンキラー
 誤魔化してる傷心根性晒されたら{{< ruby バイバイ >}}引退{{< /ruby >}}  
 にゃんてな
 
-I AM A V. I'M A V.  
-I'M A 泡々よ  
+I AM A V.  
+I'M A V.  
+I'm a 泡々よ  
 I am La Vidaな Diva  
 {{< ruby ミダ >}}淫{{< /ruby >}}らは嫌よ  
 
@@ -45,15 +46,14 @@ No!!
 ワレハナンダ？  
 まるで{{< ruby ウ >}}膿{{< /ruby >}}んだ {{< ruby ジコアイセイショウシャ >}}自己愛性生者{{< /ruby >}}  
 
-Am I V?  
-Am I C?  
+Am I V? Am I C?  
 洗いざらい甘い汁  
 {{< ruby サラ >}}攫{{< /ruby >}}いに {{< ruby ウォーアイニー >}}我愛你{{< /ruby >}}, So love me.  
 おでまし  
 Hey, モンスター Ahh...  
 My name is Blah Blah.  
 {{< ruby メ >}}愛{{< /ruby >}}でられたら墓までLoveだ  
-I'M A Vだ Not a Avatar.  
+I'm a Vだ Not a Avatar.  
 心ん中はSmooth Like Butter.  
 
 Touch me♥  
@@ -61,7 +61,7 @@ Touch me♥
 {{< ruby yen >}}￥{{< /ruby >}} {{< ruby dollar >}}＄{{< /ruby >}} Catch meで  
 ハイpeace  
 
-メシア ルシファ 分からないが WOW  
+メシア ルシファ 分からないが wow  
 我 心叫ぶ1つのLIFER  
 
 生きる姿や魂を今  
@@ -88,9 +88,10 @@ WachaはMecha Mecha?
 
 Umm... にゃんてな
 
-I AM A V. I'M A V.  
-I'M A 泡々よ  
-I AM La Vidaな Diva  
+I AM A V.  
+I'M A V.  
+I'm a 泡々よ  
+I am La Vidaな Diva  
 {{< ruby ミダ >}}淫{{< /ruby >}}らは嫌よ  
 
 夢見てる少年A  
@@ -138,7 +139,7 @@ Virtual Blah Blah.
 Virtual Blah Blah.  
 Umm,  
 
-I'M A V  
+I'm a V  
 
 
 
