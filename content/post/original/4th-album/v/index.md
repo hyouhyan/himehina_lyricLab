@@ -15,7 +15,7 @@ By ひょうひゃん
 
 たかだか{{< ruby ナマラ >}}生裸{{< /ruby >}}の{{< ruby コントン >}}魂遁{{< /ruby >}}  
 さわらば可愛いの混沌  
-{{< ruby タカマガハラ >}}高天々原{{< /ruby >}}からほら  
+{{< ruby タカマガハラ >}}高天ヶ原{{< /ruby >}}からほら  
 「堕としてあげる」  
 
 Hi, そうメンヘラでも面がキュートならメンキラー  
@@ -26,8 +26,8 @@ Hi, そうメンヘラでも面がキュートならメンキラー
 誤魔化してる傷心根性晒されたら{{< ruby バイバイ >}}引退{{< /ruby >}}  
 にゃんてな
 
-I am a V. I'm a V.  
-I'm a 泡々よ  
+I AM A V. I'M A V.  
+I'M A 泡々よ  
 I am La Vidaな Diva  
 {{< ruby ミダ >}}淫{{< /ruby >}}らは嫌よ  
 
@@ -42,33 +42,33 @@ No!!
 ちょん切る我利我利妄想  
 笑わせんな我らがセンター  
 誰よりも客寄せのパンダ  
-ワレハナンダ  
+ワレハナンダ？  
 まるで{{< ruby ウ >}}膿{{< /ruby >}}んだ {{< ruby ジコアイセイショウシャ >}}自己愛性生者{{< /ruby >}}  
 
 Am I V?  
 Am I C?  
 洗いざらい甘い汁  
-{{< ruby サラ >}}攫{{< /ruby >}}いに {{< ruby ウォーアイニー >}}我爱你{{< /ruby >}}, So love me.  
+{{< ruby サラ >}}攫{{< /ruby >}}いに {{< ruby ウォーアイニー >}}我愛你{{< /ruby >}}, So love me.  
 おでまし  
 Hey, モンスター Ahh...  
 My name is Blah Blah.  
 {{< ruby メ >}}愛{{< /ruby >}}でられたら墓までLoveだ  
-I'm a Vだ Not a Avatar.  
-心ん中はSmooth like Butter.  
+I'M A Vだ Not a Avatar.  
+心ん中はSmooth Like Butter.  
 
 Touch me♥  
 したいならほら  
 {{< ruby yen >}}￥{{< /ruby >}} {{< ruby dollar >}}＄{{< /ruby >}} Catch meで  
-ハイPeace  
+ハイpeace  
 
-メシア ルシファ 分からないが Wow  
-我 心叫ぶ1つのLifer  
+メシア ルシファ 分からないが WOW  
+我 心叫ぶ1つのLIFER  
 
 生きる姿や魂を今  
 {{< ruby フタツ >}}複製{{< /ruby >}}にして愛をバラバラに  
 生まれた時の喜びは忘消にさよならでいいの?
 
-ダメね
+ダメネ
 
 Wacha Wacha  
 WachaはMecha Mecha?  
@@ -78,7 +78,7 @@ WachaはMecha Mecha
 
 楽観な六感ね  
 あらら交換で共感ね  
-解体な正体ね あら、
+怪体な正体ね あら、
 
 WachaはMecha Mecha?  
 
@@ -88,9 +88,9 @@ WachaはMecha Mecha?
 
 Umm... にゃんてな
 
-I am a V. I'm a V.  
-I'm a 泡々よ  
-I am La Vidaな Diva  
+I AM A V. I'M A V.  
+I'M A 泡々よ  
+I AM La Vidaな Diva  
 {{< ruby ミダ >}}淫{{< /ruby >}}らは嫌よ  
 
 夢見てる少年A  
@@ -138,7 +138,7 @@ Virtual Blah Blah.
 Virtual Blah Blah.  
 Umm,  
 
-i'm a V  
+I'M A V  
 
 
 
