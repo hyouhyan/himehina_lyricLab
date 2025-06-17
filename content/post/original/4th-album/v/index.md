@@ -8,10 +8,11 @@ slug: v
 title: V
 ---
 
-パート分けはもうちょっと待ってねー  
-By ひょうひゃん
-
----
+VIRTUAL Blah Blah Blah Blah? I'm a V.  
+VIRTUAL Blah Blah Blah Blah? I'm a V.  
+VIRTUAL Blah Blah Blah Blah?  
+I’m a Vだ La Vida な Diva.  
+Love That Blah Blah Blah.  
 
 たかだか{{< ruby ナマラ >}}生裸{{< /ruby >}}の{{< ruby コントン >}}魂遁{{< /ruby >}}  
 さわらば可愛いの混沌  
@@ -20,126 +21,93 @@ By ひょうひゃん
 
 Hi, そうメンヘラでも面がキュートならメンキラー  
 とか貼られたレッテル逝ってるメンタルは  
-♡♥♡♥♡♥♡♥
+♡♥♡♥♡♥♡
 
 最強スマイルで{{< ruby コロ >}}転{{< /ruby >}}がしてけファンダム  
-誤魔化してる傷心根性晒されたら{{< ruby バイバイ >}}引退{{< /ruby >}}  
+誤魔化してる{{< ruby ショウシンショウネ >}}傷心根性{{< /ruby >}}  
+晒されたら{{< ruby バイバイ >}}引退{{< /ruby >}}  
+
 にゃんてな
 
-I AM A V.  
-I'M A V.  
-I'm a 泡々よ  
-I am La Vidaな Diva  
-{{< ruby ミダ >}}淫{{< /ruby >}}らは嫌よ  
+I am a V. I'm a V. I'm a {{< ruby アワアワ >}}泡々{{< /ruby >}}よ  
+I am La Vida な Diva {{< ruby ミダ >}}淫{{< /ruby >}}らは嫌よ  
+夢見てる少年A 夢見てる少女A  
+VならVidaは 甘々甘々? No!!  
 
-夢見てる少年A  
-夢見てる少女A  
-
-VならVIDAは  
-甘々 AMA AMA?
-
-No!!
-
-ちょん切る我利我利妄想  
-笑わせんな我らがセンター  
+ちょん切る{{< ruby ガリガリ >}}我利我利{{< /ruby >}}妄想  
+笑わせんな 我がセンター  
 誰よりも客寄せのパンダ  
 ワレハナンダ？  
-まるで{{< ruby ウ >}}膿{{< /ruby >}}んだ {{< ruby ジコアイセイショウシャ >}}自己愛性生者{{< /ruby >}}  
+まるで{{< ruby ウ >}}膿{{< /ruby >}}んだ  
+{{< ruby ジコアイセイショウシャ >}}自己愛性生者{{< /ruby >}}  
 
 Am I V? Am I C?  
-洗いざらい甘い汁  
-{{< ruby サラ >}}攫{{< /ruby >}}いに {{< ruby ウォーアイニー >}}我愛你{{< /ruby >}}, So love me.  
-おでまし  
-Hey, モンスター Ahh...  
-My name is Blah Blah.  
+洗いざらい甘い汁 {{< ruby サラ >}}攫{{< /ruby >}}いに  
+{{< ruby ウォーアイニー >}}我愛你{{< /ruby >}}, So love me.  
+おでまし Hey, モンスター  
+
+Ahh... My name is Blah Blah.  
 {{< ruby メ >}}愛{{< /ruby >}}でられたら墓までLoveだ  
 I'm a Vだ Not a Avatar.  
 心ん中はSmooth Like Butter.  
 
-Touch me♥  
-したいならほら  
-{{< ruby yen >}}￥{{< /ruby >}} {{< ruby dollar >}}＄{{< /ruby >}} Catch meで  
-ハイpeace  
+Touch me したいならほら  
+{{< ruby エン >}}￥{{< /ruby >}} {{< ruby ダラ >}}＄{{< /ruby >}} Catch meで ハイ{{< ruby ピース >}}¥{{< /ruby >}}  
 
-メシア ルシファ 分からないが wow  
-我 心叫ぶ1つのLIFER  
+メシアかルシファ 分からないが WOW  
+我心叫ぶ1つの{{< ruby ライファー >}}Lifer{{< /ruby >}}  
 
 生きる姿や魂を今  
 {{< ruby フタツ >}}複製{{< /ruby >}}にして愛をバラバラに  
-生まれた時の喜びは忘消にさよならでいいの?
+生まれた時の喜びは{{< ruby ボウショウ >}}忘消{{< /ruby >}}にさよならでいいの?
 
 ダメネ
 
 Wacha Wacha  
 WachaはMecha Mecha?  
-
 Wacha Wacha  
 WachaはMecha Mecha  
 
-楽観な六感ね  
-あらら交換で共感ね  
-怪体な正体ね あら、
-
-WachaはMecha Mecha?  
-
-楽観な六感ね  
-あらら交換で共感ね  
+楽観な六感ね あらら交換で共感ね  
+{{< ruby ケッタイ >}}怪体{{< /ruby >}}な正体ね  
+あら、WachaはMecha Mecha?  
+楽観な六感ね あらら交換で共感ね  
 一巻の終わりだね  
 
 Umm... にゃんてな
 
-I AM A V.  
-I'M A V.  
-I'm a 泡々よ  
-I am La Vidaな Diva  
-{{< ruby ミダ >}}淫{{< /ruby >}}らは嫌よ  
+I am a V. I'm a V. I'm a {{< ruby アワアワ >}}泡々{{< /ruby >}}よ  
+I am La Vidaな Diva {{< ruby ミダ >}}淫{{< /ruby >}}らは嫌よ  
+夢見てる少年A 夢見てる少女A  
+VならVidaは 甘々甘々? No!!
 
-夢見てる少年A  
-夢見てる少女A  
-
-VならVIDAは  
-甘々 AMA AMA?
-
-No!!
-
-教養さ子供の頃言われたもんだ  
+教養さ、子供の頃言われたもんだ  
 あのヒーローショーの人形の背中にゃ  
-チャックは付いてないから  
-開くな
+チャックは付いてないから 開くな
 
-バーチャルだヒューマンだ  
-四の五の言うが  
-存在はOne&Oneだ  
+バーチャルだヒューマンだ四の五の言うが  
+存在は{{< ruby ワンワン >}}One&One{{< /ruby >}}だ  
 吠えても惚れても {{< ruby シ >}}死{{< /ruby >}}の{{< ruby ゴ >}}後{{< /ruby >}}はバラバラな  
 
-Virtual Blah Blah.  
-Virtual Blah Blah.  
-Virtual Blah Blah.  
-Virtual Blah Blah.  
-
+VIRTUAL Blah Blah. VIRTUAL Blah Blah.  
+VIRTUAL Blah Blah. VIRTUAL Blah Blah.  
 Blah Blah Blah Blah!!  
 
-Virtual Blah Blah.  
-Virtual Blah Blah.  
-(Ayn...)  
-Virtual Blah Blah Blah...  
-
+VIRTUAL Blah Blah. VIRTUAL Blah Blah.  
+Ayn..  
+VIRTUAL Blah Blah Blah...  
 Are you ready for...  
 
 惚れたら死ぬぞ?  
 
-Virtual Blah Blah.  
-Virtual Blah Blah.  
-Virtual Blah Blah.  
-Virtual Blah Blah.  
+VIRTUAL Blah Blah. VIRTUAL Blah Blah.  
+VIRTUAL Blah Blah. VIRTUAL Blah Blah.  
 
-Virtual Blah Blah.  
-Virtual Blah Blah.  
-(Wacha Wacha)  
-Virtual Blah Blah.  
-Umm,  
+VIRTUAL Blah Blah. VIRTUAL Blah Blah.  
+Wacha Wacha!!  
+VIRTUAL Blah Blah.  
 
-I'm a V  
+Umm, I'm a V  
 
 
 
