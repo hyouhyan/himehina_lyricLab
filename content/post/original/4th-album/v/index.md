@@ -2,8 +2,8 @@
 categories:
 - original
 - 4thalbum
-date: 2025-06-06
-image: https://img.youtube.com/vi/8vyb8kGQK70/maxresdefault.jpg
+date: 2025-06-13
+image: https://img.youtube.com/vi/7oE8YnXumMk/maxresdefault.jpg
 slug: v
 title: V
 ---
@@ -145,4 +145,4 @@ I'm a V
 
 ---
 
-{{< youtube 8vyb8kGQK70 >}}
+{{< youtube 7oE8YnXumMk >}}
