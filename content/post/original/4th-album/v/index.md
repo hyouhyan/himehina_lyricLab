@@ -22,7 +22,7 @@ Love That Blah Blah Blah.
 
 {{< hina >}}
 たかだか{{< ruby ナマラ >}}生裸{{< /ruby >}}の{{< ruby コントン >}}魂遁{{< /ruby >}}  
-さわらば{{< ruby カワ >}}可愛{{< /ruby >}}いの{{< ruby コントン >}}混沌{{< /ruby >}}  
+さわらば{{< ruby カワイ >}}可愛{{< /ruby >}}いの{{< ruby コントン >}}混沌{{< /ruby >}}  
 {{< ruby タカマガハラ >}}高天ヶ原{{< /ruby >}}からほら  
 {{< /hina >}}
 「{{< ruby オ >}}堕{{< /ruby >}}としてあげる」  
