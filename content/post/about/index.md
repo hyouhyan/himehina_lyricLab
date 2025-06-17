@@ -36,6 +36,9 @@ DMを送れない場合は、[hyouhyan@hyouhyan.com](mailto:hyouhyan@hyouhyan.co
 
 (詳しい方は[GitHub](https://github.com/hyouhyan/himehina_lyricLab)にPull Requestを送っていただいても構いません。)
 
+## パート分けについて
+パート分けはウタミタに関しては耳で頑張って聞き分けを、  
+オリソンに関しては[ララスタの配布倉庫](https://www.dropbox.com/scl/fo/ij6hm7oh2abzcb9xsf7zg/AGf8CgDwjZj5atbKP9PqoSM/01_SONG%26MOTION?rlkey=oo9pmwcrzv47dnyztcujszovz&subfolder_nav_tracking=1&st=bo4035mg&dl=0)を参考にまとめています。
 
 ## Links
 - [歌い方縛りカラオケルーレット](https://hyouhyan.github.io/singing-style-restricted-karaoke-roulette/)
