@@ -1,7 +1,7 @@
 ---
 title: 希織歌
 description: 2nd Album「希織歌」 収録曲 2021-07-21リリース
-image:
+image: /img/album/kiryca.jpg
 date: 2021-07-21
 
 # Badge style

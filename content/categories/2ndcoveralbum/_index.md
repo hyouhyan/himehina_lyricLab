@@ -1,7 +1,7 @@
 ---
 title: ヒメヒナウタミタ弐
 description: 2nd Cover Album「ヒメヒナウタミタ弐」 収録曲 2023-11-24リリース
-image:
+image: /img/album/utamita2nd.jpg
 date: 2023-11-24
 
 # Badge style
