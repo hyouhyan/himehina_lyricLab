@@ -1,10 +1,9 @@
 ---
 title: "風編み鳥"
-slug: kaze-ami-bird
+slug: windweaver
 categories:
     - original
     - 4thalbum
-tags: [live2024-08, live2025-03, wip, unreleased]
 date: 2024-08-03
 ---
 
@@ -32,12 +31,20 @@ date: 2024-08-03
 {{< /hina >}}
 {{< ruby さいご >}}最後{{< /ruby >}}のフライト  
 
+{{< hime >}}
 風を{{< ruby あ >}}編{{< /ruby >}}んで 風を{{< ruby あ >}}編{{< /ruby >}}んで ゆくんだね  
 {{< ruby ひ >}}陽{{< /ruby >}}の揺らる空へ  
+{{< /hime >}}
+{{< hina >}}
 風を{{< ruby よ >}}呼{{< /ruby >}}んで 風を{{< ruby よ >}}読{{< /ruby >}}んで ゆくんだぜ  
 見えやしない道へ  
+{{< /hina >}}
+{{< hime >}}
 この旅の{{< ruby は >}}果{{< /ruby >}}てにあるものがみたいなら  
+{{< /hime >}}
+{{< hina >}}
 肩を{{< ruby あ >}}組{{< /ruby >}}んで 風を{{< ruby あ >}}編{{< /ruby >}}んで ゆくんだぜ  
+{{< /hina >}}
 {{< hime >}}
 日の旗の{{< ruby ゆうくう >}}悠空{{< /ruby >}}へ  
 {{< /hime >}}
@@ -66,12 +73,20 @@ date: 2024-08-03
 {{< ruby よ >}}良{{< /ruby >}}かれを思った  
 {{< /hime >}}
 
+{{< hina >}}
 風は{{< ruby や >}}止{{< /ruby >}}んで 風は{{< ruby や >}}止{{< /ruby >}}んで {{< ruby くも >}}雲{{< /ruby >}}くらげ  
 {{< ruby ひ >}}陽{{< /ruby >}}の{{< ruby ねむ >}}眠{{< /ruby >}}る空へ  
+{{< /hina >}}
+{{< hime >}}
 愛は{{< ruby や >}}病{{< /ruby >}}んで {{< ruby "か" >}}嗄{{< /ruby >}}らしあって 雪に{{< ruby く >}}暗{{< /ruby >}}れ  
 春待ち{{< ruby うきねどり >}}浮寝鳥{{< /ruby >}}  
+{{< /hime >}}
+{{< hina >}}
 この冬の{{< ruby は >}}果{{< /ruby >}}てにあるものが{{< ruby しまい >}}終{{< /ruby >}}なら  
+{{< /hina >}}
+{{< hime >}}
 糸を{{< ruby あ >}}編{{< /ruby >}}んで {{< ruby かぜ >}}風{{< /ruby >}}に{{< ruby お >}}織{{< /ruby >}}って ゆくんだぜ  
+{{< /hime >}}
 {{< hina >}}
 また次の{{< ruby くうしゅん >}}空春{{< /ruby >}}へ  
 {{< /hina >}}
@@ -90,10 +105,20 @@ date: 2024-08-03
 生きて{{< ruby うた >}}詩{{< /ruby >}}と飛べ  
 {{< /hime >}}
 
+{{< hime >}}
 風を{{< ruby あ >}}編{{< /ruby >}}んで 風を{{< ruby あ >}}編{{< /ruby >}}んで ゆくんだね  
 {{< ruby ひ >}}陽{{< /ruby >}}の揺らる空へ  
+{{< /hime >}}
+{{< hina >}}
 風を{{< ruby よ >}}呼{{< /ruby >}}んで 風を{{< ruby よ >}}読{{< /ruby >}}んで ゆくんだぜ  
 見えやしない道へ  
+{{< /hina >}}
+{{< hime >}}
 この旅の{{< ruby は >}}果{{< /ruby >}}てにあるものが見たいから  
+{{< /hime >}}
+{{< hina >}}
 肩を{{< ruby あ >}}組{{< /ruby >}}んで 風を{{< ruby あ >}}編{{< /ruby >}}んで ゆくんだぜ  
+{{< /hina >}}
+{{< hime >}}
 日の旗の{{< ruby ゆうくう >}}悠空{{< /ruby >}}へ  
+{{< /hime >}}
