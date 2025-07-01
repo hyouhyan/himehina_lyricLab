@@ -1,11 +1,10 @@
 ---
 title: "絶望を翔る恒星"
-slug: zetubouwo-kakeru-kousei
+slug: stars-continue-to-fly-in-despair
 categories:
     - original
     - 4thalbum
-date: 2024-08-03
-tags: [WIP, live2024-08, unreleased]
+date: 2025-07-02
 ---
 
 {{< hina >}}
