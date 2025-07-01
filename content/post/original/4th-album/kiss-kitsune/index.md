@@ -4,7 +4,7 @@ categories:
 - 4thalbum
 date: 2025-03-02
 image: https://img.youtube.com/vi/GgOOykZcfnI/maxresdefault.jpg
-slug: kiss-fox
+slug: kiss-kitsune
 title: キスキツネ
 ---
 
