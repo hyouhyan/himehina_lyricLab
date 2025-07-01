@@ -4,7 +4,7 @@ categories:
 - 4thalbum
 date: 2025-07-02
 slug: soul-abyss
-title: "[WIP]魂にひそむ"
+title: "魂にひそむ"
 ---
 
 {{< hime >}}

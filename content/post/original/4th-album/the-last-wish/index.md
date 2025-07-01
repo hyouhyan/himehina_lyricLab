@@ -4,7 +4,7 @@ categories:
 - 4thalbum
 date: 2025-07-02
 slug: the-last-wish
-title: "[WIP]遺言"
+title: "遺言"
 ---
 
 {{< hime >}}

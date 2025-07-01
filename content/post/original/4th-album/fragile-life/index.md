@@ -4,7 +4,7 @@ categories:
 - 4thalbum
 date: 2025-07-02
 slug: fragile-life
-title: "[WIP]しゃぼんだま"
+title: "しゃぼんだま"
 ---
 
 しゃぼんだま とんだ そらまでとんで  

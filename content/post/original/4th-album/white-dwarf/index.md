@@ -4,7 +4,7 @@ categories:
 - 4thalbum
 date: 2025-07-02
 slug: white-dwarf
-title: "[WIP]生と詩"
+title: "生と詩"
 ---
 
 {{< hime >}}
