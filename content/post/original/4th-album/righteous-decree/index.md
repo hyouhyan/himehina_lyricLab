@@ -1,6 +1,6 @@
 ---
 title: "密命"
-slug: rightness-decree
+slug: righteous-decree
 categories:
     - original
     - 4thalbum
