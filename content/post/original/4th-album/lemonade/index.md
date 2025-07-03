@@ -36,14 +36,14 @@ title: Lemonade
 Come!! Come!!  
 {{< hina >}}
 Oh!! Thank You! レモネードのせいかな  
-{{< ruby す >}}好{{< /ruby >}}き味のときめきがした  
-{{< ruby なつざか >}}夏盛{{< /ruby >}}かりの{{< ruby そら >}}空{{< /ruby >}}に  
+{{< ruby す >}}好{{< /ruby >}}き{{< ruby あじ >}}味{{< /ruby >}}のときめきがした  
+{{< ruby なつざ >}}夏盛{{< /ruby >}}かりの{{< ruby そら >}}空{{< /ruby >}}に  
 {{< /hina >}}
 
 Fly!! Fly!!  
 {{< hime >}}
 Oh!! {{< ruby てんきゅう >}}天弓{{< /ruby >}}に{{< ruby な >}}泣{{< /ruby >}}く{{< ruby なないろ >}}七色{{< /ruby >}}の  
-{{< ruby す >}}好{{< /ruby >}}き味の{{< ruby おも >}}思{{< /ruby >}}い{{< ruby で >}}出{{< /ruby >}}たち{{< ruby の >}}飲{{< /ruby >}}みほして  
+{{< ruby す >}}好{{< /ruby >}}き{{< ruby あじ >}}味{{< /ruby >}}の{{< ruby おも >}}思{{< /ruby >}}い{{< ruby で >}}出{{< /ruby >}}たち{{< ruby の >}}飲{{< /ruby >}}みほして  
 {{< /hime >}}
 
 {{< hina >}}
@@ -138,7 +138,7 @@ Come!! Come!!
 {{< hime >}}
 Oh!! Thank You! レモネードのせいかな  
 {{< ruby す >}}好{{< /ruby >}}き{{< ruby あじ >}}味{{< /ruby >}}のときめきがした  
-{{< ruby なつざか >}}夏盛{{< /ruby >}}かりの{{< ruby そら >}}空{{< /ruby >}}に  
+{{< ruby なつざ >}}夏盛{{< /ruby >}}かりの{{< ruby そら >}}空{{< /ruby >}}に  
 {{< /hime >}}
 
 Fly!! Fly!!  
