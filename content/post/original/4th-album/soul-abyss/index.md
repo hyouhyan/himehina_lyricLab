@@ -111,7 +111,7 @@ All alone."
 でも{{< ruby げんそう >}}幻想{{< /ruby >}}に{{< ruby すが >}}縋{{< /ruby >}}って  
 {{< /hime >}}
 {{< hina >}}
-{{< ruby かすけ >}}幽{{< /ruby >}}き{{< ruby きぼう >}}希望{{< /ruby >}}を{{< ruby お >}}追{{< /ruby >}}って  
+{{< ruby かそけ >}}幽{{< /ruby >}}き{{< ruby きぼう >}}希望{{< /ruby >}}を{{< ruby お >}}追{{< /ruby >}}って  
 {{< /hina >}}
 {{< hime >}}
 {{< ruby あす >}}明日{{< /ruby >}}を{{< ruby しん >}}信{{< /ruby >}}じて{{< ruby い >}}生{{< /ruby >}}きていくのはさ  
