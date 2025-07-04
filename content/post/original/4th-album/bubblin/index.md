@@ -5,6 +5,7 @@ categories:
 date: 2025-07-02
 slug: bubblin
 title: "バブリン"
+image: https://img.youtube.com/vi/ZUoOLPH8X6Q/maxresdefault.jpg
 ---
 
 {{< hime >}}
@@ -157,3 +158,7 @@ CHU!!
 {{< /hina >}}
 
 {{< ruby あい >}}愛{{< /ruby >}}されたらまたバブリン CHU!!
+
+---
+
+{{< youtube ZUoOLPH8X6Q >}}
