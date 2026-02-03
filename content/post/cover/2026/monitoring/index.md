@@ -3,7 +3,7 @@ title: モニタリング
 slug: monitoring
 categories:
 - Cover
-# date: 2026-02-06
+date: 2026-02-06
 tags: [加賀美ハヤト, 狂蘭メロコ, 榊ネス, 火威青, 渡会雲雀]
 image: https://img.youtube.com/vi/rPmEkJfEyXY/maxresdefault.jpg
 ---
@@ -50,7 +50,7 @@ MWAH!
 もういいでしょう  
 ソロプレイはお{{< ruby しま >}}仕舞{{< /ruby >}}いなんだっだっだってば  
 
-きみが{{< ruby や >}}病{{< /ruby >}}めるときも あたし{{< ruby がわ >}}側{{< /ruby >}}にいるわ  
+きみが{{< ruby や >}}病{{< /ruby >}}めるときも あたし{{< ruby そば >}}側{{< /ruby >}}にいるわ  
 いつも{{< ruby みまも >}}見守{{< /ruby >}}っているわ そうよ {{< ruby こわ >}}怖{{< /ruby >}}くないのよ  
 
 MWAH!  
