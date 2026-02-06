@@ -3,7 +3,7 @@ title: ヤンキーボーイ・ヤンキーガール (feat. 加賀美ハヤト, 
 slug: yankeeboy-yankeegirl
 categories:
 - Cover
-# date: 2025-05-02
+date: 2025-05-02
 tags: [加賀美ハヤト, 狂蘭メロコ, 榊ネス, 火威青, 渡会雲雀]
 image: https://img.youtube.com/vi/GGwF2-BNqL0/maxresdefault.jpg
 ---
