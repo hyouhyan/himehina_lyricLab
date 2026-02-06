@@ -4,7 +4,6 @@ slug: monitoring
 categories:
 - Cover
 date: 2026-02-06
-tags: [加賀美ハヤト, 狂蘭メロコ, 榊ネス, 火威青, 渡会雲雀]
 image: https://img.youtube.com/vi/rPmEkJfEyXY/maxresdefault.jpg
 ---
 
