@@ -7,9 +7,9 @@ date: 2026-02-06
 image: https://img.youtube.com/vi/rPmEkJfEyXY/maxresdefault.jpg
 ---
 
-Key ??
+<!-- Key ??
 
----
+--- -->
 
 {{< hime >}}
 ねえあたし{{< ruby し >}}知{{< /ruby >}}ってるよ きみがひとり“XX”してるの{{< ruby し >}}知{{< /ruby >}}ってるよ  
