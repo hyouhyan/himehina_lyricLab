@@ -3,7 +3,7 @@ title: チェリーポップ
 slug: cherry-pop
 categories:
 - Cover
-date: 2025-10-25
+date: 2025-10-24
 image: https://img.youtube.com/vi/4uLErMRIfSs/maxresdefault.jpg
 ---
 
