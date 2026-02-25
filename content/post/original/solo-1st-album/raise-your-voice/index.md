@@ -1,6 +1,7 @@
 ---
 categories:
 - original
+- 1stsoloalbum
 date: 2023-08-07
 image: https://img.youtube.com/vi/2zM8A2PWl1U/maxresdefault.jpg
 slug: raise-your-voice

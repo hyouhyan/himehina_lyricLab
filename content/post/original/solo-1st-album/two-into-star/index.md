@@ -3,6 +3,7 @@ title: ふたり、星になれたら
 slug: two-into-star
 categories: 
 - original
+- 1stsoloalbum
 tags: [鈴木ソロ]
 date: 2026-02-25
 ---

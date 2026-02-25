@@ -4,6 +4,7 @@ slug: kimito-kanaderu-gosenfu
 categories:
     - original
     - 1stminialbum
+    - 1stsoloalbum
 tags: [鈴木ソロ]
 date: 2022-02-14
 ---

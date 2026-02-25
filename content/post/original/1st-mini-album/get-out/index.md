@@ -4,6 +4,7 @@ slug: get-out
 categories:
     - original
     - 1stminialbum
+    - 1stsoloalbum
 tags: [田中ソロ]
 date: 2022-02-14
 ---

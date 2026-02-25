@@ -3,6 +3,7 @@ title: 流星パーティーライド
 slug: ryusei-partyride
 categories: 
     - original
+    - 1stsoloalbum
 tags: [鈴木ソロ, live2024-08, unreleased]
 date: 2024-08-03
 ---

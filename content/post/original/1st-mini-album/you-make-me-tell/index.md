@@ -2,6 +2,7 @@
 categories:
 - original
 - 1stminialbum
+- 1stsoloalbum
 date: 2020-12-24
 image: https://img.youtube.com/vi/j4nPnJWoX2E/maxresdefault.jpg
 slug: you-make-me-tell

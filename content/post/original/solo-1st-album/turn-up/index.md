@@ -3,6 +3,7 @@ title: TURN UP
 slug: turn-up
 categories:
 - original
+- 1stsoloalbum
 tags: [田中ソロ]
 date: 2026-02-25
 ---
