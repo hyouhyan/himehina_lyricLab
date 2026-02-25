@@ -19,7 +19,7 @@ haha
 ほらこっちむいて もっとむいて  
 どっち{{< ruby む >}}向{{< /ruby >}}いてんだ  
 ハイハイ  
-お{{< ruby とくい >}}得意{{< /ruby >}}の{{< ruby いいわけ >}}言い訳{{< /ruby >}}はNo Good.  
+お{{< ruby とくい >}}得意{{< /ruby >}}の{{< ruby い >}}言{{< /ruby >}}い{{< ruby わけ >}}訳{{< /ruby >}}はNo Good.  
 
 {{< ruby み >}}魅{{< /ruby >}}せたげる アタシのAll darling  
 ってそんなんは{{< ruby じょうだん >}}冗談{{< /ruby >}}  
@@ -32,7 +32,8 @@ haha
 
 {{< ruby かいらく >}}快楽{{< /ruby >}}へTURN UP!  
 {{< ruby むしば >}}蝕{{< /ruby >}}むのDOWN and UPUP!  
-{{< ruby こえ >}}声{{< /ruby >}}をあげな a turn up - turn up  
+{{< ruby こえ >}}声{{< /ruby >}}をあげな  
+a turn up - turn up, a turn up - turn up  
 {{< ruby こんずい >}}魂髄{{< /ruby >}}ごと{{< ruby おぼ >}}溺{{< /ruby >}}れてwanna be  
 
 {{< ruby きず >}}傷{{< /ruby >}}つけて {{< ruby か >}}噛{{< /ruby >}}みついて  
@@ -48,7 +49,7 @@ It's mine for good.
 {{< ruby すが >}}縋{{< /ruby >}}りつく アタシのfolly darling  
 って{{< ruby うらぎ >}}裏切{{< /ruby >}}りは{{< ruby ろんがい >}}論外{{< /ruby >}}  
 {{< ruby よ >}}世{{< /ruby >}}{{< ruby そむ >}}背{{< /ruby >}}くeye to eye  
-ジャマな{{< ruby こ >}}子{{< /ruby >}}  
+ジャマな{{< ruby こ >}}子{{< /ruby >}} {{< ruby die >}}👎{{< /ruby >}}  
 
 ねぇ{{< ruby し >}}死{{< /ruby >}}ぬまで  
 {{< ruby に >}}逃{{< /ruby >}}げらんないでしょ?  
@@ -56,7 +57,8 @@ It's mine for good.
 
 {{< ruby えつらく >}}悦楽{{< /ruby >}}へTURN UP!  
 {{< ruby お >}}堕{{< /ruby >}}ちてくのDOWN and UPUP!  
-{{< ruby こえ >}}声{{< /ruby >}}をあげな a turn up - turn up  
+{{< ruby こえ >}}声{{< /ruby >}}をあげな  
+a turn up - turn up, a turn up - turn up  
 {{< ruby こんずい >}}魂髄{{< /ruby >}}ごと{{< ruby おぼ >}}溺{{< /ruby >}}れてwanna be  
 
 アタシじゃだめ?  
@@ -68,17 +70,16 @@ It's mine for good.
 
 {{< ruby かいらく >}}快楽{{< /ruby >}}へTURN UP!  
 {{< ruby むしば >}}蝕{{< /ruby >}}むのDOWN and UPUP!  
-{{< ruby こえ >}}声{{< /ruby >}}をあげな a turn up - turn up  
+{{< ruby こえ >}}声{{< /ruby >}}をあげな  
+a turn up - turn up, a turn up - turn up  
 {{< ruby こんずい >}}魂髄{{< /ruby >}}ごと{{< ruby おぼ >}}溺{{< /ruby >}}れさせて  
 
 クラクラ{{< ruby まいご >}}迷子{{< /ruby >}}は  
-do down,do down,do down  
+do down, do down, do down, oh  
 {{< ruby むちゅう >}}夢中{{< /ruby >}}になってね  
-turn up turn up  
-turn up! NO!  
+turn up, turn up, turn up! NO!  
 
 まだ{{< ruby き >}}効{{< /ruby >}}かないなら  
-more more more  
+more, more, more, oh  
 {{< ruby こころ >}}心{{< /ruby >}}まで{{< ruby そそ >}}注{{< /ruby >}}いで  
-turn up turn up  
-turn up Now!  
+turn up, turn up, turn up, Now!  
