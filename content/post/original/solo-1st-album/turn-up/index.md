@@ -75,7 +75,7 @@ It's mine for good.
 {{< ruby すが >}}縋{{< /ruby >}}りつく アタシのfolly darling  
 って{{< ruby うらぎ >}}裏切{{< /ruby >}}りは{{< ruby ろんがい >}}論外{{< /ruby >}}  
 {{< ruby よ >}}世{{< /ruby >}}{{< ruby そむ >}}背{{< /ruby >}}くeye to eye  
-ジャマな{{< ruby こ >}}子{{< /ruby >}} {{< ruby die >}}👎{{< /ruby >}}  
+ジャマな{{< ruby こ >}}子{{< /ruby >}} {{< ruby dive >}}👎{{< /ruby >}}  
 
 {{< /hime >}}
 
