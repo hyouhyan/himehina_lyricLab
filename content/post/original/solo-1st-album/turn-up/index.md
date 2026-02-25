@@ -4,7 +4,7 @@ slug: turn-up
 categories:
 - original
 - 1stsoloalbum
-tags: [田中ソロ]
+tags: [田中ソロ, ソロ曲]
 date: 2026-02-25
 ---
 

@@ -5,7 +5,7 @@ categories:
     - original
     - 1stminialbum
     - 1stsoloalbum
-tags: [鈴木ソロ]
+tags: [鈴木ソロ, ソロ曲]
 date: 2022-02-14
 ---
 

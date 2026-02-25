@@ -4,8 +4,8 @@ slug: realize-dream
 categories:
     - original
     - 1stsoloalbum
-tags: [田中ソロ, unreleased, live2024-08]
-date: 2024-08-03
+tags: [田中ソロ, ソロ曲]
+date: 2026-02-25
 ---
 
 {{< hime >}}

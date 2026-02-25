@@ -5,7 +5,7 @@ categories:
     - original
     - 1stminialbum
     - 1stsoloalbum
-tags: [田中ソロ]
+tags: [田中ソロ, ソロ曲]
 date: 2022-02-14
 ---
 

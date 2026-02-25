@@ -4,8 +4,8 @@ slug: ryusei-partyride
 categories: 
     - original
     - 1stsoloalbum
-tags: [鈴木ソロ, live2024-08, unreleased]
-date: 2024-08-03
+tags: [鈴木ソロ, ソロ曲]
+date: 2026-02-25
 ---
 
 {{< hina >}}

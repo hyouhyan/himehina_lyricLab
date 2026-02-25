@@ -4,7 +4,7 @@ slug: two-into-star
 categories: 
 - original
 - 1stsoloalbum
-tags: [鈴木ソロ]
+tags: [鈴木ソロ, ソロ曲]
 date: 2026-02-25
 ---
 {{< hina >}}

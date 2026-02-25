@@ -7,6 +7,7 @@ image: https://img.youtube.com/vi/bZAc2Fw4PX4/maxresdefault.jpg
 slug: karappo-no-hakoniwa
 tags:
 - 田中ソロ
+- ソロ曲
 title: 空っぽの箱庭
 ---
 
