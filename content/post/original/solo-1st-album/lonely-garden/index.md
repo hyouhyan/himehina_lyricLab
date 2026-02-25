@@ -1,11 +1,13 @@
 ---
 categories:
 - original
+- 1stsoloalbum
 date: 2023-08-07
 image: https://img.youtube.com/vi/bZAc2Fw4PX4/maxresdefault.jpg
 slug: karappo-no-hakoniwa
 tags:
 - 田中ソロ
+- ソロ曲
 title: 空っぽの箱庭
 ---
 

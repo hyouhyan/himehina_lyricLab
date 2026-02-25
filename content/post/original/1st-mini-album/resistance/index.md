@@ -2,6 +2,7 @@
 categories:
 - original
 - 1stminialbum
+- 1stsoloalbum
 date: 2021-11-05
 image: https://img.youtube.com/vi/vy86yXPWqbg/maxresdefault.jpg
 slug: resistance
