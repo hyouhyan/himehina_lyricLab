@@ -1,10 +1,12 @@
 ---
 title: 流星パーティーライド
-slug: ryusei-partyride
+slug: meteor-party-ride
 categories: 
     - original
     - 1stsoloalbum
 tags: [鈴木ソロ, ソロ曲]
+aliases:
+- ryusei-partyride
 date: 2026-02-25
 ---
 
