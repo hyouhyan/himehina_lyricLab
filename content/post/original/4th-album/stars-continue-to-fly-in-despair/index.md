@@ -4,6 +4,8 @@ slug: stars-continue-to-fly-in-despair
 categories:
     - original
     - 4thalbum
+aliases:
+- zetubouwo-kakeru-kousei
 date: 2025-07-02
 ---
 

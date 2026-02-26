@@ -5,6 +5,8 @@ categories:
 date: 2025-03-02
 image: https://img.youtube.com/vi/GgOOykZcfnI/maxresdefault.jpg
 slug: kiss-kitsune
+aliases:
+- kiss-fox
 title: キスキツネ
 ---
 
