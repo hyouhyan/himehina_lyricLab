@@ -7,7 +7,7 @@ date: 2026-03-27
 image: https://img.youtube.com/vi/ljaVp17kSr4/maxresdefault.jpg
 ---
 
-Key ??
+Key +6
 
 
 {{< hime >}}
