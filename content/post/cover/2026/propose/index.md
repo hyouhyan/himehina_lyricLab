@@ -13,7 +13,7 @@ Key ??
 
 
 {{< hime >}}
-例えば{{< ruby きみ >}}君{{< /ruby >}}が{{< ruby あした >}}明日{{< /ruby >}}{{< ruby し >}}死{{< /ruby >}}ぬなら  
+{{< ruby たと >}}例{{< /ruby >}}えば{{< ruby きみ >}}君{{< /ruby >}}が{{< ruby あした >}}明日{{< /ruby >}}{{< ruby し >}}死{{< /ruby >}}ぬなら  
 {{< ruby ぼく >}}僕{{< /ruby >}}は{{< ruby いま >}}今{{< /ruby >}}から{{< ruby わら >}}笑{{< /ruby >}}って{{< ruby と >}}飛{{< /ruby >}}び{{< ruby こ >}}込{{< /ruby >}}めるだろう  
 {{< /hime >}}
 {{< hina >}}
