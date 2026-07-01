@@ -70,8 +70,8 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = false
-provider = "disqus"
+enabled = true
+provider = "remark42"
 
 [comments.disqusjs]
 shortname = ""
@@ -86,9 +86,9 @@ issueTerm = "pathname"
 label = ""
 
 [comments.remark42]
-host = ""
-site = ""
-locale = ""
+host = "http://engawa:9003" # ローカル検証時。本番運用時は実際のURLに変更
+site = "hugo-stack"            # compose.ymlのSITEに設定した値と完全一致させる
+locale = "ja"                  # UIを日本語化する
 
 [comments.vssue]
 platform = ""
