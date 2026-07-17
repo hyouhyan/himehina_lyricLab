@@ -25,146 +25,146 @@ Hakos Baelz
 
 
 {{< hime >}}
-この路地を抜けろAwake now  
+この{{< ruby ろじ >}}路地{{< /ruby >}}を{{< ruby ぬ >}}抜{{< /ruby >}}けろAwake now
 {{< /hime >}}
-(僕ら覚醒 アップデート ey)  
+({{< ruby ぼく >}}僕{{< /ruby >}}ら{{< ruby かくせい >}}覚醒{{< /ruby >}} アップデート ey)
 
 {{< hime >}}
-ギラギラ光らせた いいないいなそのカラット  
+ギラギラ{{< ruby ひか >}}光{{< /ruby >}}らせた いいないいなそのカラット
 {{< /hime >}}
 {{< part-6 >}}
-目立っちゃうな自然に視線を独り占め  
+{{< ruby めだ >}}目立{{< /ruby >}}っちゃうな{{< ruby しぜん >}}自然{{< /ruby >}}に{{< ruby しせん >}}視線{{< /ruby >}}を{{< ruby ひと >}}独{{< /ruby >}}り{{< ruby じ >}}占{{< /ruby >}}め
 {{< /part-6 >}}
 {{< hina >}}
-この手口は盗めない  
+この{{< ruby てぐち >}}手口{{< /ruby >}}は{{< ruby ぬす >}}盗{{< /ruby >}}めない
 {{< /hina >}}
 
 {{< part-6 >}}{{< hina b >}}
-答えなら「好きなだけ」が極まってく  
-一秒前完全アップデート ya ya  
+{{< ruby こた >}}答{{< /ruby >}}えなら「{{< ruby す >}}好{{< /ruby >}}きなだけ」が{{< ruby きわ >}}極{{< /ruby >}}まってく
+{{< ruby いちびょう >}}一秒{{< /ruby >}}{{< ruby まえ >}}前{{< /ruby >}}{{< ruby かんぜん >}}完全{{< /ruby >}}アップデート ya ya
 {{< /hina >}}{{< /part-6 >}}
 {{< hime >}}
-不安ぐっばい 自分以外は敵じゃない  
+{{< ruby ふあん >}}不安{{< /ruby >}}ぐっばい {{< ruby じぶん >}}自分{{< /ruby >}}{{< ruby いがい >}}以外{{< /ruby >}}は{{< ruby てき >}}敵{{< /ruby >}}じゃない
 {{< /hime >}}
 {{< hina >}}
-お利口御無用 指を立てろ  
+お{{< ruby りこう >}}利口{{< /ruby >}}{{< ruby ごむよう >}}御無用{{< /ruby >}} {{< ruby ゆび >}}指{{< /ruby >}}を{{< ruby た >}}立{{< /ruby >}}てろ
 {{< /hina >}}
 
 {{< hime >}}
-Ha~ 揺れろ運命 Ah~ あたしらしいウルトラC  
+Ha~ {{< ruby ゆ >}}揺{{< /ruby >}}れろ{{< ruby うんめい >}}運命{{< /ruby >}} Ah~ あたしらしいウルトラC
 {{< /hime >}}
 {{< hina >}}{{< part-6 b >}}
-その感情を燃料に持ち込む延長戦へ全能  
+その{{< ruby かんじょう >}}感情{{< /ruby >}}を{{< ruby ねんりょう >}}燃料{{< /ruby >}}に{{< ruby も >}}持{{< /ruby >}}ち{{< ruby こ >}}込{{< /ruby >}}む{{< ruby えんちょうせん >}}延長戦{{< /ruby >}}へ{{< ruby ぜんのう >}}全能{{< /ruby >}}
 {{< /part-6 >}}{{< /hina >}}
 
 {{< hime >}}
 {{< part-6 b >}}
-嗚呼、体が  
+{{< ruby ああ >}}嗚呼{{< /ruby >}}、{{< ruby からだ >}}体{{< /ruby >}}が
 {{< /part-6 >}}
 {{< /hime >}}
 
-この生き様で Make some noise  
-見舞う We gotta go メディカルボイス  
+この{{< ruby い >}}生{{< /ruby >}}き{{< ruby ざま >}}様{{< /ruby >}}で Make some noise
+{{< ruby みま >}}見舞{{< /ruby >}}う We gotta go メディカルボイス
 {{< part-6 >}}
-宿した熱狂は伝播する 真っ向から着弾  
+{{< ruby やど >}}宿{{< /ruby >}}した{{< ruby ねっきょう >}}熱狂{{< /ruby >}}は{{< ruby でんぱ >}}伝播{{< /ruby >}}する {{< ruby ま >}}真{{< /ruby >}}っ{{< ruby こう >}}向{{< /ruby >}}から{{< ruby ちゃくだん >}}着弾{{< /ruby >}}
 {{< /part-6 >}}
 {{< hime >}}{{< hina b >}}
-もらうわ大歓声 
+もらうわ{{< ruby だいかんせい >}}大歓声{{< /ruby >}}
 {{< /hina >}}{{< /hime >}}
-(Burn out na na uh!)  
+(Burn out na na uh!)
 
 {{< hina >}}
-What I want to touch down 
+What I want to touch down
 {{< /hina >}}
-(燃やせ革命 アップデート hey)  
+({{< ruby も >}}燃{{< /ruby >}}やせ{{< ruby かくめい >}}革命{{< /ruby >}} アップデート hey)
 {{< hime >}}
-Go all out 
+Go all out
 {{< /hime >}}
-(僕が覚醒、逆転 ey)  
+({{< ruby ぼく >}}僕{{< /ruby >}}が{{< ruby かくせい >}}覚醒{{< /ruby >}}、{{< ruby ぎゃくてん >}}逆転{{< /ruby >}} ey)
 
 {{< part-6 >}}
-ひとりきりじゃ Just kidding 
+ひとりきりじゃ Just kidding
 {{< /part-6 >}}
 {{< hime >}}{{< hina b >}}
-君とだから Dreaming  
+{{< ruby きみ >}}君{{< /ruby >}}とだから Dreaming
 {{< /hina >}}{{< /hime >}}
 {{< hime >}}
-間違いだらけ 
+{{< ruby まちが >}}間違{{< /ruby >}}いだらけ
 {{< /hime >}}
 {{< part-6 >}}
-勘違いもして 
+{{< ruby かんちが >}}勘違{{< /ruby >}}いもして
 {{< /part-6 >}}
 {{< hina >}}
-ときめきをリテイク  
+ときめきをリテイク
 {{< /hina >}}
 
 {{< hime >}}
-ey 失っても 
+ey {{< ruby うしな >}}失{{< /ruby >}}っても
 {{< hina b >}}
-尚コンティニュー 
+{{< ruby なお >}}尚{{< /ruby >}}コンティニュー
 {{< /hina >}}
 {{< /hime >}}
 {{< part-6 >}}
-支払った
+{{< ruby しはら >}}支払{{< /ruby >}}った
 {{< hina b >}}
-代償の自分  
+{{< ruby だいしょう >}}代償{{< /ruby >}}の{{< ruby じぶん >}}自分{{< /ruby >}}
 {{< /hina >}}
 {{< /part-6 >}}
 {{< hina >}}
-あの日に…
+あの{{< ruby ひ >}}日{{< /ruby >}}に…
 {{< /hina >}}
 {{< hime >}}
 uh
-{{< /hime >}} 
+{{< /hime >}}
 {{< hime >}}{{< part-6 b >}}
-してないわけない後悔  
+してないわけない{{< ruby こうかい >}}後悔{{< /ruby >}}
 {{< /part-6 >}}{{< /hime >}}
 {{< part-6 >}}
-胸に飾れ (ay) 
+{{< ruby むね >}}胸{{< /ruby >}}に{{< ruby かざ >}}飾{{< /ruby >}}れ (ay)
 {{< /part-6 >}}
 {{< hime >}}
-前向き直せ (ay, ay) 
+{{< ruby まえむ >}}前向{{< /ruby >}}き{{< ruby なお >}}直{{< /ruby >}}せ (ay, ay)
 {{< /hime >}}
 {{< hina >}}
-唱えて
+{{< ruby とな >}}唱{{< /ruby >}}えて
 {{< /hina >}}
 {{< hime >}}
-(諦め悪いって？) 
+({{< ruby あきら >}}諦{{< /ruby >}}め{{< ruby わる >}}悪{{< /ruby >}}いって？)
 {{< /hime >}}
 {{< part-6 >}}{{< hime b >}}
-信じてくれ  
+{{< ruby しん >}}信{{< /ruby >}}じてくれ
 {{< /hime >}}{{< /part-6 >}}
 
 {{< hina >}}
-青く燃ゆる僕は炎 
+{{< ruby あお >}}青{{< /ruby >}}く{{< ruby も >}}燃{{< /ruby >}}ゆる{{< ruby ぼく >}}僕{{< /ruby >}}は{{< ruby ほのお >}}炎{{< /ruby >}}
 {{< /hina >}}
 {{< hime >}}
-時は経てど恋うは心  
+{{< ruby とき >}}時{{< /ruby >}}は{{< ruby へ >}}経{{< /ruby >}}てど{{< ruby こう >}}恋{{< /ruby >}}うは{{< ruby こころ >}}心{{< /ruby >}}
 {{< /hime >}}
 {{< part-6 >}}
-誰だ誰だ誰だあたしだ 
+{{< ruby だれ >}}誰{{< /ruby >}}だ{{< ruby だれ >}}誰{{< /ruby >}}だ{{< ruby だれ >}}誰{{< /ruby >}}だあたしだ
 {{< /part-6 >}}
 {{< part-6 >}}{{< hina b >}}
-さあお任せ  
+さあお{{< ruby まか >}}任{{< /ruby >}}せ
 {{< /hina >}}{{< /part-6 >}}
-(Burn out na na uh!) Ha~  
+(Burn out na na uh!) Ha~
 
-抜ける茨 BAE! Make some noise  
-有終の美 Get up!(Get up!) Hey, Raise the bro    
+{{< ruby ぬ >}}抜{{< /ruby >}}ける{{< ruby いばら >}}茨{{< /ruby >}} BAE! Make some noise
+{{< ruby ゆうしゅう >}}有終{{< /ruby >}}の{{< ruby び >}}美{{< /ruby >}} Get up!(Get up!) Hey, Raise the bro
 {{< hime >}}{{< hina b >}}
-臆した逆境に下剋上 とうとう役満  
-あげるわ大団円！ 
+{{< ruby おく >}}臆{{< /ruby >}}した{{< ruby ぎゃっきょう >}}逆境{{< /ruby >}}に{{< ruby げこくじょう >}}下剋上{{< /ruby >}} とうとう{{< ruby やくまん >}}役満{{< /ruby >}}
+あげるわ{{< ruby だいだんえん >}}大団円{{< /ruby >}}！
 {{< /hina >}}{{< /hime >}}
-(Burn out na na uh!)  
+(Burn out na na uh!)
 
 {{< hime >}}{{< part-6 b >}}
-What I want to touch down 
+What I want to touch down
 {{< /part-6 >}}{{< /hime >}}
-(燃やせ革命 アップデート hey)  
+({{< ruby も >}}燃{{< /ruby >}}やせ{{< ruby かくめい >}}革命{{< /ruby >}} アップデート hey)
 {{< hina >}}{{< part-6 b >}}
-Go all out 
+Go all out
 {{< /part-6 >}}{{< /hina >}}
-(僕が覚醒、逆転 ey)  
+({{< ruby ぼく >}}僕{{< /ruby >}}が{{< ruby かくせい >}}覚醒{{< /ruby >}}、{{< ruby ぎゃくてん >}}逆転{{< /ruby >}} ey)
 
 ---
 
