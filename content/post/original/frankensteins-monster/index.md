@@ -4,6 +4,7 @@ categories:
 date: 2026-07-31
 slug: frankensteins-monster
 title: "フランケンシュタインの怪物"
+image: https://img.youtube.com/vi/J66gqneY518/maxresdefault.jpg
 ---
 
 バラバラのカラダだな  
@@ -150,3 +151,7 @@ Out of Control
 ア”ー  
 
 ア”ー
+
+---
+
+{{< youtube J66gqneY518 >}}
