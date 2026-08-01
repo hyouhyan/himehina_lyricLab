@@ -16,6 +16,8 @@ Moanin' & Rollin' & Lone
 
 ア”ー  
 
+👏👏
+
 {{< hime >}}
 うまらねぇ{{< ruby こた >}}答{{< /ruby >}}えでも{{< ruby ほ >}}欲{{< /ruby >}}しがった  
 {{< /hime >}}
@@ -57,6 +59,8 @@ Moanin' & Rollin' & Lone
 ワレハダレダと{{< ruby おど >}}踊{{< /ruby >}}った  
 {{< /hime >}}
 
+👏👏
+
 {{< hina >}}
 あららフランケンシュタイン is モーニロリロン  
 {{< ruby あほう >}}阿呆{{< /ruby >}}らしや{{< ruby しん >}}真{{< /ruby >}}{{< ruby じぶん >}}自分{{< /ruby >}}{{< ruby さが >}}探{{< /ruby >}}し  
@@ -64,6 +68,8 @@ Moanin' & Rollin' & Lone
 {{< ruby い >}}生{{< /ruby >}}きてりゃ{{< ruby い >}}言{{< /ruby >}}われらモン‥モンスタァ  
 {{< /hina >}}
 ア”ー  
+
+👏👏
 
 {{< hime >}}
 {{< ruby ひと >}}独{{< /ruby >}}りで{{< ruby さび >}}寂{{< /ruby >}}しく{{< ruby う >}}生{{< /ruby >}}まれて{{< ruby い >}}生{{< /ruby >}}きては{{< ruby ひと >}}人{{< /ruby >}}を{{< ruby うらや >}}羨{{< /ruby >}}んで{{< ruby な >}}泣{{< /ruby >}}いて  
@@ -100,6 +106,8 @@ Out of Control
 {{< ruby ぬ >}}濡{{< /ruby >}}れた{{< ruby ひとみ >}}瞳{{< /ruby >}}でバラバラのココロ{{< ruby あつ >}}集{{< /ruby >}}めて  
 キミは{{< ruby やさ >}}優{{< /ruby >}}しく{{< ruby わら >}}笑{{< /ruby >}}った  
 {{< /hina >}}
+
+👏👏
 
 {{< hime >}}
 カカカ{{< ruby かんぜん >}}完全{{< /ruby >}}な{{< ruby じんせい >}}人生{{< /ruby >}}{{< ruby めざ >}}目指{{< /ruby >}}して  
@@ -140,6 +148,8 @@ Out of Control
 ワレハワレダと{{< ruby おど >}}踊{{< /ruby >}}った  
 {{< /hime >}}
 
+👏👏
+
 {{< hina >}}
 さらばフランケンシュタインお{{< ruby わか >}}別{{< /ruby >}}れだ  
 ありがとな{{< ruby じぶん >}}自分{{< /ruby >}}{{< ruby さが >}}探{{< /ruby >}}し  
@@ -151,6 +161,8 @@ Out of Control
 いつかなれるかなスーパースタァ  
 {{< /hime >}}
 ア”ー  
+
+👏👏
 
 ア”ー
 
