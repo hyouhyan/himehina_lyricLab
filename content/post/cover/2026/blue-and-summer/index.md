@@ -3,7 +3,7 @@ title: 青と夏
 slug: blue-and-summer
 categories:
 - Cover
-date: 2026-06-14
+date: 2026-08-14
 image: https://img.youtube.com/vi/XuTH2Xif4aY/maxresdefault.jpg
 ---
 
