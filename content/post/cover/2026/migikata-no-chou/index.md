@@ -3,7 +3,7 @@ title: 右肩の蝶
 slug: migikata-no-chou
 categories:
 - Cover
-date: 2026-09-08
+date: 2026-09-11
 image: https://img.youtube.com/vi/T2oo3uNyR8s/maxresdefault.jpg
 ---
 
