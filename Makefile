@@ -1,5 +1,5 @@
 run:
-	hugo server --enableGitInfo
+	hugo server --enableGitInfo -D -F
 
-full: 
-	hugo server --enableGitInfo --disableFastRender
+full:
+	hugo server --enableGitInfo -D -F --disableFastRender
