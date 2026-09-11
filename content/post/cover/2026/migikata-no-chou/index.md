@@ -7,7 +7,7 @@ date: 2026-09-11
 image: https://img.youtube.com/vi/T2oo3uNyR8s/maxresdefault.jpg
 ---
 
-Key ??
+Key +-0 (レン ver)
 
 ---
 
