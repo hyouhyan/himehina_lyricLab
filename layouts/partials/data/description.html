@@ -1,0 +1,26 @@
+<!-- Use site subtitle by default -->
+{{ $description := .Site.Params.sidebar.subtitle }}
+
+<!-- Seprate description exists -->
+{{ if .Site.Params.description }}
+    {{ $description = .Site.Params.description }}
+{{ end }}
+
+{{ if .Description }}
+    <!-- Page description exists -->
+    {{ $description = .Description }}
+{{ else if .IsPage }}
+    <!-- Use page summary -->
+    {{ $description = .Summary }}
+{{ end }}
+
+<!-- ルビの読み仮名(rt)と代替括弧(rp)を落として、漢字だけ残す -->
+{{ $description = replaceRE `(?s)<r[pt](?:\s[^>]*)?>.*?</r[pt]>` "" $description }}
+
+<!-- タグを剥がす (plainify は br や /p を改行に変換する) -->
+{{ $description = plainify $description }}
+
+<!-- 改行や全角スペースを含む連続した空白を半角スペース1つに畳む -->
+{{ $description = replaceRE `[\s\p{Zs}]+` " " $description }}
+
+{{ return (trim $description " ") }}
