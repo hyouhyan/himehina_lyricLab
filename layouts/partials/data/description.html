@@ -16,7 +16,7 @@
     <!-- Use page summary -->
     {{ $description = .Summary }}
     {{ if in .Site.Params.mainSections .Section }}
-        {{ $prefix = printf "%s ヒメヒナ パート分け" .Title }}
+        {{ $prefix = printf "「%s」 ヒメヒナ パート分け" .Title }}
     {{ end }}
 {{ end }}
 
