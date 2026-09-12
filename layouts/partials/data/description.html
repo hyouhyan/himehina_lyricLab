@@ -6,12 +6,18 @@
     {{ $description = .Site.Params.description }}
 {{ end }}
 
+<!-- 楽曲ページの説明文の先頭に付ける一文 -->
+{{ $prefix := "" }}
+
 {{ if .Description }}
     <!-- Page description exists -->
     {{ $description = .Description }}
 {{ else if .IsPage }}
     <!-- Use page summary -->
     {{ $description = .Summary }}
+    {{ if in .Site.Params.mainSections .Section }}
+        {{ $prefix = printf "ヒメヒナ「%s」の歌詞をパート分けして掲載。" .Title }}
+    {{ end }}
 {{ end }}
 
 <!-- ルビの読み仮名(rt)と代替括弧(rp)を落として、漢字だけ残す -->
@@ -22,5 +28,10 @@
 
 <!-- 改行や全角スペースを含む連続した空白を半角スペース1つに畳む -->
 {{ $description = replaceRE `[\s\p{Zs}]+` " " $description }}
+{{ $description = trim $description " " }}
 
-{{ return (trim $description " ") }}
+{{ with $prefix }}
+    {{ $description = printf "%s%s" . $description }}
+{{ end }}
+
+{{ return $description }}

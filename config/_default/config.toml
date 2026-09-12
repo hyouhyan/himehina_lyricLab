@@ -1,6 +1,6 @@
 # Change baseurl before deploy
 baseurl = "https://himehina.hyouhyan.com"
-languageCode = "ja"
+locale = "ja"
 title = "HIMEHINA Lyric LAB"
 
 timeZone = "Asia/Tokyo"
