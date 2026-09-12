@@ -8,7 +8,7 @@ https://himehina.hyouhyan.com
 
 ## ローカルで動かす
 
-Go と Hugo extended が必要です。
+Go と Hugo extended (v0.158.0 以上) が必要です。
 
 ```bash
 make run    # http://localhost:1313
