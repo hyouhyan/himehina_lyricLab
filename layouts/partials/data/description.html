@@ -6,7 +6,7 @@
     {{ $description = .Site.Params.description }}
 {{ end }}
 
-<!-- 楽曲ページの先頭に付ける「{楽曲名} ヒメヒナ パート分け」 -->
+<!-- 楽曲ページの説明文の先頭に付ける一文 -->
 {{ $prefix := "" }}
 
 {{ if .Description }}
@@ -16,7 +16,7 @@
     <!-- Use page summary -->
     {{ $description = .Summary }}
     {{ if in .Site.Params.mainSections .Section }}
-        {{ $prefix = printf "「%s」 ヒメヒナ パート分け" .Title }}
+        {{ $prefix = printf "ヒメヒナ「%s」の歌詞をパート分けして掲載。" .Title }}
     {{ end }}
 {{ end }}
 
@@ -31,7 +31,7 @@
 {{ $description = trim $description " " }}
 
 {{ with $prefix }}
-    {{ $description = cond (eq $description "") . (printf "%s | %s" . $description) }}
+    {{ $description = printf "%s%s" . $description }}
 {{ end }}
 
 {{ return $description }}
