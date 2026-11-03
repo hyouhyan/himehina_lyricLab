@@ -6,7 +6,6 @@ categories:
 - Cover
 tags: [森カリオペ, 常闇トワ]
 youtube_id: X8ZP3g9_MZ0
-draft: true
 ---
 
 Key +-0
