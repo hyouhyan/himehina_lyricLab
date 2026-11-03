@@ -1,6 +1,8 @@
 ---
 title: 君と奏でる五線譜
-slug: kimito-kanaderu-gosenfu
+slug: fluffy-staves
+aliases:
+- kimito-kanaderu-gosenfu
 categories:
     - original
     - 1stminialbum
