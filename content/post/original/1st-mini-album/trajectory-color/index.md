@@ -5,7 +5,9 @@ categories:
 - 1stsoloalbum
 date: 2020-12-24
 image: https://img.youtube.com/vi/GF1vrjCBpeo/maxresdefault.jpg
-slug: kiseki-color
+slug: trajectory-color
+aliases:
+- kiseki-color
 tags:
 - ソロ曲
 - 田中ソロ
